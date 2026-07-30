@@ -1,0 +1,50 @@
+[
+  {
+    "confidence": "medium",
+    "contradicting_evidence": [],
+    "created": "2026-07-29",
+    "derived_from": [
+      "HY-AICODING-2026-7C2D"
+    ],
+    "id": "TH-AICODING-2026-44D0",
+    "path": "research/theories/TH-AICODING-2026-44D0--net-value-balance-theory.md",
+    "research_area": "ai-assisted-development",
+    "status": "candidate",
+    "superseded_by": [],
+    "supersedes": [],
+    "supporting_evidence": [
+      "EV-AICODING-2026-10A1",
+      "EV-AICODING-2026-3B8F",
+      "EV-AICODING-2026-6E21",
+      "EV-AICODING-2026-C940",
+      "EV-AICODING-2026-F5D2"
+    ],
+    "title": "Net-value balance theory of AI-assisted software work",
+    "updated": "2026-07-29",
+    "version": "0.1.0"
+  },
+  {
+    "confidence": "low",
+    "contradicting_evidence": [
+      "EV-HANDOFF-2026-B6E8"
+    ],
+    "created": "2026-07-29",
+    "derived_from": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "id": "TH-HANDOFF-2026-81C0",
+    "path": "research/theories/TH-HANDOFF-2026-81C0--externalized-task-state.md",
+    "research_area": "engineering-handoff",
+    "status": "candidate",
+    "superseded_by": [],
+    "supersedes": [],
+    "supporting_evidence": [
+      "EV-HANDOFF-2026-2A10",
+      "EV-HANDOFF-2026-4F92",
+      "EV-HANDOFF-2026-73D4"
+    ],
+    "title": "Externalized task-state theory",
+    "updated": "2026-07-29",
+    "version": "0.1.0"
+  }
+]

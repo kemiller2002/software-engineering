@@ -1,0 +1,870 @@
+[
+  {
+    "confidence": "high",
+    "contradicts": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-A11Y-2026-58E0",
+    "path": "research/evidence/EV-A11Y-2026-58E0--cognitive-accessibility-guidance.md",
+    "related_theories": [],
+    "research_area": "accessibility",
+    "retrieved": "2026-07-29",
+    "source_author": "W3C Cognitive and Learning Disabilities Accessibility Task Force",
+    "source_date": "2021-04-29",
+    "source_title": "Use Clear and Understandable Content",
+    "source_uri": "https://www.w3.org/WAI/WCAG2/supplemental/objectives/o3-clear-content/",
+    "supports": [],
+    "tags": [
+      "accessibility",
+      "cognitive",
+      "clear-language"
+    ],
+    "title": "Cognitive accessibility requires clear understandable adaptable content"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-AI-COMM-2026-3D6F",
+    "path": "research/evidence/EV-AI-COMM-2026-3D6F--summary-factuality-tradeoff.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "ai-mediated-communication",
+    "retrieved": "2026-07-29",
+    "source_author": "Amazon Science research team",
+    "source_date": "2024-01-01",
+    "source_title": "Evaluating the tradeoff between abstractiveness and factuality in abstractive summarization",
+    "source_uri": "https://www.amazon.science/publications/evaluating-the-tradeoff-between-abstractiveness-and-factuality-in-abstractive-summarization",
+    "supports": [],
+    "tags": [
+      "summarization",
+      "factuality",
+      "abstraction"
+    ],
+    "title": "Greater abstractive summarization trades against factuality"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-AI-COMM-2026-D120",
+    "path": "research/evidence/EV-AI-COMM-2026-D120--factuality-metrics-limited.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "ai-mediated-communication",
+    "retrieved": "2026-07-29",
+    "source_author": "NeurIPS 2025 research team",
+    "source_date": "2025-12-01",
+    "source_title": "Do Automatic Factuality Metrics Measure Factuality",
+    "source_uri": "https://papers.nips.cc/paper_files/paper/2025/hash/bebbb473262112fdd8382c37a90d224b-Abstract-Conference.html",
+    "supports": [],
+    "tags": [
+      "factuality",
+      "evaluation",
+      "ai"
+    ],
+    "title": "Automatic factuality metrics do not reliably measure all factuality failures"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-AICODING-2026-10A1",
+    "path": "research/evidence/EV-AICODING-2026-10A1--github-controlled-http-task.md",
+    "related_theories": [
+      "TH-AICODING-2026-44D0"
+    ],
+    "research_area": "ai-assisted-development",
+    "retrieved": "2026-07-29",
+    "source_author": "GitHub Research",
+    "source_date": "2022-09-07",
+    "source_title": "Quantifying GitHub Copilot's impact on developer productivity and happiness",
+    "source_uri": "https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/",
+    "supports": [
+      "HY-AICODING-2026-7C2D"
+    ],
+    "tags": [
+      "controlled-study",
+      "productivity",
+      "vendor-study"
+    ],
+    "title": "GitHub controlled HTTP-server task reported faster completion with Copilot"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-AICODING-2026-3B8F",
+    "path": "research/evidence/EV-AICODING-2026-3B8F--metr-experienced-maintainers-rct.md",
+    "related_theories": [
+      "TH-AICODING-2026-44D0"
+    ],
+    "research_area": "ai-assisted-development",
+    "retrieved": "2026-07-29",
+    "source_author": "Joel Becker, Nate Rush, Beth Barnes, and David Rein",
+    "source_date": "2025-07-10",
+    "source_title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
+    "source_uri": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+    "supports": [
+      "HY-AICODING-2026-7C2D"
+    ],
+    "tags": [
+      "randomized-controlled-trial",
+      "maintenance",
+      "productivity"
+    ],
+    "title": "METR RCT found early-2025 AI slowed experienced maintainers"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-AICODING-2026-6E21",
+    "path": "research/evidence/EV-AICODING-2026-6E21--dora-individual-team-paradox.md",
+    "related_theories": [
+      "TH-AICODING-2026-44D0"
+    ],
+    "research_area": "ai-assisted-development",
+    "retrieved": "2026-07-29",
+    "source_author": "DORA",
+    "source_date": 2024,
+    "source_title": "Impact of Generative AI in Software Development",
+    "source_uri": "https://dora.dev/ai/gen-ai-report/report/",
+    "supports": [
+      "HY-AICODING-2026-7C2D"
+    ],
+    "tags": [
+      "industrial-study",
+      "delivery-performance",
+      "survey"
+    ],
+    "title": "DORA found positive individual perceptions alongside weaker delivery outcomes"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-AICODING-2026-C940",
+    "path": "research/evidence/EV-AICODING-2026-C940--holistic-review-gap.md",
+    "related_theories": [
+      "TH-AICODING-2026-44D0"
+    ],
+    "research_area": "ai-assisted-development",
+    "retrieved": "2026-07-29",
+    "source_author": "METR",
+    "source_date": "2025-08-13",
+    "source_title": "Research Update - Algorithmic vs. Holistic Evaluation",
+    "source_uri": "https://metr.org/blog/2025-08-12-research-update-towards-reconciling-slowdown-with-time-horizons/",
+    "supports": [
+      "HY-AICODING-2026-7C2D"
+    ],
+    "tags": [
+      "evaluation",
+      "quality",
+      "benchmark-validity"
+    ],
+    "title": "Passing tests overstated agent merge readiness on realistic tasks"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-AICODING-2026-F5D2",
+    "path": "research/evidence/EV-AICODING-2026-F5D2--late-2025-selection-bias.md",
+    "related_theories": [
+      "TH-AICODING-2026-44D0"
+    ],
+    "research_area": "ai-assisted-development",
+    "retrieved": "2026-07-29",
+    "source_author": "Joel Becker, Nate Rush, Tom Cunningham, David Rein, and Khalid Mahamud",
+    "source_date": "2026-02-24",
+    "source_title": "We are Changing our Developer Productivity Experiment Design",
+    "source_uri": "https://metr.org/blog/2026-02-24-uplift-update/",
+    "supports": [
+      "HY-AICODING-2026-7C2D"
+    ],
+    "tags": [
+      "selection-bias",
+      "measurement",
+      "productivity"
+    ],
+    "title": "Later METR RCT became unreliable because AI abstention induced selection"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-BOUNDARY-2026-01D3",
+    "path": "research/evidence/EV-BOUNDARY-2026-01D3--shannon-syntactic-transmission.md",
+    "related_theories": [],
+    "research_area": "discipline-boundary",
+    "retrieved": "2026-07-29",
+    "source_author": "C. E. Shannon",
+    "source_date": "1948-10-01",
+    "source_title": "A Mathematical Theory of Communication",
+    "source_uri": "https://doi.org/10.1002/j.1538-7305.1948.tb00917.x",
+    "supports": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "tags": [
+      "communication-theory",
+      "information-theory"
+    ],
+    "title": "Shannon formalizes reliable message transmission rather than meaning"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-BOUNDARY-2026-274A",
+    "path": "research/evidence/EV-BOUNDARY-2026-274A--hcd-lifecycle.md",
+    "related_theories": [],
+    "research_area": "discipline-boundary",
+    "retrieved": "2026-07-29",
+    "source_author": "International Organization for Standardization",
+    "source_date": "2019-07-01",
+    "source_title": "ISO 9241-210:2019 Human-centred design for interactive systems",
+    "source_uri": "https://www.iso.org/standard/77520.html",
+    "supports": [],
+    "tags": [
+      "hci",
+      "human-centred-design",
+      "standard"
+    ],
+    "title": "Human-centred design already governs interactive-system lifecycle activities"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-BOUNDARY-2026-5E8B",
+    "path": "research/evidence/EV-BOUNDARY-2026-5E8B--systems-engineering-integration.md",
+    "related_theories": [],
+    "research_area": "discipline-boundary",
+    "retrieved": "2026-07-29",
+    "source_author": "INCOSE",
+    "source_date": "2026-01-01",
+    "source_title": "About Systems Engineering",
+    "source_uri": "https://www.incose.org/about-systems-engineering/",
+    "supports": [],
+    "tags": [
+      "systems-engineering",
+      "lifecycle",
+      "integration"
+    ],
+    "title": "Systems engineering already supplies integrative lifecycle methods"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-BOUNDARY-2026-8C11",
+    "path": "research/evidence/EV-BOUNDARY-2026-8C11--information-architecture.md",
+    "related_theories": [],
+    "research_area": "discipline-boundary",
+    "retrieved": "2026-07-29",
+    "source_author": "Information Architecture Institute",
+    "source_date": "2013-01-01",
+    "source_title": "What is Information Architecture",
+    "source_uri": "https://www.iainstitute.org/sites/default/files/what_is_ia.pdf",
+    "supports": [],
+    "tags": [
+      "information-architecture",
+      "findability"
+    ],
+    "title": "Information architecture covers findability and understandability"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-BOUNDARY-2026-A792",
+    "path": "research/evidence/EV-BOUNDARY-2026-A792--rhetorical-situation.md",
+    "related_theories": [],
+    "research_area": "discipline-boundary",
+    "retrieved": "2026-07-29",
+    "source_author": "Lloyd F. Bitzer",
+    "source_date": "1968-01-01",
+    "source_title": "The Rhetorical Situation",
+    "source_uri": "https://www.jstor.org/stable/40236733",
+    "supports": [],
+    "tags": [
+      "rhetoric",
+      "audience",
+      "constraints"
+    ],
+    "title": "Rhetoric already models action-bearing communication as situated"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-COG-2026-27F1",
+    "path": "research/evidence/EV-COG-2026-27F1--expertise-reversal.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "cognitive-psychology",
+    "retrieved": "2026-07-29",
+    "source_author": "Günter Daniel Rey and Florian Buchwald",
+    "source_date": "2011-03-01",
+    "source_title": "The expertise reversal effect - cognitive load and motivational explanations",
+    "source_uri": "https://doi.org/10.1037/a0022243",
+    "supports": [],
+    "tags": [
+      "cognitive-load",
+      "expertise-reversal"
+    ],
+    "title": "Instructional support can reverse from helpful to harmful with expertise"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-COG-2026-C5A4",
+    "path": "research/evidence/EV-COG-2026-C5A4--interruption-moderators.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "cognitive-psychology",
+    "retrieved": "2026-07-29",
+    "source_author": "Alexander N. Meyer and colleagues",
+    "source_date": "2018-05-15",
+    "source_title": "Task Interruption in Software Development Projects",
+    "source_uri": "https://arxiv.org/abs/1805.05508",
+    "supports": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "tags": [
+      "interruption",
+      "context-switching"
+    ],
+    "title": "Interruption cost depends on context timing source and priority"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-CSCW-2026-32A9",
+    "path": "research/evidence/EV-CSCW-2026-32A9--boundary-objects-automotive.md",
+    "related_theories": [],
+    "research_area": "cscw-coordination",
+    "retrieved": "2026-07-29",
+    "source_author": "Rebekka Wohlrab, Patrizio Pelliccione, Eric Knauss, and Mats Larsson",
+    "source_date": "2019-04-27",
+    "source_title": "Boundary Objects and their Use in Agile Systems Engineering",
+    "source_uri": "https://arxiv.org/abs/1904.12131",
+    "supports": [],
+    "tags": [
+      "cscw",
+      "boundary-objects",
+      "automotive"
+    ],
+    "title": "Boundary-object management distinguishes shared from local artifacts"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-CSCW-2026-9C40",
+    "path": "research/evidence/EV-CSCW-2026-9C40--boundary-artifact-guideline.md",
+    "related_theories": [],
+    "research_area": "cscw-coordination",
+    "retrieved": "2026-07-29",
+    "source_author": "Raquel Ouriques and colleagues",
+    "source_date": "2026-03-01",
+    "source_title": "Crafting effective boundary artefacts in software engineering",
+    "source_uri": "https://link.springer.com/article/10.1007/s10664-026-10847-x",
+    "supports": [],
+    "tags": [
+      "cscw",
+      "boundary-artifacts",
+      "guideline"
+    ],
+    "title": "Boundary artifacts require scope structure and management"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-HANDOFF-2026-2A10",
+    "path": "research/evidence/EV-HANDOFF-2026-2A10--unavailable-coworker-blocks-information.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "engineering-handoff",
+    "retrieved": "2026-07-29",
+    "source_author": "Amy J. Ko, Robert DeLine, and Gina Venolia",
+    "source_date": "2007-05-01",
+    "source_title": "Information Needs in Collocated Software Development Teams",
+    "source_uri": "https://www.microsoft.com/en-us/research/publication/information-needs-in-collocated-software-development-teams/",
+    "supports": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "tags": [
+      "information-needs",
+      "coordination",
+      "field-study"
+    ],
+    "title": "Unavailable coworkers block software-task information needs"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-HANDOFF-2026-4F92",
+    "path": "research/evidence/EV-HANDOFF-2026-4F92--documentation-quality-association.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "engineering-handoff",
+    "retrieved": "2026-07-29",
+    "source_author": "DORA",
+    "source_date": "2022-01-01",
+    "source_title": "DORA Documentation Quality",
+    "source_uri": "https://dora.dev/capabilities/documentation-quality/",
+    "supports": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "tags": [
+      "documentation",
+      "industrial-study"
+    ],
+    "title": "Documentation quality associates with stronger technical capability outcomes"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-HANDOFF-2026-73D4",
+    "path": "research/evidence/EV-HANDOFF-2026-73D4--architecture-explanation-is-audience-dependent.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "engineering-handoff",
+    "retrieved": "2026-07-29",
+    "source_author": "Satrio Adi Rukmono, Filip Zamfirov, Lina Ochoa, and Michel Chaudron",
+    "source_date": "2025-03-11",
+    "source_title": "From Expert to Novice - An Empirical Study on Software Architecture Explanations",
+    "source_uri": "https://arxiv.org/abs/2503.08628",
+    "supports": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "tags": [
+      "architecture",
+      "explanation",
+      "audience"
+    ],
+    "title": "Architecture explanations depend on audience role experience and goal"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-HANDOFF-2026-B6E8",
+    "path": "research/evidence/EV-HANDOFF-2026-B6E8--onboarding-is-multidimensional.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "engineering-handoff",
+    "retrieved": "2026-07-29",
+    "source_author": "An Ju, Hitesh Sajnani, Scot Kelly, and Kim Herzig",
+    "source_date": "2021-03-08",
+    "source_title": "A Case Study of Onboarding in Software Teams - Tasks and Strategies",
+    "source_uri": "https://arxiv.org/abs/2103.05055",
+    "supports": [],
+    "tags": [
+      "onboarding",
+      "tasks",
+      "counterevidence"
+    ],
+    "title": "Software onboarding outcomes are multidimensional and task-dependent"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "derived",
+    "id": "EV-IA-2026-E174",
+    "path": "research/evidence/EV-IA-2026-E174--findability-is-not-understanding.md",
+    "related_theories": [],
+    "research_area": "information-architecture",
+    "retrieved": "2026-07-29",
+    "source_author": "codex",
+    "source_date": "2026-07-29",
+    "source_title": "Initial synthesis of information architecture and developer information needs",
+    "source_uri": "research/journals/JR-BOUNDARY-2026-F60A--initial-adjacent-field-map.md",
+    "supports": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "tags": [
+      "information-architecture",
+      "derived-synthesis"
+    ],
+    "title": "Findability and structural organization do not guarantee correct interpretation"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-KM-2026-3E80",
+    "path": "research/evidence/EV-KM-2026-3E80--transactive-memory-team-performance.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "knowledge-management",
+    "retrieved": "2026-07-29",
+    "source_author": "Kyle Lewis",
+    "source_date": "2004-11-01",
+    "source_title": "Knowledge and Performance in Knowledge-Worker Teams",
+    "source_uri": "https://doi.org/10.1287/mnsc.1040.0257",
+    "supports": [],
+    "tags": [
+      "transactive-memory",
+      "team-performance"
+    ],
+    "title": "Transactive memory develops through team conditions and predicts performance"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-KM-2026-91BC",
+    "path": "research/evidence/EV-KM-2026-91BC--knowledge-integration-mediates-performance.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "knowledge-management",
+    "retrieved": "2026-07-29",
+    "source_author": "Chi-Cheng Huang and Ping-Kuo Chen",
+    "source_date": "2018-01-08",
+    "source_title": "Exploring the antecedents and consequences of the transactive memory system",
+    "source_uri": "https://doi.org/10.1108/JKM-03-2017-0092",
+    "supports": [],
+    "tags": [
+      "knowledge-integration",
+      "psychological-safety"
+    ],
+    "title": "Knowledge integration mediates transactive-memory performance effects"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-MAINT-2026-0A52",
+    "path": "research/evidence/EV-MAINT-2026-0A52--resumption-cues-double-success.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "software-maintenance",
+    "retrieved": "2026-07-29",
+    "source_author": "Chris Parnin and Robert DeLine",
+    "source_date": "2010-04-01",
+    "source_title": "Evaluating Cues for Resuming Interrupted Programming Tasks",
+    "source_uri": "https://www.microsoft.com/en-us/research/publication/evaluating-cues-for-resuming-interrupted-programming-tasks/",
+    "supports": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "tags": [
+      "maintenance",
+      "interruption",
+      "resumption"
+    ],
+    "title": "Contextual resumption cues doubled interrupted-task success"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-MAINT-2026-7B19",
+    "path": "research/evidence/EV-MAINT-2026-7B19--information-scent-predicts-navigation.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "software-maintenance",
+    "retrieved": "2026-07-29",
+    "source_author": "Joseph Lawrance and colleagues",
+    "source_date": "2007-05-01",
+    "source_title": "Scents in Programs - Does Information Foraging Theory Apply to Program Maintenance",
+    "source_uri": "https://www.researchgate.net/publication/4282125",
+    "supports": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "tags": [
+      "program-comprehension",
+      "information-foraging"
+    ],
+    "title": "Information scent predicts maintenance navigation"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "secondary",
+    "id": "EV-REQ-2026-48A0",
+    "path": "research/evidence/EV-REQ-2026-48A0--ambiguity-evidence-gap.md",
+    "related_theories": [],
+    "research_area": "requirements-engineering",
+    "retrieved": "2026-07-29",
+    "source_author": "Amit K. Massey and colleagues",
+    "source_date": "2015-08-24",
+    "source_title": "Addressing the challenges of requirements ambiguity - A review of empirical literature",
+    "source_uri": "https://doi.org/10.1109/EmpiRE.2015.7431303",
+    "supports": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "tags": [
+      "requirements",
+      "ambiguity",
+      "systematic-map"
+    ],
+    "title": "Requirements ambiguity tooling has weak empirical validation"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-REQ-2026-D781",
+    "path": "research/evidence/EV-REQ-2026-D781--industrial-requirement-transformation.md",
+    "related_theories": [],
+    "research_area": "requirements-engineering",
+    "retrieved": "2026-07-29",
+    "source_author": "Industrial automotive requirements research team",
+    "source_date": "2026-07-08",
+    "source_title": "Bridging Stakeholder and Product Requirements",
+    "source_uri": "https://arxiv.org/abs/2607.05632",
+    "supports": [],
+    "tags": [
+      "requirements",
+      "traceability",
+      "automotive"
+    ],
+    "title": "Industrial requirements transformation preserves decisions and deviations"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-RHETORIC-2026-66B1",
+    "path": "research/evidence/EV-RHETORIC-2026-66B1--commit-message-quality.md",
+    "related_theories": [],
+    "research_area": "rhetoric-discourse",
+    "retrieved": "2026-07-29",
+    "source_author": "Software engineering empirical research team",
+    "source_date": "2022-02-06",
+    "source_title": "What Makes a Good Commit Message",
+    "source_uri": "https://arxiv.org/abs/2202.02974",
+    "supports": [],
+    "tags": [
+      "commit-messages",
+      "genre",
+      "collaboration"
+    ],
+    "title": "Commit-message quality is a situated collaborative communication problem"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-SAFETY-2026-19D5",
+    "path": "research/evidence/EV-SAFETY-2026-19D5--ipass-adverse-events.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "safety-critical-handoffs",
+    "retrieved": "2026-07-29",
+    "source_author": "Multisite clinical research team",
+    "source_date": "2025-12-01",
+    "source_title": "Resident Verbal Handoffs Using I-PASS Reduces Adverse Patient Events",
+    "source_uri": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12710333/",
+    "supports": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "tags": [
+      "handoff",
+      "patient-safety",
+      "ipass"
+    ],
+    "title": "Structured I-PASS handoffs reduced a composite adverse-event outcome"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "secondary",
+    "id": "EV-SAFETY-2026-7EA2",
+    "path": "research/evidence/EV-SAFETY-2026-7EA2--handoff-evidence-low-certainty.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "safety-critical-handoffs",
+    "retrieved": "2026-07-29",
+    "source_author": "Making Healthcare Safer IV review team",
+    "source_date": "2025-04-29",
+    "source_title": "Use of structured handoff protocols for within-hospital unit transitions",
+    "source_uri": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12232517/",
+    "supports": [],
+    "tags": [
+      "systematic-review",
+      "handoff",
+      "counterevidence"
+    ],
+    "title": "Structured-handoff evidence is heterogeneous and often low certainty"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-SYSTEMS-2026-22C8",
+    "path": "research/evidence/EV-SYSTEMS-2026-22C8--assurance-argument-links-evidence.md",
+    "related_theories": [],
+    "research_area": "systems-decision-science",
+    "retrieved": "2026-07-29",
+    "source_author": "Richard Hawkins and colleagues",
+    "source_date": "2013-11-01",
+    "source_title": "Assurance cases and prescriptive software safety certification",
+    "source_uri": "https://doi.org/10.1016/j.ssci.2013.04.007",
+    "supports": [],
+    "tags": [
+      "assurance-case",
+      "evidence",
+      "argumentation"
+    ],
+    "title": "Assurance arguments explain why evidence supports system claims"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-SYSTEMS-2026-A730",
+    "path": "research/evidence/EV-SYSTEMS-2026-A730--value-of-information.md",
+    "related_theories": [],
+    "research_area": "systems-decision-science",
+    "retrieved": "2026-07-29",
+    "source_author": "Michael C. Runge, Clark S. Rushing, James E. Lyons, and Madeleine A. Rubenstein",
+    "source_date": "2023-01-01",
+    "source_title": "A simplified method for value of information using constructed scales",
+    "source_uri": "https://doi.org/10.1287/deca.2023.0474",
+    "supports": [],
+    "tags": [
+      "decision-analysis",
+      "value-of-information"
+    ],
+    "title": "Value of information measures decision improvement rather than information volume"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-TECHCOMM-2026-14B2",
+    "path": "research/evidence/EV-TECHCOMM-2026-14B2--minimalism-task-oriented-guidance.md",
+    "related_theories": [],
+    "research_area": "technical-communication",
+    "retrieved": "2026-07-29",
+    "source_author": "John M. Carroll",
+    "source_date": "1996-03-01",
+    "source_title": "Minimalism as a Professionally Relevant Agenda",
+    "source_uri": "https://ris.utwente.nl/ws/portalfiles/portal/249663536/Caroll1996ten.pdf",
+    "supports": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "tags": [
+      "technical-communication",
+      "minimalism",
+      "task-orientation"
+    ],
+    "title": "Minimalist technical communication is task-oriented and user-centred"
+  },
+  {
+    "confidence": "medium",
+    "contradicts": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-TECHCOMM-2026-6FD1",
+    "path": "research/evidence/EV-TECHCOMM-2026-6FD1--minimalism-application-gap.md",
+    "related_theories": [],
+    "research_area": "technical-communication",
+    "retrieved": "2026-07-29",
+    "source_author": "Pia Virtaluoto, Tytti Suojanen, and Marjut Isohella",
+    "source_date": "2020-01-01",
+    "source_title": "Applying Minimalism in the Real World - Results From a Workshop",
+    "source_uri": "https://journal.fi/vakki/article/view/149309",
+    "supports": [],
+    "tags": [
+      "technical-communication",
+      "industrial-application",
+      "counterevidence"
+    ],
+    "title": "Minimalism remains difficult to operationalize consistently"
+  }
+]

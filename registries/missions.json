@@ -1,0 +1,88 @@
+[
+  {
+    "artifact_tier": "full-rep",
+    "created": "2026-07-29",
+    "depends_on": [],
+    "discipline": [
+      "software-engineering",
+      "human-computer-interaction",
+      "economics"
+    ],
+    "id": "MS-AICODING-2026-A1C4",
+    "outputs": [
+      "research/packages/RP-AICODING-2026-B7E2--conditional-effects-of-ai-coding-assistance.md",
+      "research/journals/JR-AICODING-2026-91AF--initial-evidence-synthesis.md"
+    ],
+    "owner_agent": "codex",
+    "path": "missions/completed/MS-AICODING-2026-A1C4--map-conditional-ai-coding-effects.md",
+    "priority": "high",
+    "related_projects": [
+      "software-engineering"
+    ],
+    "required_framework": [
+      "framework/REP-SPECIFICATION.md",
+      "framework/policies/RESEARCH-POLICY.md",
+      "framework/policies/EVIDENCE-POLICY.md"
+    ],
+    "research_area": "ai-assisted-development",
+    "status": "completed",
+    "title": "Map conditional effects of AI coding assistance"
+  },
+  {
+    "artifact_tier": "full-rep",
+    "created": "2026-07-29",
+    "depends_on": [],
+    "discipline": [
+      "software-engineering",
+      "communication-theory",
+      "human-computer-interaction",
+      "systems-engineering"
+    ],
+    "id": "MS-BOUNDARY-2026-C21E",
+    "outputs": [
+      "research/packages/RP-BOUNDARY-2026-5A7C--communication-engineering-boundary.md",
+      "research/roadmaps/communication-engineering-body-of-work-analysis.md"
+    ],
+    "owner_agent": "codex",
+    "path": "missions/completed/MS-BOUNDARY-2026-C21E--communication-engineering-boundary.md",
+    "priority": "high",
+    "related_projects": [
+      "software-engineering"
+    ],
+    "required_framework": [
+      "framework/REP-SPECIFICATION.md",
+      "framework/policies/RESEARCH-POLICY.md"
+    ],
+    "research_area": "discipline-boundary",
+    "status": "completed",
+    "title": "Test the boundary and utility of Communication Engineering"
+  },
+  {
+    "artifact_tier": "full-rep",
+    "created": "2026-07-29",
+    "depends_on": [],
+    "discipline": [
+      "software-engineering",
+      "human-computer-interaction"
+    ],
+    "id": "MS-HANDOFF-2026-D4A8",
+    "outputs": [
+      "research/packages/RP-HANDOFF-2026-A8E1--first-pilot-slice-selection.md",
+      "research/decisions/DF-HANDOFF-2026-5C9B--select-handoff-reconstruction-evaluator.md"
+    ],
+    "owner_agent": "codex",
+    "path": "missions/completed/MS-HANDOFF-2026-D4A8--select-first-pilot-slice.md",
+    "priority": "high",
+    "related_projects": [
+      "software-engineering"
+    ],
+    "required_framework": [
+      "framework/REP-SPECIFICATION.md",
+      "framework/policies/RESEARCH-POLICY.md",
+      "framework/policies/EVIDENCE-POLICY.md"
+    ],
+    "research_area": "engineering-handoff",
+    "status": "completed",
+    "title": "Select the first measurable communication pilot slice"
+  }
+]

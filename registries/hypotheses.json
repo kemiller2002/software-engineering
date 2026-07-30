@@ -1,0 +1,70 @@
+[
+  {
+    "author_agent": "codex",
+    "confidence": "medium",
+    "contradicting_evidence": [],
+    "created": "2026-07-29",
+    "id": "HY-AICODING-2026-7C2D",
+    "path": "research/hypotheses/HY-AICODING-2026-7C2D--ai-effects-are-conditional.md",
+    "related_theories": [
+      "TH-AICODING-2026-44D0"
+    ],
+    "research_area": "ai-assisted-development",
+    "status": "supported",
+    "superseded_by": [],
+    "supersedes": [],
+    "supporting_evidence": [
+      "EV-AICODING-2026-10A1",
+      "EV-AICODING-2026-3B8F",
+      "EV-AICODING-2026-6E21",
+      "EV-AICODING-2026-C940",
+      "EV-AICODING-2026-F5D2"
+    ],
+    "title": "AI coding effects are conditional rather than universally positive"
+  },
+  {
+    "author_agent": "codex",
+    "confidence": "medium",
+    "contradicting_evidence": [
+      "EV-BOUNDARY-2026-274A",
+      "EV-BOUNDARY-2026-5E8B",
+      "EV-BOUNDARY-2026-8C11",
+      "EV-BOUNDARY-2026-A792"
+    ],
+    "created": "2026-07-29",
+    "id": "HY-BOUNDARY-2026-E430",
+    "path": "research/hypotheses/HY-BOUNDARY-2026-E430--integrative-lifecycle-not-new-science.md",
+    "related_theories": [],
+    "research_area": "discipline-boundary",
+    "status": "active",
+    "superseded_by": [],
+    "supersedes": [],
+    "supporting_evidence": [
+      "EV-BOUNDARY-2026-01D3"
+    ],
+    "title": "Communication Engineering may be an integrative lifecycle profile rather than a new science"
+  },
+  {
+    "author_agent": "codex",
+    "confidence": "medium",
+    "contradicting_evidence": [
+      "EV-HANDOFF-2026-B6E8"
+    ],
+    "created": "2026-07-29",
+    "id": "HY-HANDOFF-2026-6B31",
+    "path": "research/hypotheses/HY-HANDOFF-2026-6B31--structured-handoffs-improve-reconstruction.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "engineering-handoff",
+    "status": "active",
+    "superseded_by": [],
+    "supersedes": [],
+    "supporting_evidence": [
+      "EV-HANDOFF-2026-2A10",
+      "EV-HANDOFF-2026-4F92",
+      "EV-HANDOFF-2026-73D4"
+    ],
+    "title": "Task-targeted handoffs improve successor reconstruction"
+  }
+]

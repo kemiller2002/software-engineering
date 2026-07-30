@@ -1,0 +1,378 @@
+[
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-A11Y-2026-58E0",
+      "EV-COG-2026-27F1",
+      "EV-BOUNDARY-2026-274A"
+    ],
+    "hypothesis_ids": [
+      "HY-BOUNDARY-2026-E430",
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "id": "JR-A11Y-2026-CA09",
+    "path": "research/journals/JR-A11Y-2026-CA09--accessibility-analysis.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "accessibility",
+    "tags": [
+      "completed-topic",
+      "accessibility",
+      "inclusion"
+    ],
+    "theory_ids": [],
+    "title": "Accessibility and inclusive communication analysis"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-AI-COMM-2026-3D6F",
+      "EV-AI-COMM-2026-D120",
+      "EV-AICODING-2026-C940"
+    ],
+    "hypothesis_ids": [
+      "HY-BOUNDARY-2026-E430",
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "id": "JR-AI-COMM-2026-E51B",
+    "path": "research/journals/JR-AI-COMM-2026-E51B--ai-mediated-communication-analysis.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "ai-mediated-communication",
+    "tags": [
+      "completed-topic",
+      "ai",
+      "summarization"
+    ],
+    "theory_ids": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "title": "AI-mediated communication body-of-work analysis"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-AICODING-2026-10A1",
+      "EV-AICODING-2026-3B8F",
+      "EV-AICODING-2026-6E21",
+      "EV-AICODING-2026-C940",
+      "EV-AICODING-2026-F5D2"
+    ],
+    "hypothesis_ids": [
+      "HY-AICODING-2026-7C2D"
+    ],
+    "id": "JR-AICODING-2026-91AF",
+    "path": "research/journals/JR-AICODING-2026-91AF--initial-evidence-synthesis.md",
+    "related_mission": "MS-AICODING-2026-A1C4",
+    "related_package": "RP-AICODING-2026-B7E2",
+    "research_area": "ai-assisted-development",
+    "tags": [
+      "rapid-evidence-map",
+      "ai-assisted-development"
+    ],
+    "theory_ids": [
+      "TH-AICODING-2026-44D0"
+    ],
+    "title": "Initial evidence synthesis for AI coding effects"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-BOUNDARY-2026-01D3",
+      "EV-BOUNDARY-2026-274A",
+      "EV-BOUNDARY-2026-5E8B",
+      "EV-BOUNDARY-2026-8C11",
+      "EV-BOUNDARY-2026-A792"
+    ],
+    "hypothesis_ids": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "id": "JR-BOUNDARY-2026-F60A",
+    "path": "research/journals/JR-BOUNDARY-2026-F60A--initial-adjacent-field-map.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "discipline-boundary",
+    "tags": [
+      "discipline-boundary",
+      "active-research"
+    ],
+    "theory_ids": [],
+    "title": "Initial adjacent-field map for Communication Engineering"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-COG-2026-27F1",
+      "EV-COG-2026-C5A4",
+      "EV-MAINT-2026-0A52"
+    ],
+    "hypothesis_ids": [
+      "HY-HANDOFF-2026-6B31",
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "id": "JR-COG-2026-6D08",
+    "path": "research/journals/JR-COG-2026-6D08--cognitive-psychology-analysis.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "cognitive-psychology",
+    "tags": [
+      "completed-topic",
+      "cognitive-psychology"
+    ],
+    "theory_ids": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "title": "Cognitive psychology body-of-work analysis"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-CSCW-2026-32A9",
+      "EV-CSCW-2026-9C40",
+      "EV-HANDOFF-2026-2A10"
+    ],
+    "hypothesis_ids": [
+      "HY-BOUNDARY-2026-E430",
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "id": "JR-CSCW-2026-B027",
+    "path": "research/journals/JR-CSCW-2026-B027--coordination-analysis.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "cscw-coordination",
+    "tags": [
+      "completed-topic",
+      "cscw",
+      "coordination"
+    ],
+    "theory_ids": [],
+    "title": "CSCW and coordination body-of-work analysis"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-HANDOFF-2026-2A10",
+      "EV-HANDOFF-2026-4F92",
+      "EV-HANDOFF-2026-73D4",
+      "EV-HANDOFF-2026-B6E8"
+    ],
+    "hypothesis_ids": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "id": "JR-HANDOFF-2026-39E4",
+    "path": "research/journals/JR-HANDOFF-2026-39E4--pilot-slice-comparison.md",
+    "related_mission": "MS-HANDOFF-2026-D4A8",
+    "related_package": "RP-HANDOFF-2026-A8E1",
+    "research_area": "engineering-handoff",
+    "tags": [
+      "pilot-selection",
+      "handoff"
+    ],
+    "theory_ids": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "title": "First pilot slice comparison"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-BOUNDARY-2026-8C11",
+      "EV-IA-2026-E174",
+      "EV-MAINT-2026-7B19"
+    ],
+    "hypothesis_ids": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "id": "JR-IA-2026-80F6",
+    "path": "research/journals/JR-IA-2026-80F6--information-architecture-analysis.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "information-architecture",
+    "tags": [
+      "completed-topic",
+      "information-architecture",
+      "retrieval"
+    ],
+    "theory_ids": [],
+    "title": "Information architecture and retrieval body-of-work analysis"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-KM-2026-3E80",
+      "EV-KM-2026-91BC"
+    ],
+    "hypothesis_ids": [
+      "HY-HANDOFF-2026-6B31",
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "id": "JR-KM-2026-4AE3",
+    "path": "research/journals/JR-KM-2026-4AE3--knowledge-management-analysis.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "knowledge-management",
+    "tags": [
+      "completed-topic",
+      "knowledge-management"
+    ],
+    "theory_ids": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "title": "Knowledge management and organizational learning analysis"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-MAINT-2026-0A52",
+      "EV-MAINT-2026-7B19",
+      "EV-HANDOFF-2026-2A10"
+    ],
+    "hypothesis_ids": [
+      "HY-HANDOFF-2026-6B31",
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "id": "JR-MAINT-2026-18D2",
+    "path": "research/journals/JR-MAINT-2026-18D2--maintenance-comprehension-analysis.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "software-maintenance",
+    "tags": [
+      "completed-topic",
+      "maintenance",
+      "comprehension"
+    ],
+    "theory_ids": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "title": "Software maintenance and program comprehension analysis"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-REQ-2026-48A0",
+      "EV-REQ-2026-D781"
+    ],
+    "hypothesis_ids": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "id": "JR-REQ-2026-51E8",
+    "path": "research/journals/JR-REQ-2026-51E8--requirements-engineering-analysis.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "requirements-engineering",
+    "tags": [
+      "completed-topic",
+      "requirements-engineering"
+    ],
+    "theory_ids": [],
+    "title": "Requirements engineering body-of-work analysis"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-BOUNDARY-2026-A792",
+      "EV-RHETORIC-2026-66B1"
+    ],
+    "hypothesis_ids": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "id": "JR-RHETORIC-2026-7A3E",
+    "path": "research/journals/JR-RHETORIC-2026-7A3E--rhetoric-discourse-analysis.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "rhetoric-discourse",
+    "tags": [
+      "completed-topic",
+      "rhetoric",
+      "genre"
+    ],
+    "theory_ids": [],
+    "title": "Rhetoric and discourse body-of-work analysis"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-SAFETY-2026-19D5",
+      "EV-SAFETY-2026-7EA2"
+    ],
+    "hypothesis_ids": [
+      "HY-HANDOFF-2026-6B31",
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "id": "JR-SAFETY-2026-2B41",
+    "path": "research/journals/JR-SAFETY-2026-2B41--safety-handoff-analysis.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "safety-critical-handoffs",
+    "tags": [
+      "completed-topic",
+      "safety",
+      "handoff"
+    ],
+    "theory_ids": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "title": "Human factors and safety-critical handoff analysis"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-BOUNDARY-2026-5E8B",
+      "EV-SYSTEMS-2026-22C8",
+      "EV-SYSTEMS-2026-A730"
+    ],
+    "hypothesis_ids": [
+      "HY-BOUNDARY-2026-E430"
+    ],
+    "id": "JR-SYSTEMS-2026-956A",
+    "path": "research/journals/JR-SYSTEMS-2026-956A--systems-decision-analysis.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "systems-decision-science",
+    "tags": [
+      "completed-topic",
+      "systems-engineering",
+      "decision-science"
+    ],
+    "theory_ids": [],
+    "title": "Systems engineering and decision science analysis"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "evidence_ids": [
+      "EV-TECHCOMM-2026-14B2",
+      "EV-TECHCOMM-2026-6FD1",
+      "EV-HANDOFF-2026-4F92"
+    ],
+    "hypothesis_ids": [
+      "HY-BOUNDARY-2026-E430",
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "id": "JR-TECHCOMM-2026-A631",
+    "path": "research/journals/JR-TECHCOMM-2026-A631--technical-communication-analysis.md",
+    "related_mission": "MS-BOUNDARY-2026-C21E",
+    "related_package": "RP-BOUNDARY-2026-5A7C",
+    "research_area": "technical-communication",
+    "tags": [
+      "completed-topic",
+      "technical-communication"
+    ],
+    "theory_ids": [],
+    "title": "Technical communication body-of-work analysis"
+  }
+]

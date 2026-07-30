@@ -1,0 +1,53 @@
+[
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "id": "EX-AICODING-2026-2D77",
+    "inputs": [
+      "real-maintenance-tasks",
+      "repository-telemetry",
+      "review-rubric"
+    ],
+    "outputs": [
+      "causal-effect-estimates",
+      "moderator-estimates",
+      "lifecycle-cost-estimates"
+    ],
+    "path": "research/experiments/EX-AICODING-2026-2D77--stratified-crossover-field-study.md",
+    "related_theories": [
+      "TH-AICODING-2026-44D0"
+    ],
+    "research_area": "ai-assisted-development",
+    "status": "proposed",
+    "tests_hypotheses": [
+      "HY-AICODING-2026-7C2D"
+    ],
+    "title": "Stratified crossover field study of AI coding net value"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-29",
+    "id": "EX-HANDOFF-2026-0D7A",
+    "inputs": [
+      "paired-task-records",
+      "structured-handoffs",
+      "unstructured-status-notes"
+    ],
+    "outputs": [
+      "reconstruction-time",
+      "plan-correctness",
+      "omissions",
+      "authoring-cost"
+    ],
+    "path": "research/experiments/EX-HANDOFF-2026-0D7A--reconstruction-evaluation.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "engineering-handoff",
+    "status": "proposed",
+    "tests_hypotheses": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "title": "Controlled handoff reconstruction evaluation"
+  }
+]

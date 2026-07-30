@@ -1,0 +1,38 @@
+[
+  {
+    "confidence": "high",
+    "created": "2026-07-29",
+    "id": "DF-BOUNDARY-2026-3F72",
+    "path": "research/decisions/DF-BOUNDARY-2026-3F72--reject-distinct-communication-engineering-discipline.md",
+    "related_documents": [
+      "RP-BOUNDARY-2026-5A7C",
+      "research/roadmaps/communication-engineering-body-of-work-analysis.md"
+    ],
+    "research_area": "discipline-boundary",
+    "status": "review",
+    "tags": [
+      "discipline-boundary",
+      "decision-record"
+    ],
+    "title": "Reject Communication Engineering as a distinct discipline",
+    "updated": "2026-07-29"
+  },
+  {
+    "confidence": "medium",
+    "created": "2026-07-29",
+    "id": "DF-HANDOFF-2026-5C9B",
+    "path": "research/decisions/DF-HANDOFF-2026-5C9B--select-handoff-reconstruction-evaluator.md",
+    "related_documents": [
+      "RP-HANDOFF-2026-A8E1",
+      "EX-HANDOFF-2026-0D7A"
+    ],
+    "research_area": "engineering-handoff",
+    "status": "review",
+    "tags": [
+      "pilot-scope",
+      "decision-record"
+    ],
+    "title": "Select handoff reconstruction evaluator as first pilot slice",
+    "updated": "2026-07-29"
+  }
+]

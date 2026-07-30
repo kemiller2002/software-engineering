@@ -1,0 +1,124 @@
+[
+  {
+    "author_agent": "codex",
+    "completion": "complete",
+    "confidence": "medium",
+    "created": "2026-07-29",
+    "discipline": [
+      "software-engineering",
+      "human-computer-interaction",
+      "organizational-science"
+    ],
+    "id": "RP-AICODING-2026-B7E2",
+    "keywords": [
+      "coding assistants",
+      "agents",
+      "productivity",
+      "maintenance",
+      "verification"
+    ],
+    "path": "research/packages/RP-AICODING-2026-B7E2--conditional-effects-of-ai-coding-assistance.md",
+    "priority": "high",
+    "related_documents": [
+      "MS-AICODING-2026-A1C4",
+      "JR-AICODING-2026-91AF",
+      "prompts/Software-Engineering-Research-Mission-REP-v2.0.md"
+    ],
+    "related_projects": [
+      "software-engineering"
+    ],
+    "research_area": "ai-assisted-development",
+    "status": "review",
+    "superseded_by": [],
+    "supersedes": [],
+    "tags": [
+      "ai-coding",
+      "productivity",
+      "quality",
+      "empirical-software-engineering"
+    ],
+    "title": "Conditional effects of AI coding assistance",
+    "updated": "2026-07-29",
+    "version": "1.0.0"
+  },
+  {
+    "author_agent": "codex",
+    "completion": "complete",
+    "confidence": "high",
+    "created": "2026-07-29",
+    "discipline": [
+      "software-engineering",
+      "communication-theory",
+      "human-computer-interaction",
+      "systems-engineering"
+    ],
+    "id": "RP-BOUNDARY-2026-5A7C",
+    "keywords": [
+      "communication engineering",
+      "HCI",
+      "rhetoric",
+      "information architecture"
+    ],
+    "path": "research/packages/RP-BOUNDARY-2026-5A7C--communication-engineering-boundary.md",
+    "priority": "high",
+    "related_documents": [
+      "MS-BOUNDARY-2026-C21E",
+      "JR-BOUNDARY-2026-F60A",
+      "research/roadmaps/communication-engineering-body-of-work-analysis.md"
+    ],
+    "related_projects": [
+      "software-engineering"
+    ],
+    "research_area": "discipline-boundary",
+    "status": "review",
+    "superseded_by": [],
+    "supersedes": [],
+    "tags": [
+      "discipline-boundary",
+      "synthesis",
+      "completed-research"
+    ],
+    "title": "Boundary analysis of Communication Engineering",
+    "updated": "2026-07-29",
+    "version": "1.0.0"
+  },
+  {
+    "author_agent": "codex",
+    "completion": "complete",
+    "confidence": "medium",
+    "created": "2026-07-29",
+    "discipline": [
+      "software-engineering",
+      "human-computer-interaction"
+    ],
+    "id": "RP-HANDOFF-2026-A8E1",
+    "keywords": [
+      "handoff",
+      "task continuation",
+      "documentation quality",
+      "evaluation"
+    ],
+    "path": "research/packages/RP-HANDOFF-2026-A8E1--first-pilot-slice-selection.md",
+    "priority": "high",
+    "related_documents": [
+      "MS-HANDOFF-2026-D4A8",
+      "JR-HANDOFF-2026-39E4",
+      "DF-HANDOFF-2026-5C9B"
+    ],
+    "related_projects": [
+      "software-engineering"
+    ],
+    "research_area": "engineering-handoff",
+    "status": "review",
+    "superseded_by": [],
+    "supersedes": [],
+    "tags": [
+      "pilot-selection",
+      "handoff",
+      "reconstruction"
+    ],
+    "title": "First communication pilot slice selection",
+    "updated": "2026-07-29",
+    "version": "1.0.0"
+  }
+]
