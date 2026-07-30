@@ -1,0 +1,248 @@
+{
+  "name": "Continuous Delivery Capability",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Deployable State and Build Integrity",
+      "descriptor": "Evaluate whether software remains in a known, reproducible, deployable state.",
+      "raw": "Deployable State and Build Integrity Evaluate whether software remains in a known, reproducible, deployable state.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Release readiness requires a stabilization phase, manual reconstruction, or exceptional coordination.",
+          "key": 188018193,
+          "id": "335:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Build artifacts vary by environment or are rebuilt after verification.",
+          "key": -741995522,
+          "id": "335:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Versioned sources and dependencies produce identifiable artifacts through a repeatable build.",
+          "key": 1931334228,
+          "id": "335:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "The same immutable artifact progresses through proportionate verification and environments with traceable configuration.",
+          "key": -1104056014,
+          "id": "335:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Deployability is continuously protected through architecture, test, environment, dependency, and operational improvements.",
+          "key": 916127268,
+          "id": "335:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 258581565,
+      "position": 335,
+      "id": 335
+    },
+    {
+      "section": "Deployment Automation and Environment Control",
+      "descriptor": "Evaluate whether deployment and configuration changes are safe, repeatable, and observable.",
+      "raw": "Deployment Automation and Environment Control Evaluate whether deployment and configuration changes are safe, repeatable, and observable.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Production deployment depends on undocumented manual steps or privileged individual knowledge.",
+          "key": -2119602449,
+          "id": "336:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Automation executes changes but cannot explain state, detect partial failure, or recover safely.",
+          "key": -1716169248,
+          "id": "336:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Deployment steps, configuration, infrastructure, and required approvals are versioned or reproducible.",
+          "key": 233802513,
+          "id": "336:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Automated deployment verifies preconditions, progress, postconditions, ownership, and audit evidence.",
+          "key": 194091167,
+          "id": "336:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Deployment controls adapt by change risk and continuously reduce failure, delay, toil, and environment drift.",
+          "key": 1943771962,
+          "id": "336:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1690732551,
+      "position": 336,
+      "id": 336
+    },
+    {
+      "section": "Verification and Fast Feedback",
+      "descriptor": "Evaluate whether delivery pipelines provide timely, trustworthy evidence about releasability.",
+      "raw": "Verification and Fast Feedback Evaluate whether delivery pipelines provide timely, trustworthy evidence about releasability.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Teams wait hours or days for essential pipeline feedback or routinely ignore unreliable results.",
+          "key": 911970084,
+          "id": "337:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Every change runs the same expensive checks regardless of risk while important failure modes remain uncovered.",
+          "key": 885640034,
+          "id": "337:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Pipelines provide fast build, unit, integration, security, and packaging feedback appropriate to the product.",
+          "key": -569841596,
+          "id": "337:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Checks are layered by risk and feedback time, with flakiness, duration, failures, and bypasses actively managed.",
+          "key": -1493582700,
+          "id": "337:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Verification effectiveness evolves using production escapes, change patterns, threat evidence, and decision latency.",
+          "key": 964675676,
+          "id": "337:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1221210456,
+      "position": 337,
+      "id": 337
+    },
+    {
+      "section": "Release Safety and Recovery",
+      "descriptor": "Evaluate whether releases can be exposed progressively, observed, and reversed or corrected safely.",
+      "raw": "Release Safety and Recovery Evaluate whether releases can be exposed progressively, observed, and reversed or corrected safely.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Releases expose all users simultaneously without a tested recovery path.",
+          "key": 1695318379,
+          "id": "338:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Feature flags or progressive delivery controls accumulate without ownership, security review, or retirement.",
+          "key": -759272319,
+          "id": "338:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Critical releases have explicit monitoring, rollback or roll-forward, and communication plans.",
+          "key": 123625722,
+          "id": "338:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Progressive exposure, automated health checks, traffic controls, and tested recovery limit customer impact.",
+          "key": 344624873,
+          "id": "338:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Release strategy adapts by change risk, user segment, architecture, evidence needs, and observed recovery performance.",
+          "key": -1766200494,
+          "id": "338:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1443655683,
+      "position": 338,
+      "id": 338
+    },
+    {
+      "section": "On-Demand Sustainable Delivery",
+      "descriptor": "Evaluate whether authorized changes can reach users routinely without release-event disruption.",
+      "raw": "On-Demand Sustainable Delivery Evaluate whether authorized changes can reach users routinely without release-event disruption.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Releases require nights, weekends, freezes, or extraordinary staffing as a normal condition.",
+          "key": -1890319807,
+          "id": "339:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Deployment frequency is increased without addressing workload, reliability, quality, or customer readiness.",
+          "key": -912786590,
+          "id": "339:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams can release qualifying changes during normal operations using documented ownership and support.",
+          "key": 1057844563,
+          "id": "339:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Release delay, deployment pain, failure, rework, and workforce impact are measured and improved together.",
+          "key": -480464349,
+          "id": "339:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Product, engineering, security, operations, and support jointly optimize delivery cadence for value, risk, learning, and sustainability.",
+          "key": 1206267165,
+          "id": "339:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -447356569,
+      "position": 339,
+      "id": 339
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "name": "Code Maintainability",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Understandability and Ownership",
+      "descriptor": "Evaluate whether engineers can locate, understand, and safely reason about the code they must change.",
+      "raw": "Understandability and Ownership Evaluate whether engineers can locate, understand, and safely reason about the code they must change.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Critical behavior depends on undocumented code and knowledge held by a small number of people.",
+          "key": -943916593,
+          "id": "330:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Ownership boundaries are unclear, causing delayed reviews, abandoned components, or unsafe changes.",
+          "key": -487621269,
+          "id": "330:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Repositories, components, owners, dependencies, and supported development paths are discoverable.",
+          "key": -987496442,
+          "id": "330:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Code structure, naming, tests, documentation, and review practices support routine understanding by the owning team.",
+          "key": -905836815,
+          "id": "330:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Time-to-understand, onboarding, review, incident, and change evidence drive simplification and ownership improvement.",
+          "key": 497282682,
+          "id": "330:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1256969810,
+      "position": 330,
+      "id": 330
+    },
+    {
+      "section": "Modularity and Change Locality",
+      "descriptor": "Evaluate whether changes are localized and component boundaries reflect product and technical responsibilities.",
+      "raw": "Modularity and Change Locality Evaluate whether changes are localized and component boundaries reflect product and technical responsibilities.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Small behavior changes require widespread modifications across unrelated modules.",
+          "key": 507433645,
+          "id": "331:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Modularity is judged from architectural intent without examining actual co-change or defect propagation.",
+          "key": -1195902483,
+          "id": "331:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Components have coherent responsibilities and explicit interfaces.",
+          "key": -858753640,
+          "id": "331:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Dependency direction, co-change, build impact, deployment coupling, and failure propagation are measured and improved.",
+          "key": -434718701,
+          "id": "331:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Boundaries evolve using real change paths, product concepts, team ownership, reliability, and cognitive-load evidence.",
+          "key": 903977833,
+          "id": "331:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -468524219,
+      "position": 331,
+      "id": 331
+    },
+    {
+      "section": "Automated Change Safety",
+      "descriptor": "Evaluate whether tests and analysis provide fast, trustworthy evidence for maintenance and refactoring.",
+      "raw": "Automated Change Safety Evaluate whether tests and analysis provide fast, trustworthy evidence for maintenance and refactoring.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Engineers avoid changing important code because tests are absent, slow, flaky, or misleading.",
+          "key": 1700047019,
+          "id": "332:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Coverage percentages are used as proof of safety without examining assertion quality or risk.",
+          "key": -2044562621,
+          "id": "332:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Critical behavior has maintainable automated tests and relevant static or dynamic checks.",
+          "key": -184617670,
+          "id": "332:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Feedback is fast and reliable enough to support routine refactoring and dependency upgrades.",
+          "key": -1387788864,
+          "id": "332:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Escaped defects, mutation or fault evidence, flakiness, change patterns, and test cost continuously improve the safety system.",
+          "key": 1087629977,
+          "id": "332:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 342209680,
+      "position": 332,
+      "id": 332
+    },
+    {
+      "section": "Complexity and Debt Control",
+      "descriptor": "Evaluate whether unnecessary complexity and consequential maintainability debt are identified and reduced.",
+      "raw": "Complexity and Debt Control Evaluate whether unnecessary complexity and consequential maintainability debt are identified and reduced.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Complexity grows through duplicated solutions, speculative abstractions, and obsolete paths that are rarely removed.",
+          "key": -2082697685,
+          "id": "333:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Technical debt is recorded as a large unprioritized backlog with no link to consequences.",
+          "key": 625285953,
+          "id": "333:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams apply clear local standards and identify complexity that materially affects change, quality, risk, or operations.",
+          "key": 1618304312,
+          "id": "333:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Debt is prioritized using evidence of delay, defects, incidents, cognitive load, cost, and strategic constraint.",
+          "key": 661745683,
+          "id": "333:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Prevention and simplification outcomes are verified, and obsolete code, flags, dependencies, and systems are routinely retired.",
+          "key": -1345889016,
+          "id": "333:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1245268608,
+      "position": 333,
+      "id": 333
+    },
+    {
+      "section": "Dependency and Evolution Health",
+      "descriptor": "Evaluate whether code and dependencies can evolve without long periods of unsupported or high-risk operation.",
+      "raw": "Dependency and Evolution Health Evaluate whether code and dependencies can evolve without long periods of unsupported or high-risk operation.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Critical dependencies remain unsupported or unpatched because upgrades are too risky to perform.",
+          "key": -1722974823,
+          "id": "334:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Dependency changes occur only during disruptive upgrade programs.",
+          "key": -1764023382,
+          "id": "334:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Direct and transitive dependencies, support status, owners, licenses, and vulnerabilities are inventoried.",
+          "key": 1320478547,
+          "id": "334:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Small, regular upgrades use automation, compatibility evidence, staged rollout, and clear exception ownership.",
+          "key": -1312219409,
+          "id": "334:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Architecture, component selection, replacement, and internal APIs minimize lock-in and preserve safe evolutionary paths.",
+          "key": -2122104711,
+          "id": "334:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1487321463,
+      "position": 334,
+      "id": 334
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

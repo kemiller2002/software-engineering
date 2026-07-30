@@ -1,0 +1,248 @@
+{
+  "name": "Software Delivery Performance",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Measurement Integrity",
+      "descriptor": "Evaluate whether delivery measures are defined consistently, interpreted in context, and trusted enough to guide decisions.",
+      "raw": "Measurement Integrity Evaluate whether delivery measures are defined consistently, interpreted in context, and trusted enough to guide decisions.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Delivery performance is discussed mainly through anecdotes or isolated success stories.",
+          "key": -1336622626,
+          "id": "200:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Measures are used to rank teams without accounting for product, risk, or workflow differences.",
+          "key": -2056668558,
+          "id": "200:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The organization has documented definitions for lead time, deployment frequency, failed-change recovery, change failure, and deployment rework.",
+          "key": -2529128,
+          "id": "200:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Delivery measures are derived consistently from operational systems and segmented by product or service.",
+          "key": -1982559459,
+          "id": "200:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Teams routinely test measure quality, expose uncertainty, and revise definitions when they no longer support sound decisions.",
+          "key": 747483524,
+          "id": "200:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1910116277,
+      "position": 200,
+      "id": 200
+    },
+    {
+      "section": "Flow and Throughput",
+      "descriptor": "Evaluate how efficiently valuable changes move from commitment to usable production outcomes.",
+      "raw": "Flow and Throughput Evaluate how efficiently valuable changes move from commitment to usable production outcomes.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Work commonly waits in large queues or handoffs whose age and impact are not visible.",
+          "key": 273719101,
+          "id": "201:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "High utilization or starting more work is rewarded even when cycle time and completion deteriorate.",
+          "key": -488208497,
+          "id": "201:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams can see work age, work in progress, blocked time, and end-to-end lead time.",
+          "key": 113259963,
+          "id": "201:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Teams control work in progress and use flow evidence to address their largest recurring delays.",
+          "key": 760022261,
+          "id": "201:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Portfolio and team policies are adapted using flow distributions, customer urgency, and economic tradeoffs.",
+          "key": -2045301304,
+          "id": "201:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -151874968,
+      "position": 201,
+      "id": 201
+    },
+    {
+      "section": "Release Frequency and Batch Size",
+      "descriptor": "Evaluate whether the organization can release small changes at a cadence appropriate to customer and operational risk.",
+      "raw": "Release Frequency and Batch Size Evaluate whether the organization can release small changes at a cadence appropriate to customer and operational risk.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Releases depend on large batches, exceptional coordination, or infrequent release windows.",
+          "key": 816938435,
+          "id": "202:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Deployment frequency is increased as a target without balancing quality, customer impact, or sustainability.",
+          "key": -1409320334,
+          "id": "202:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams can release independently at a cadence suitable for their product and risk context.",
+          "key": 1066351049,
+          "id": "202:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Batch size and release delay are measured, and teams remove constraints that force unrelated changes together.",
+          "key": -1384641693,
+          "id": "202:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Release cadence is an intentional product and risk decision supported by progressive delivery and fast feedback.",
+          "key": 749457627,
+          "id": "202:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1557060249,
+      "position": 202,
+      "id": 202
+    },
+    {
+      "section": "Change Quality and Recovery",
+      "descriptor": "Evaluate whether changes succeed in production and whether failures are restored quickly and safely.",
+      "raw": "Change Quality and Recovery Evaluate whether changes succeed in production and whether failures are restored quickly and safely.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Failed changes are hidden, inconsistently classified, or excluded from performance reporting.",
+          "key": -1056772683,
+          "id": "203:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Recovery depends on a few individuals or an untested manual procedure.",
+          "key": -309176449,
+          "id": "203:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams track customer-impacting failed changes, recovery time, and deployment-related rework.",
+          "key": -241672147,
+          "id": "203:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Rollback, roll-forward, or traffic-control procedures are automated or rehearsed for critical services.",
+          "key": 858092891,
+          "id": "203:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Failure and recovery patterns drive verified improvements to architecture, testing, delivery controls, and operational readiness.",
+          "key": 568519258,
+          "id": "203:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 944667232,
+      "position": 203,
+      "id": 203
+    },
+    {
+      "section": "Improvement and Outcomes",
+      "descriptor": "Evaluate whether delivery improvement is tied to customer, reliability, quality, and workforce outcomes.",
+      "raw": "Improvement and Outcomes Evaluate whether delivery improvement is tied to customer, reliability, quality, and workforce outcomes.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Delivery metrics are treated as ends in themselves rather than signals about a larger system.",
+          "key": -107694013,
+          "id": "204:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Improvement initiatives declare success from tool adoption without showing changed outcomes.",
+          "key": -1984236145,
+          "id": "204:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams review delivery measures alongside quality, reliability, customer, and workload countermetrics.",
+          "key": -502910283,
+          "id": "204:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Improvement work targets an observed constraint and checks whether the expected outcome changed.",
+          "key": 198889294,
+          "id": "204:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The organization uses longitudinal evidence and local experiments to learn which capabilities improve delivery in each context.",
+          "key": 1959553794,
+          "id": "204:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -404806896,
+      "position": 204,
+      "id": 204
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

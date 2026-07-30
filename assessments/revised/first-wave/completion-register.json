@@ -1,0 +1,160 @@
+{
+  "generatedOn": "2026-07-30",
+  "statusDefinitions": {
+    "draft-complete": "Content is authored and structurally validated but has not yet completed respondent testing or psychometric validation.",
+    "pilot": "The instrument is undergoing cognitive interviews or field testing.",
+    "validated": "The instrument has documented evidence supporting its intended interpretation and use."
+  },
+  "assessments": [
+    {
+      "assessment": "Software Delivery Performance",
+      "file": "software-delivery-performance.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Developer Experience",
+      "file": "developer-experience.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Product Strategy Quality",
+      "file": "product-strategy-quality.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Product Discovery Effectiveness",
+      "file": "product-discovery-effectiveness.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Outcome Measurement",
+      "file": "outcome-measurement.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Architecture Fitness and Evolvability",
+      "file": "architecture-fitness-evolvability.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Reliability Engineering",
+      "file": "reliability-engineering.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Incident Management",
+      "file": "incident-management.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Secure Software Development Lifecycle",
+      "file": "secure-software-development-lifecycle.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Privacy Engineering and Data Protection",
+      "file": "privacy-engineering-data-protection.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Digital Accessibility Capability",
+      "file": "digital-accessibility-capability.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Technology Value and FinOps",
+      "file": "technology-value-finops.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Engineering Leadership Effectiveness",
+      "file": "engineering-leadership-effectiveness.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Team Health and Sustainability",
+      "file": "team-health-sustainability.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Responsible AI Governance",
+      "file": "responsible-ai-governance.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    }
+  ]
+}

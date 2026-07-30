@@ -1,0 +1,248 @@
+{
+  "name": "Customer Onboarding Effectiveness",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Time to First Value",
+      "descriptor": "Evaluate whether target customers reach a meaningful initial outcome quickly and reliably.",
+      "raw": "Time to First Value Evaluate whether target customers reach a meaningful initial outcome quickly and reliably.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Onboarding success is defined as account creation, contract signature, or completion of setup steps.",
+          "key": -1268469298,
+          "id": "315:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Average onboarding time hides stalled, abandoned, inaccessible, or high-touch segments.",
+          "key": 1660461705,
+          "id": "315:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Each target segment has a behaviorally meaningful first-value definition and baseline.",
+          "key": 598472776,
+          "id": "315:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Time to value, completion, abandonment, errors, assistance, and outcome are measured by cohort and segment.",
+          "key": -1342903074,
+          "id": "315:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Product, process, packaging, data, and service changes continuously improve first value without creating downstream harm.",
+          "key": 1047619619,
+          "id": "315:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1532805428,
+      "position": 315,
+      "id": 315
+    },
+    {
+      "section": "Setup and Integration",
+      "descriptor": "Evaluate whether configuration, data, identity, and integration work are understandable and proportionate.",
+      "raw": "Setup and Integration Evaluate whether configuration, data, identity, and integration work are understandable and proportionate.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Customers discover critical prerequisites only after purchase or implementation begins.",
+          "key": 631504762,
+          "id": "316:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Setup depends on undocumented specialist knowledge or repeated manual correction.",
+          "key": -201198885,
+          "id": "316:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Prerequisites, responsibilities, dependencies, data needs, security needs, and expected effort are explicit.",
+          "key": 1572105213,
+          "id": "316:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Common setup and integration paths are guided, validated, observable, resumable, and supported.",
+          "key": 399358694,
+          "id": "316:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Architecture, APIs, defaults, migration tools, and commercial qualification evolve using setup failure and effort evidence.",
+          "key": -2068116385,
+          "id": "316:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1827917178,
+      "position": 316,
+      "id": 316
+    },
+    {
+      "section": "Guidance and Learning",
+      "descriptor": "Evaluate whether customers receive contextual, accessible guidance that builds independent capability.",
+      "raw": "Guidance and Learning Evaluate whether customers receive contextual, accessible guidance that builds independent capability.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Onboarding relies on generic feature tours or documentation unrelated to the customer's goal.",
+          "key": -1496916943,
+          "id": "317:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Training completion is treated as proof that customers can perform important tasks.",
+          "key": 178131724,
+          "id": "317:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Guidance is organized around roles, goals, context, and critical tasks.",
+          "key": -66867807,
+          "id": "317:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Customers can choose accessible self-service, in-product, community, or human assistance and demonstrate task success.",
+          "key": -628309685,
+          "id": "317:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Guidance adapts using search, error, support, behavior, comprehension, and outcome evidence.",
+          "key": 1331389669,
+          "id": "317:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1113538696,
+      "position": 317,
+      "id": 317
+    },
+    {
+      "section": "Expectation and Ownership Alignment",
+      "descriptor": "Evaluate whether sales, implementation, product, and customer roles remain aligned through onboarding.",
+      "raw": "Expectation and Ownership Alignment Evaluate whether sales, implementation, product, and customer roles remain aligned through onboarding.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Customers enter onboarding with promises, scope, or timelines that delivery groups cannot support.",
+          "key": 1400263986,
+          "id": "318:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Ownership is transferred between teams without clear customer or internal accountability.",
+          "key": 125213844,
+          "id": "318:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Expected outcomes, scope, responsibilities, risks, timeline ranges, and escalation paths are confirmed.",
+          "key": 1309786477,
+          "id": "318:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Shared plans and health signals make progress, decisions, dependencies, and changed expectations visible.",
+          "key": -113927427,
+          "id": "318:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Promise quality and onboarding evidence improve qualification, packaging, product strategy, staffing, and contracts.",
+          "key": -1967570889,
+          "id": "318:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1626307819,
+      "position": 318,
+      "id": 318
+    },
+    {
+      "section": "Early Risk and Recovery",
+      "descriptor": "Evaluate whether onboarding risk is detected early and recovery protects customer trust and value.",
+      "raw": "Early Risk and Recovery Evaluate whether onboarding risk is detected early and recovery protects customer trust and value.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Stalled onboarding is recognized only after repeated missed dates or customer escalation.",
+          "key": -370768113,
+          "id": "319:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "At-risk customers receive more meetings without diagnosing the underlying constraint.",
+          "key": -1897274870,
+          "id": "319:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Leading indicators identify inactivity, errors, missing dependencies, sentiment, and outcome risk.",
+          "key": -346752982,
+          "id": "319:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Recovery playbooks combine product, technical, commercial, and relationship actions with accountable owners.",
+          "key": 637823507,
+          "id": "319:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Cohort and causal learning reduce recurring onboarding risk and improve retention, cost to serve, and customer outcomes.",
+          "key": 941989433,
+          "id": "319:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 401874499,
+      "position": 319,
+      "id": 319
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

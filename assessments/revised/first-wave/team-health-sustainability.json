@@ -1,0 +1,248 @@
+{
+  "name": "Team Health and Sustainability",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Workload and Sustainable Pace",
+      "descriptor": "Evaluate whether workload can be sustained without chronic overload or hidden recovery costs.",
+      "raw": "Workload and Sustainable Pace Evaluate whether workload can be sustained without chronic overload or hidden recovery costs.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Extended hours, missed leave, or emergency effort are treated as normal evidence of commitment.",
+          "key": 262037195,
+          "id": "265:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Capacity plans assume full utilization and do not reserve space for support, learning, maintenance, or uncertainty.",
+          "key": 1583493691,
+          "id": "265:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams can discuss workload, capacity, and recovery without penalty.",
+          "key": -1753983700,
+          "id": "265:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Planned and unplanned demand, on-call load, leave, focus, and overtime are reviewed and rebalanced.",
+          "key": -1115781158,
+          "id": "265:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Leaders address structural causes of overload and verify improvements through health, flow, quality, and retention evidence.",
+          "key": 538768001,
+          "id": "265:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 162663976,
+      "position": 265,
+      "id": 265
+    },
+    {
+      "section": "Focus, Control, and Role Clarity",
+      "descriptor": "Evaluate whether team members can focus, influence their work, and understand responsibilities.",
+      "raw": "Focus, Control, and Role Clarity Evaluate whether team members can focus, influence their work, and understand responsibilities.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Priorities and ownership change frequently without explicit decisions or communication.",
+          "key": 865813770,
+          "id": "266:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Individuals are held accountable for outcomes they cannot influence or for conflicting commitments.",
+          "key": -1850964024,
+          "id": "266:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Goals, priorities, responsibilities, and escalation paths are understood.",
+          "key": -81796218,
+          "id": "266:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Teams control work in progress, negotiate tradeoffs, and have meaningful influence over methods and local decisions.",
+          "key": 1332886611,
+          "id": "266:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Role and work design evolve using evidence about flow, cognitive load, collaboration, customer outcomes, and well-being.",
+          "key": -1623620255,
+          "id": "266:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -724945571,
+      "position": 266,
+      "id": 266
+    },
+    {
+      "section": "Psychological Safety and Conflict",
+      "descriptor": "Evaluate whether people can speak candidly, disagree, ask for help, and address conflict without retaliation.",
+      "raw": "Psychological Safety and Conflict Evaluate whether people can speak candidly, disagree, ask for help, and address conflict without retaliation.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "People conceal mistakes, uncertainty, or disagreement because interpersonal or career consequences are likely.",
+          "key": 1446804771,
+          "id": "267:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Harmony or politeness is mistaken for safety while difficult issues remain undiscussed.",
+          "key": -315552650,
+          "id": "267:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Team members can ask for help, identify risks, and challenge ideas respectfully.",
+          "key": 1190584261,
+          "id": "267:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Conflict is addressed with shared facts, facilitation when needed, and clear protection from retaliation.",
+          "key": -1465276395,
+          "id": "267:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The team examines whose voice is absent or discounted and changes norms, leadership, and decision practices accordingly.",
+          "key": 1985629872,
+          "id": "267:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -987169314,
+      "position": 267,
+      "id": 267
+    },
+    {
+      "section": "Support, Belonging, and Inclusion",
+      "descriptor": "Evaluate whether people receive equitable support, access, respect, and opportunity.",
+      "raw": "Support, Belonging, and Inclusion Evaluate whether people receive equitable support, access, respect, and opportunity.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Some team members are routinely excluded from information, relationships, or decisions needed for their work.",
+          "key": -1614961510,
+          "id": "268:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Team-health averages are reported without checking materially different experiences within the group.",
+          "key": -810566516,
+          "id": "268:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "People know how to obtain support, accommodations, feedback, and safe escalation.",
+          "key": 2126147923,
+          "id": "268:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Access to meaningful work, recognition, learning, influence, and advancement is reviewed for fairness.",
+          "key": 426161048,
+          "id": "268:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The team and organization use protected qualitative and segmented evidence to remove persistent barriers to belonging and contribution.",
+          "key": -10172652,
+          "id": "268:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 8877748,
+      "position": 268,
+      "id": 268
+    },
+    {
+      "section": "Health Learning and Action",
+      "descriptor": "Evaluate whether team-health evidence leads to owned, effective improvements.",
+      "raw": "Health Learning and Action Evaluate whether team-health evidence leads to owned, effective improvements.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Health surveys are collected without sharing results, protecting respondents, or acting on findings.",
+          "key": -768131422,
+          "id": "269:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Managers select only convenient actions and do not address systemic issues outside the team.",
+          "key": 616733098,
+          "id": "269:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The purpose, privacy protections, results, and limitations of health assessment are communicated.",
+          "key": 277183759,
+          "id": "269:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Teams choose a small number of owned improvements and review whether conditions changed.",
+          "key": 1974268284,
+          "id": "269:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Recurring themes influence management systems, staffing, priorities, incentives, policies, and organizational design.",
+          "key": 1200899532,
+          "id": "269:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1940518655,
+      "position": 269,
+      "id": 269
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

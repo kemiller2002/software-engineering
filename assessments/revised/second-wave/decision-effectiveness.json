@@ -1,0 +1,248 @@
+{
+  "name": "Decision Effectiveness",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Decision Framing",
+      "descriptor": "Evaluate whether consequential decisions have a clear question, owner, scope, criteria, and deadline.",
+      "raw": "Decision Framing Evaluate whether consequential decisions have a clear question, owner, scope, criteria, and deadline.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Meetings begin solution debate before participants agree on the decision to be made.",
+          "key": 760285434,
+          "id": "285:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Multiple people believe they own the same decision, or no one accepts final accountability.",
+          "key": -1809341070,
+          "id": "285:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material decisions identify the decision owner, question, participants, constraints, and required timing.",
+          "key": -246032773,
+          "id": "285:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Decision criteria, affected parties, reversibility, and evidence needs are established before comparing options.",
+          "key": 1594925162,
+          "id": "285:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Framing quality is reviewed against later implementation, surprises, and decision outcomes.",
+          "key": -790849742,
+          "id": "285:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 37455435,
+      "position": 285,
+      "id": 285
+    },
+    {
+      "section": "Evidence and Alternatives",
+      "descriptor": "Evaluate whether decisions use relevant evidence, credible alternatives, and explicit uncertainty.",
+      "raw": "Evidence and Alternatives Evaluate whether decisions use relevant evidence, credible alternatives, and explicit uncertainty.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Decisions rely mainly on seniority, confidence, precedent, or the first proposed solution.",
+          "key": -516235529,
+          "id": "286:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Only evidence supporting the preferred option is presented.",
+          "key": -490599594,
+          "id": "286:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material decisions distinguish facts, assumptions, estimates, opinions, and unknowns.",
+          "key": -2104458994,
+          "id": "286:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Credible alternatives are compared using relevant evidence, tradeoffs, risks, and sensitivity to uncertain assumptions.",
+          "key": 1075821454,
+          "id": "286:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Decision processes deliberately seek disconfirming evidence and independent challenge when consequence or irreversibility is high.",
+          "key": -291245670,
+          "id": "286:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -2053157004,
+      "position": 286,
+      "id": 286
+    },
+    {
+      "section": "Participation and Inclusion",
+      "descriptor": "Evaluate whether affected expertise and perspectives can influence decisions without creating unnecessary consensus requirements.",
+      "raw": "Participation and Inclusion Evaluate whether affected expertise and perspectives can influence decisions without creating unnecessary consensus requirements.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "People materially affected by a decision learn about it only after commitment.",
+          "key": -1842540809,
+          "id": "287:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Participation is broad but performative because authority and non-negotiable constraints are concealed.",
+          "key": -1939648890,
+          "id": "287:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The owner identifies who must decide, advise, provide evidence, implement, and be informed.",
+          "key": 472023753,
+          "id": "287:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Relevant frontline, customer, specialist, and dissenting perspectives are included early enough to change the outcome.",
+          "key": -583372262,
+          "id": "287:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Participation patterns are examined for missing voices, power effects, decision latency, and implementation quality.",
+          "key": 1272567395,
+          "id": "287:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1171732267,
+      "position": 287,
+      "id": 287
+    },
+    {
+      "section": "Speed and Escalation",
+      "descriptor": "Evaluate whether decisions occur at the appropriate level and speed for their reversibility and consequence.",
+      "raw": "Speed and Escalation Evaluate whether decisions occur at the appropriate level and speed for their reversibility and consequence.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Low-risk reversible decisions wait for senior approval or recurring governance forums.",
+          "key": -2076051883,
+          "id": "288:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "High-consequence decisions are rushed under artificial urgency without minimum evidence or safeguards.",
+          "key": 692567217,
+          "id": "288:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Decision paths and escalation thresholds reflect urgency, reversibility, impact, and authority.",
+          "key": 1649078911,
+          "id": "288:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Teams track consequential decision delay, blocked work, escalations, and exception patterns.",
+          "key": 635293088,
+          "id": "288:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Authority, policy, automation, and organizational boundaries are changed to eliminate recurring decision bottlenecks safely.",
+          "key": -1452446781,
+          "id": "288:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1058901925,
+      "position": 288,
+      "id": 288
+    },
+    {
+      "section": "Recording, Execution, and Learning",
+      "descriptor": "Evaluate whether decisions are communicated, implemented, reviewed, and revised as evidence changes.",
+      "raw": "Recording, Execution, and Learning Evaluate whether decisions are communicated, implemented, reviewed, and revised as evidence changes.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Decisions are remembered differently by participants because rationale and commitments are not recorded.",
+          "key": -382334956,
+          "id": "289:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "A decision is considered complete at approval with no owner for implementation or outcome review.",
+          "key": -643086526,
+          "id": "289:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material decisions record outcome, rationale, assumptions, owner, actions, and communication needs.",
+          "key": -128905591,
+          "id": "289:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Implementation and review dates test whether assumptions held and expected outcomes occurred.",
+          "key": -951671739,
+          "id": "289:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Decision records and outcome patterns improve decision principles, delegation, evidence practices, and institutional learning.",
+          "key": 130271661,
+          "id": "289:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1779455537,
+      "position": 289,
+      "id": 289
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

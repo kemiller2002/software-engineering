@@ -1,0 +1,248 @@
+{
+  "name": "Product-Market Fit Evidence",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Target Segment and Use Case",
+      "descriptor": "Evaluate whether fit is assessed for a specific segment, need, and competitive context.",
+      "raw": "Target Segment and Use Case Evaluate whether fit is assessed for a specific segment, need, and competitive context.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Product-market fit is claimed for the whole market from a small number of enthusiastic customers.",
+          "key": -1174187192,
+          "id": "300:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Usage from customers with materially different needs is combined into one average.",
+          "key": -752905167,
+          "id": "300:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The company defines target segments, primary use cases, alternatives, and expected value.",
+          "key": 1161348859,
+          "id": "300:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Fit evidence is segmented by customer type, use case, acquisition channel, cohort, and product maturity.",
+          "key": 228979085,
+          "id": "300:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Segment definitions and positioning evolve as retention, behavior, willingness to pay, and competitive evidence changes.",
+          "key": -1533263130,
+          "id": "300:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 119119736,
+      "position": 300,
+      "id": 300
+    },
+    {
+      "section": "Activation and Repeated Value",
+      "descriptor": "Evaluate whether customers reach meaningful value and return because the product solves an important need.",
+      "raw": "Activation and Repeated Value Evaluate whether customers reach meaningful value and return because the product solves an important need.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Sign-ups, downloads, or initial activity are treated as proof of sustained value.",
+          "key": -1202245577,
+          "id": "301:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Activation is defined by convenient events rather than demonstrated customer progress.",
+          "key": 1108796048,
+          "id": "301:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The product defines a behaviorally meaningful first-value event for each target use case.",
+          "key": -987819194,
+          "id": "301:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Cohorts are measured for time to value, repeated use, depth, frequency, and task outcomes.",
+          "key": 666252881,
+          "id": "301:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Activation and engagement models are revalidated against retention, expansion, satisfaction, and customer evidence.",
+          "key": 1848678180,
+          "id": "301:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 442984861,
+      "position": 301,
+      "id": 301
+    },
+    {
+      "section": "Retention and Pull",
+      "descriptor": "Evaluate whether customers continue, expand, recommend, or seek the product without disproportionate intervention.",
+      "raw": "Retention and Pull Evaluate whether customers continue, expand, recommend, or seek the product without disproportionate intervention.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Aggregate growth masks weak cohort retention or dependence on continual paid acquisition.",
+          "key": -693777161,
+          "id": "302:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Renewals driven by contracts, switching cost, or heavy services are treated as equivalent to product pull.",
+          "key": 393433985,
+          "id": "302:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The company tracks logo, user, usage, and revenue retention using appropriate cohorts.",
+          "key": 267387459,
+          "id": "302:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Retention drivers and churn reasons are investigated through behavioral, qualitative, commercial, and support evidence.",
+          "key": -997454679,
+          "id": "302:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Strong segments show durable pull, organic advocacy, expansion, and resilience to reduced sales or service intervention.",
+          "key": -52185762,
+          "id": "302:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1838137726,
+      "position": 302,
+      "id": 302
+    },
+    {
+      "section": "Willingness to Pay and Economics",
+      "descriptor": "Evaluate whether customer value supports sustainable pricing, acquisition, delivery, and service economics.",
+      "raw": "Willingness to Pay and Economics Evaluate whether customer value supports sustainable pricing, acquisition, delivery, and service economics.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Customer interest is treated as fit without evidence of willingness or authority to pay.",
+          "key": -984034459,
+          "id": "303:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Revenue growth is accepted despite discounts, customization, support, or infrastructure costs that make the segment uneconomic.",
+          "key": -592628507,
+          "id": "303:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Pricing, packaging, acquisition cost, gross margin, and cost to serve are measured by relevant segment.",
+          "key": 1047946579,
+          "id": "303:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Willingness to pay and unit economics are tested alongside value realization and competitive alternatives.",
+          "key": -1306317289,
+          "id": "303:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The company can grow target segments with sustainable marginal economics while maintaining customer outcomes.",
+          "key": -897059780,
+          "id": "303:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1688925356,
+      "position": 303,
+      "id": 303
+    },
+    {
+      "section": "Evidence Quality and Fit Decisions",
+      "descriptor": "Evaluate whether product-market fit conclusions reflect converging evidence and uncertainty.",
+      "raw": "Evidence Quality and Fit Decisions Evaluate whether product-market fit conclusions reflect converging evidence and uncertainty.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Fit is declared from a single survey score, executive belief, or short period of growth.",
+          "key": 1363371433,
+          "id": "304:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Contradictory churn, support, profitability, or non-user evidence is excluded from the narrative.",
+          "key": -386130261,
+          "id": "304:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The company states its fit hypothesis, evidence, limitations, and unresolved uncertainties.",
+          "key": -1943352747,
+          "id": "304:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Cohort behavior, customer research, willingness to pay, retention, economics, and alternatives are triangulated.",
+          "key": -590842802,
+          "id": "304:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Fit confidence explicitly changes product strategy, segment focus, growth spending, capacity, and exploration.",
+          "key": -2128018005,
+          "id": "304:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -125579761,
+      "position": 304,
+      "id": 304
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

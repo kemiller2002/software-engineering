@@ -1,0 +1,248 @@
+{
+  "name": "Product Discovery Effectiveness",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Opportunity Discovery",
+      "descriptor": "Evaluate whether teams continuously identify and frame valuable customer opportunities.",
+      "raw": "Opportunity Discovery Evaluate whether teams continuously identify and frame valuable customer opportunities.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Discovery begins with a requested solution and does not examine the underlying need.",
+          "key": 1318316036,
+          "id": "215:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "The loudest customer or stakeholder is treated as representative without checking segment evidence.",
+          "key": 1997133803,
+          "id": "215:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams gather direct evidence about customer goals, context, constraints, and alternatives.",
+          "key": 881174182,
+          "id": "215:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Opportunities are synthesized, segmented, and connected to measurable customer and business outcomes.",
+          "key": 145718488,
+          "id": "215:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Opportunity understanding is continuously refreshed and shared across product, design, engineering, support, and commercial groups.",
+          "key": 1100197232,
+          "id": "215:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -712980941,
+      "position": 215,
+      "id": 215
+    },
+    {
+      "section": "Assumption Identification",
+      "descriptor": "Evaluate whether teams expose value, usability, feasibility, viability, and ethical assumptions before committing heavily.",
+      "raw": "Assumption Identification Evaluate whether teams expose value, usability, feasibility, viability, and ethical assumptions before committing heavily.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Solutions enter delivery with material assumptions left implicit.",
+          "key": -1512563324,
+          "id": "216:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Technical feasibility is examined while customer value, usability, viability, or harm is assumed.",
+          "key": -2039517175,
+          "id": "216:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams identify the assumptions that must hold for a proposed solution to succeed.",
+          "key": 1700040165,
+          "id": "216:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Assumptions are prioritized by consequence and uncertainty using relevant cross-functional expertise.",
+          "key": -1812635584,
+          "id": "216:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Assumption maps and confidence are updated as evidence changes, including after release.",
+          "key": -299295717,
+          "id": "216:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1318338466,
+      "position": 216,
+      "id": 216
+    },
+    {
+      "section": "Testing and Evidence Quality",
+      "descriptor": "Evaluate whether discovery methods produce credible, decision-relevant evidence.",
+      "raw": "Testing and Evidence Quality Evaluate whether discovery methods produce credible, decision-relevant evidence.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Teams ask leading questions or treat stated preference as proof of future behavior.",
+          "key": 1788222793,
+          "id": "217:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Only confirming evidence is reported, and contradictory observations are discarded as outliers.",
+          "key": -1346296302,
+          "id": "217:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Methods are selected to match the uncertainty, such as interviews, prototypes, technical spikes, or behavioral tests.",
+          "key": 1362770813,
+          "id": "217:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Tests define the decision, expected signal, limitations, and evidence that would change direction.",
+          "key": -835808066,
+          "id": "217:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Multiple evidence types are triangulated, and consequential claims receive independent or disconfirming review.",
+          "key": 495612423,
+          "id": "217:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -565578715,
+      "position": 217,
+      "id": 217
+    },
+    {
+      "section": "Discovery-Delivery Integration",
+      "descriptor": "Evaluate whether discovery and delivery form one learning system rather than sequential handoffs.",
+      "raw": "Discovery-Delivery Integration Evaluate whether discovery and delivery form one learning system rather than sequential handoffs.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Discovery produces specifications that are handed to delivery with little continuing collaboration.",
+          "key": -833973781,
+          "id": "218:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Discovery runs far ahead, creating inventory that becomes stale before implementation.",
+          "key": 369071916,
+          "id": "218:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Product, design, and engineering collaborate during discovery and delivery.",
+          "key": 1269376720,
+          "id": "218:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Small delivery increments generate evidence that feeds the next discovery and prioritization decisions.",
+          "key": 12118980,
+          "id": "218:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Discovery depth, delivery commitment, and technical investment adapt together based on risk and learning.",
+          "key": 1158869440,
+          "id": "218:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -2122419062,
+      "position": 218,
+      "id": 218
+    },
+    {
+      "section": "Learning Speed and Decision Impact",
+      "descriptor": "Evaluate whether discovery changes decisions quickly enough to reduce waste and improve outcomes.",
+      "raw": "Learning Speed and Decision Impact Evaluate whether discovery changes decisions quickly enough to reduce waste and improve outcomes.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Research findings accumulate without owners, decision links, or follow-through.",
+          "key": -1332223782,
+          "id": "219:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Discovery success is measured by activities completed rather than decisions improved.",
+          "key": -1451828801,
+          "id": "219:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Insights and their supporting evidence are accessible to relevant decision-makers.",
+          "key": -1499596218,
+          "id": "219:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Teams track time from critical uncertainty to usable evidence and document resulting decisions.",
+          "key": -1291844694,
+          "id": "219:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The organization evaluates whether discovery reduced avoidable investment, improved outcomes, or revealed new strategic options.",
+          "key": 546101343,
+          "id": "219:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1014229940,
+      "position": 219,
+      "id": 219
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

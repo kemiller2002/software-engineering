@@ -1,0 +1,248 @@
+{
+  "name": "Organizational Design for Flow",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Value and Work Boundaries",
+      "descriptor": "Evaluate whether organizational boundaries align with meaningful customer and business value.",
+      "raw": "Value and Work Boundaries Evaluate whether organizational boundaries align with meaningful customer and business value.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Teams are organized mainly by technical layer or function, requiring many handoffs for routine customer changes.",
+          "key": 38083013,
+          "id": "290:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Organizational charts are changed without mapping actual work, customer journeys, or dependencies.",
+          "key": -1918138206,
+          "id": "290:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The organization understands major value streams, products, customer journeys, and enabling capabilities.",
+          "key": 1776286822,
+          "id": "290:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Team boundaries give durable groups ownership of coherent value and the systems needed to deliver it.",
+          "key": -1909019981,
+          "id": "290:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Boundaries evolve using flow, customer, dependency, cognitive-load, and strategic evidence rather than reorganization fashion.",
+          "key": -579653636,
+          "id": "290:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -932219755,
+      "position": 290,
+      "id": 290
+    },
+    {
+      "section": "Dependencies and Handoffs",
+      "descriptor": "Evaluate whether dependencies are visible, actively managed, and reduced where economically justified.",
+      "raw": "Dependencies and Handoffs Evaluate whether dependencies are visible, actively managed, and reduced where economically justified.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Teams repeatedly discover critical dependencies after work begins.",
+          "key": -1444584148,
+          "id": "291:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Coordination meetings multiply while the structural causes of dependencies remain unchanged.",
+          "key": 1029593471,
+          "id": "291:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material dependencies, owners, service expectations, and blocked time are visible.",
+          "key": -1984635079,
+          "id": "291:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Teams use contracts, platforms, embedded capability, sequencing, or boundary changes to reduce recurring coordination cost.",
+          "key": -1683711156,
+          "id": "291:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Dependency investment is prioritized using measured delay, failure demand, customer impact, and total organizational cost.",
+          "key": 457215932,
+          "id": "291:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1345123000,
+      "position": 291,
+      "id": 291
+    },
+    {
+      "section": "Team Cognitive Load and Capability",
+      "descriptor": "Evaluate whether teams have a manageable scope and access to the capabilities required for ownership.",
+      "raw": "Team Cognitive Load and Capability Evaluate whether teams have a manageable scope and access to the capabilities required for ownership.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Teams own more domains, tools, and operational responsibilities than they can understand or sustain.",
+          "key": 1577409255,
+          "id": "292:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Specialist capability is centralized without usable access paths or knowledge transfer.",
+          "key": 1283886895,
+          "id": "292:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams and leaders can identify domain, intrinsic, and extraneous cognitive-load pressures.",
+          "key": -714280156,
+          "id": "292:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Platforms, enabling teams, documentation, training, and scope changes address the most consequential load.",
+          "key": -1407736286,
+          "id": "292:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Capability placement and team scope adapt using task success, flow, reliability, learning, and workforce evidence.",
+          "key": -2076622365,
+          "id": "292:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -285768186,
+      "position": 292,
+      "id": 292
+    },
+    {
+      "section": "Enabling and Platform Relationships",
+      "descriptor": "Evaluate whether shared teams enable product teams without becoming queues or unaccountable mandates.",
+      "raw": "Enabling and Platform Relationships Evaluate whether shared teams enable product teams without becoming queues or unaccountable mandates.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Shared specialists operate as ticket queues with opaque priorities and long waits.",
+          "key": 735319472,
+          "id": "293:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Internal platforms mandate adoption without demonstrating better user outcomes.",
+          "key": 581776106,
+          "id": "293:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Enabling, platform, and complicated-subsystem responsibilities and engagement models are explicit.",
+          "key": -2140187054,
+          "id": "293:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Shared capabilities use service expectations, product management, user research, adoption, and task-success evidence.",
+          "key": -1452415759,
+          "id": "293:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Interaction modes and ownership change as product-team capability, platform maturity, and strategic needs evolve.",
+          "key": 1616110509,
+          "id": "293:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1773946018,
+      "position": 293,
+      "id": 293
+    },
+    {
+      "section": "Flow Governance and Improvement",
+      "descriptor": "Evaluate whether organizational design is governed through end-to-end outcomes rather than local utilization.",
+      "raw": "Flow Governance and Improvement Evaluate whether organizational design is governed through end-to-end outcomes rather than local utilization.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Functions optimize their own utilization or output while end-to-end lead time and quality deteriorate.",
+          "key": 13879309,
+          "id": "294:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Reorganizations declare success from new reporting lines before work or outcomes change.",
+          "key": 1509281190,
+          "id": "294:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Leaders review end-to-end flow, handoffs, work age, failure demand, and outcome ownership.",
+          "key": -2023713897,
+          "id": "294:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Design changes have explicit hypotheses, baselines, guardrails, and review periods.",
+          "key": -866092387,
+          "id": "294:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The organization treats structure as an evolving system and verifies whether changes improve value, resilience, and sustainability.",
+          "key": 863436358,
+          "id": "294:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1292546077,
+      "position": 294,
+      "id": 294
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

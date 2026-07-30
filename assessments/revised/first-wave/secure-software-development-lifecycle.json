@@ -1,0 +1,248 @@
+{
+  "name": "Secure Software Development Lifecycle",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Security Governance and Enablement",
+      "descriptor": "Evaluate whether secure development expectations, ownership, resources, and risk decisions are explicit and usable.",
+      "raw": "Security Governance and Enablement Evaluate whether secure development expectations, ownership, resources, and risk decisions are explicit and usable.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Security responsibility is delegated to a specialist team after development is complete.",
+          "key": -90601444,
+          "id": "240:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Security controls are applied uniformly without considering product risk or developer usability.",
+          "key": -792942610,
+          "id": "240:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Secure-development roles, minimum expectations, training, and escalation paths are documented.",
+          "key": -1677316026,
+          "id": "240:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Product risk determines proportionate activities, expertise, review, and assurance evidence.",
+          "key": -1215676585,
+          "id": "240:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Security capability, control effectiveness, developer experience, and product outcomes jointly drive program improvement.",
+          "key": 640731696,
+          "id": "240:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1915473599,
+      "position": 240,
+      "id": 240
+    },
+    {
+      "section": "Threat-Informed Design",
+      "descriptor": "Evaluate whether foreseeable threats, abuse, trust boundaries, and privacy risks shape design decisions.",
+      "raw": "Threat-Informed Design Evaluate whether foreseeable threats, abuse, trust boundaries, and privacy risks shape design decisions.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Security design begins only after implementation or external testing identifies defects.",
+          "key": 1065880310,
+          "id": "241:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Threat models are completed as compliance artifacts and are not updated or used in decisions.",
+          "key": -1216494663,
+          "id": "241:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material systems identify assets, actors, trust boundaries, threats, abuse cases, and assumptions.",
+          "key": -1984898355,
+          "id": "241:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Threat analysis is revisited for consequential changes and produces owned design or verification actions.",
+          "key": 607063287,
+          "id": "241:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Production incidents, intelligence, user harm, and control evidence continuously improve secure patterns and threat models.",
+          "key": -107674182,
+          "id": "241:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1434961815,
+      "position": 241,
+      "id": 241
+    },
+    {
+      "section": "Secure Implementation and Supply Chain",
+      "descriptor": "Evaluate whether code, dependencies, secrets, builds, and artifacts are protected throughout implementation.",
+      "raw": "Secure Implementation and Supply Chain Evaluate whether code, dependencies, secrets, builds, and artifacts are protected throughout implementation.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Dependencies, build inputs, or production artifacts cannot be reliably inventoried or traced.",
+          "key": 557539583,
+          "id": "242:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Secrets and privileged credentials are routinely embedded in code, shared channels, or long-lived local configuration.",
+          "key": 925148780,
+          "id": "242:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Supported secure coding, dependency, secrets, review, and artifact-handling practices are available.",
+          "key": 704891072,
+          "id": "242:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Build provenance, dependency risk, protected branches, artifact integrity, and exception handling are automated where appropriate.",
+          "key": 1226683821,
+          "id": "242:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Supply-chain controls are tested against realistic compromise paths and optimized for both assurance and developer usability.",
+          "key": 753233358,
+          "id": "242:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1248191349,
+      "position": 242,
+      "id": 242
+    },
+    {
+      "section": "Security Verification",
+      "descriptor": "Evaluate whether security testing provides risk-based, trustworthy evidence before and after release.",
+      "raw": "Security Verification Evaluate whether security testing provides risk-based, trustworthy evidence before and after release.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "A single scanner or penetration test is treated as proof that the product is secure.",
+          "key": -620734128,
+          "id": "243:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "High-noise findings are accepted without validation, ownership, or feedback into prevention.",
+          "key": 1908664315,
+          "id": "243:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Products use a documented mix of code, dependency, configuration, dynamic, and manual security checks.",
+          "key": -1730046264,
+          "id": "243:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Verification depth follows risk, covers abuse cases and controls, and tracks remediation through retest.",
+          "key": -669737028,
+          "id": "243:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Test effectiveness is evaluated against escaped vulnerabilities, threat change, false signals, and prevention outcomes.",
+          "key": -1750279097,
+          "id": "243:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1249306605,
+      "position": 243,
+      "id": 243
+    },
+    {
+      "section": "Vulnerability and Security Response",
+      "descriptor": "Evaluate whether security defects and incidents are prioritized, remediated, communicated, and learned from.",
+      "raw": "Vulnerability and Security Response Evaluate whether security defects and incidents are prioritized, remediated, communicated, and learned from.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Vulnerabilities are prioritized only by generic severity without asset, exploitability, or business context.",
+          "key": 1456809764,
+          "id": "244:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Exceptions remain open indefinitely without risk ownership or compensating controls.",
+          "key": -1709734147,
+          "id": "244:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Intake, triage, disclosure, remediation, exception, and escalation processes have named owners.",
+          "key": 1879827970,
+          "id": "244:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Risk-based service levels, exploit intelligence, customer exposure, and verification guide response.",
+          "key": -434007201,
+          "id": "244:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Response patterns drive systemic improvements to design, dependencies, tooling, training, and governance.",
+          "key": -156692750,
+          "id": "244:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1270055793,
+      "position": 244,
+      "id": 244
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

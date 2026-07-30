@@ -1,0 +1,248 @@
+{
+  "name": "Customer Support Capability",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Access and Intake",
+      "descriptor": "Evaluate whether customers can obtain support through accessible, appropriate, and well-routed channels.",
+      "raw": "Access and Intake Evaluate whether customers can obtain support through accessible, appropriate, and well-routed channels.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Customers cannot easily determine how to obtain help for urgent or sensitive problems.",
+          "key": 1892524451,
+          "id": "320:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Channel restrictions or automation prevent customers with accessibility, language, or complexity needs from reaching effective support.",
+          "key": -2096653878,
+          "id": "320:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Support routes, hours, service expectations, privacy boundaries, and escalation options are clear.",
+          "key": 1541864520,
+          "id": "320:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Intake captures relevant product, customer, severity, accessibility, and diagnostic context without unnecessary repetition.",
+          "key": 1860171934,
+          "id": "320:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Access channels and routing adapt using demand, containment failure, equity, urgency, customer effort, and outcome evidence.",
+          "key": 2011418853,
+          "id": "320:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1733238806,
+      "position": 320,
+      "id": 320
+    },
+    {
+      "section": "Diagnosis and Resolution Quality",
+      "descriptor": "Evaluate whether support resolves the customer's underlying problem accurately and safely.",
+      "raw": "Diagnosis and Resolution Quality Evaluate whether support resolves the customer's underlying problem accurately and safely.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Cases are closed to meet speed targets before the customer's task or problem is resolved.",
+          "key": 1853699321,
+          "id": "321:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Agents rely on scripts that do not account for context, risk, or contradictory evidence.",
+          "key": -563767274,
+          "id": "321:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Support has current product knowledge, diagnostic access, safe procedures, and specialist escalation.",
+          "key": 344838806,
+          "id": "321:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Resolution quality, recurrence, reopen rate, customer effort, and downstream impact balance response-time measures.",
+          "key": -1163146150,
+          "id": "321:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Case evidence improves diagnostics, tooling, knowledge, product design, and prevention of recurring failure.",
+          "key": 700898596,
+          "id": "321:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 2086567007,
+      "position": 321,
+      "id": 321
+    },
+    {
+      "section": "Prioritization and Escalation",
+      "descriptor": "Evaluate whether severity and routing reflect customer impact, vulnerability, scope, and urgency.",
+      "raw": "Prioritization and Escalation Evaluate whether severity and routing reflect customer impact, vulnerability, scope, and urgency.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Priority depends mainly on customer revenue, persistence, or executive visibility.",
+          "key": 845413395,
+          "id": "322:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Critical product, security, privacy, safety, or accessibility issues wait in general support queues.",
+          "key": -933388392,
+          "id": "322:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Severity criteria consider impact, scope, workaround, affected users, data, contractual, and regulatory factors.",
+          "key": 455582891,
+          "id": "322:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Escalations have named owners, response expectations, shared context, and feedback to the customer and support agent.",
+          "key": -1806714832,
+          "id": "322:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Escalation patterns change staffing, product ownership, incident criteria, controls, and customer commitments.",
+          "key": 518907479,
+          "id": "322:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1995405046,
+      "position": 322,
+      "id": 322
+    },
+    {
+      "section": "Knowledge and Enablement",
+      "descriptor": "Evaluate whether support knowledge is accurate, discoverable, governed, and useful to customers and staff.",
+      "raw": "Knowledge and Enablement Evaluate whether support knowledge is accurate, discoverable, governed, and useful to customers and staff.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Support answers depend on individual memory, private notes, or outdated documents.",
+          "key": -1347765252,
+          "id": "323:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Knowledge success is measured by article publication rather than task success or reduced failure demand.",
+          "key": 522121956,
+          "id": "323:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Knowledge content has ownership, review dates, source authority, accessibility, and retirement rules.",
+          "key": -279622008,
+          "id": "323:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Search, usage, deflection, escalation, correction, and customer-success evidence guide knowledge improvement.",
+          "key": -1401043108,
+          "id": "323:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Support, product, engineering, documentation, and community knowledge form a governed learning system.",
+          "key": 1410864437,
+          "id": "323:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -783434250,
+      "position": 323,
+      "id": 323
+    },
+    {
+      "section": "Support Operations and Workforce Health",
+      "descriptor": "Evaluate whether support demand, staffing, tools, quality, and employee sustainability are managed together.",
+      "raw": "Support Operations and Workforce Health Evaluate whether support demand, staffing, tools, quality, and employee sustainability are managed together.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Backlogs and emotional load grow while performance pressure increases and recovery capacity declines.",
+          "key": 1280374835,
+          "id": "324:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Automation is introduced to reduce contacts without checking resolution, trust, safety, or agent workload.",
+          "key": -1435169053,
+          "id": "324:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Demand, backlog age, staffing, schedules, skills, case mix, and employee health are visible.",
+          "key": 402872345,
+          "id": "324:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Quality review, coaching, workforce planning, tooling, and automation balance customer and employee outcomes.",
+          "key": 1589608016,
+          "id": "324:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Support evidence shapes product priorities, service design, commercial policy, operational readiness, and capacity strategy.",
+          "key": 917657781,
+          "id": "324:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1822876033,
+      "position": 324,
+      "id": 324
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

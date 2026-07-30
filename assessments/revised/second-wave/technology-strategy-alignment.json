@@ -1,0 +1,248 @@
+{
+  "name": "Technology Strategy Alignment",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Strategic Connection",
+      "descriptor": "Evaluate whether technology strategy directly supports explicit company and product choices.",
+      "raw": "Strategic Connection Evaluate whether technology strategy directly supports explicit company and product choices.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Technology priorities are selected mainly from technical preference, vendor pressure, or accumulated requests.",
+          "key": -1169753518,
+          "id": "275:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "The technology roadmap is presented separately from company and product strategy with no traceable connection.",
+          "key": -1102283373,
+          "id": "275:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Technology priorities identify the business or product objective they are intended to enable.",
+          "key": 1351843422,
+          "id": "275:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Strategic capabilities, constraints, dependencies, and timing are jointly reviewed by technology, product, finance, and business leaders.",
+          "key": -969203973,
+          "id": "275:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Technology strategy is revised as market evidence, product choices, economics, and capability outcomes change.",
+          "key": 1093052572,
+          "id": "275:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1725223331,
+      "position": 275,
+      "id": 275
+    },
+    {
+      "section": "Differentiating Capabilities",
+      "descriptor": "Evaluate whether investment distinguishes strategic technology capabilities from necessary commodity capabilities.",
+      "raw": "Differentiating Capabilities Evaluate whether investment distinguishes strategic technology capabilities from necessary commodity capabilities.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "The organization attempts to build every capability internally without assessing strategic differentiation.",
+          "key": -1301014141,
+          "id": "276:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Core differentiating capabilities depend on vendors or systems whose limitations and switching risks are not understood.",
+          "key": -379062778,
+          "id": "276:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The strategy identifies which technology capabilities differentiate the company and which are commodity or enabling.",
+          "key": 1287367547,
+          "id": "276:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Build, buy, partner, reuse, and retire decisions use differentiation, total cost, risk, speed, talent, and exit criteria.",
+          "key": -1311063389,
+          "id": "276:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Investment compounds a coherent set of differentiating capabilities while commodity work is simplified or sourced deliberately.",
+          "key": -2091249953,
+          "id": "276:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 316043173,
+      "position": 276,
+      "id": 276
+    },
+    {
+      "section": "Architecture and Platform Direction",
+      "descriptor": "Evaluate whether architectural and platform direction supports the strategic pace, scale, economics, and risk profile.",
+      "raw": "Architecture and Platform Direction Evaluate whether architectural and platform direction supports the strategic pace, scale, economics, and risk profile.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Architecture direction is defined by fashionable patterns or mandated products rather than strategic need.",
+          "key": -820417668,
+          "id": "277:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Platform investments proceed without named users, adoption evidence, or expected strategic outcomes.",
+          "key": 197109909,
+          "id": "277:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The strategy states architectural principles, platform responsibilities, constraints, and intended outcomes.",
+          "key": 184290595,
+          "id": "277:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Architecture and platform roadmaps are tied to measurable improvements in changeability, reliability, security, cost, or product speed.",
+          "key": 875126648,
+          "id": "277:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Technical direction preserves valuable options and adapts using adoption, task success, production, and economic evidence.",
+          "key": -319059292,
+          "id": "277:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1276402949,
+      "position": 277,
+      "id": 277
+    },
+    {
+      "section": "Capability and Talent Plan",
+      "descriptor": "Evaluate whether the organization can acquire, develop, and retain the capabilities required by its technology strategy.",
+      "raw": "Capability and Talent Plan Evaluate whether the organization can acquire, develop, and retain the capabilities required by its technology strategy.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Strategic commitments assume skills or leadership capacity that the organization does not have a credible plan to obtain.",
+          "key": -566147305,
+          "id": "278:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Hiring is treated as the default answer to capability gaps without considering learning, tooling, partners, or scope choices.",
+          "key": 1838330782,
+          "id": "278:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Critical current and future capability gaps, concentration risks, and ownership needs are documented.",
+          "key": -188105107,
+          "id": "278:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Workforce, learning, succession, sourcing, and platform plans are sequenced with strategic technology needs.",
+          "key": -228107506,
+          "id": "278:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Capability evidence changes strategic scope, organization design, partnerships, and investment before gaps become delivery crises.",
+          "key": 474198484,
+          "id": "278:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 329189594,
+      "position": 278,
+      "id": 278
+    },
+    {
+      "section": "Investment, Measures, and Review",
+      "descriptor": "Evaluate whether technology strategy has explicit investment logic, evidence, and revision mechanisms.",
+      "raw": "Investment, Measures, and Review Evaluate whether technology strategy has explicit investment logic, evidence, and revision mechanisms.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Technology strategy is declared successful when projects or migrations finish, regardless of realized outcomes.",
+          "key": -69464509,
+          "id": "279:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Long-running strategic programs continue because of sunk cost without updated value or risk evidence.",
+          "key": 85197388,
+          "id": "279:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Strategic initiatives have owners, expected outcomes, assumptions, costs, risks, and review dates.",
+          "key": 180277531,
+          "id": "279:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Reviews compare actual capability, product, delivery, reliability, risk, and economic outcomes with the strategic thesis.",
+          "key": -171170146,
+          "id": "279:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Leaders expand, redirect, pause, or stop technology investments using transparent evidence and opportunity cost.",
+          "key": -442747590,
+          "id": "279:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -329780990,
+      "position": 279,
+      "id": 279
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "name": "Customer Retention and Expansion System",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Value Realization",
+      "descriptor": "Evaluate whether customers achieve and recognize the outcomes for which they adopted the product.",
+      "raw": "Value Realization Evaluate whether customers achieve and recognize the outcomes for which they adopted the product.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Retention activity focuses on relationship cadence without evidence that customers realize value.",
+          "key": 568330631,
+          "id": "325:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Usage volume is treated as value even when it does not represent the customer's desired outcome.",
+          "key": -648865660,
+          "id": "325:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Target customers have explicit success outcomes, baselines, responsibilities, and review points.",
+          "key": 1341527080,
+          "id": "325:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Product behavior, business outcomes, qualitative evidence, and stakeholder confidence are combined to assess value.",
+          "key": 786452799,
+          "id": "325:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Value models adapt by segment and directly influence product, onboarding, service, pricing, and expansion decisions.",
+          "key": -1199468781,
+          "id": "325:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1706623789,
+      "position": 325,
+      "id": 325
+    },
+    {
+      "section": "Health and Risk Detection",
+      "descriptor": "Evaluate whether retention risk is detected early using valid, actionable signals.",
+      "raw": "Health and Risk Detection Evaluate whether retention risk is detected early using valid, actionable signals.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Churn risk is identified mainly from renewal dates, complaints, or account-manager intuition.",
+          "key": 1097524149,
+          "id": "326:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "A universal health score hides missing data, segment differences, stakeholder change, or product context.",
+          "key": -1873395121,
+          "id": "326:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Health signals cover adoption, outcomes, support, sentiment, relationship, commercial, and operational factors.",
+          "key": 578708721,
+          "id": "326:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Signals are validated against retention outcomes and produce owned, proportionate interventions.",
+          "key": 296281405,
+          "id": "326:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Health models expose uncertainty, are monitored for bias and drift, and are redesigned when interventions or products change.",
+          "key": -1980755878,
+          "id": "326:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1836620100,
+      "position": 326,
+      "id": 326
+    },
+    {
+      "section": "Renewal Integrity",
+      "descriptor": "Evaluate whether renewals reflect continuing value, transparent terms, and realistic commitments.",
+      "raw": "Renewal Integrity Evaluate whether renewals reflect continuing value, transparent terms, and realistic commitments.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Renewals rely on surprise deadlines, difficult cancellation, or contractual friction.",
+          "key": 1228987740,
+          "id": "327:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Discounts and promises are used to defer churn without addressing the underlying value gap.",
+          "key": 1586241269,
+          "id": "327:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Renewal timing, terms, usage, outcomes, concerns, and decision stakeholders are visible.",
+          "key": 1101612774,
+          "id": "327:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Product, success, support, sales, and finance coordinate an evidence-based renewal strategy.",
+          "key": 1054231300,
+          "id": "327:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Renewal learning changes segment strategy, product investment, packaging, contracting, and customer qualification.",
+          "key": 586585288,
+          "id": "327:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -956515099,
+      "position": 327,
+      "id": 327
+    },
+    {
+      "section": "Expansion Quality",
+      "descriptor": "Evaluate whether expansion creates additional customer value with sustainable economics.",
+      "raw": "Expansion Quality Evaluate whether expansion creates additional customer value with sustainable economics.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Expansion is pursued from available budget or sales targets without confirming new value.",
+          "key": -1064734894,
+          "id": "328:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Cross-sell success ignores implementation burden, adoption, support cost, or displacement of existing value.",
+          "key": -144508448,
+          "id": "328:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Expansion opportunities connect a verified customer need to a credible product outcome.",
+          "key": 1793266203,
+          "id": "328:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Willingness to pay, adoption capacity, implementation risk, unit economics, and success measures inform the offer.",
+          "key": 2049515734,
+          "id": "328:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Expansion cohorts demonstrate durable incremental value, healthy economics, and no material degradation of trust or retention.",
+          "key": -1452901370,
+          "id": "328:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1743851905,
+      "position": 328,
+      "id": 328
+    },
+    {
+      "section": "Churn and System Learning",
+      "descriptor": "Evaluate whether churn and contraction evidence produce cross-functional improvement.",
+      "raw": "Churn and System Learning Evaluate whether churn and contraction evidence produce cross-functional improvement.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Churn reasons are recorded as broad labels selected to complete a process.",
+          "key": -1911168931,
+          "id": "329:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Teams explain churn as customer fit or budget without examining product, service, promise, or market factors.",
+          "key": 1497288955,
+          "id": "329:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Churn and contraction receive consistent reason, context, segment, timeline, and evidence capture.",
+          "key": -35239987,
+          "id": "329:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Behavioral, commercial, support, product, competitive, and qualitative evidence are synthesized across cohorts.",
+          "key": -44467785,
+          "id": "329:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Churn learning changes strategy, qualification, product, pricing, onboarding, support, capacity, and retention investment.",
+          "key": -1767770996,
+          "id": "329:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 569873818,
+      "position": 329,
+      "id": 329
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

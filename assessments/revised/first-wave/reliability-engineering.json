@@ -1,0 +1,248 @@
+{
+  "name": "Reliability Engineering",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "User-Centered Reliability",
+      "descriptor": "Evaluate whether reliability is defined through customer-critical experiences rather than infrastructure availability alone.",
+      "raw": "User-Centered Reliability Evaluate whether reliability is defined through customer-critical experiences rather than infrastructure availability alone.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Reliability is described only through component uptime without checking whether users can complete important tasks.",
+          "key": 1738847677,
+          "id": "230:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "All services receive the same reliability target regardless of customer need, risk, or cost.",
+          "key": -1386414331,
+          "id": "230:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Critical user journeys and their failure consequences are identified.",
+          "key": -2102851875,
+          "id": "230:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Service, client-side, and end-to-end indicators cover the most important user experiences.",
+          "key": 1714112170,
+          "id": "230:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Reliability priorities adapt using customer impact, business criticality, support evidence, and observed failure patterns.",
+          "key": 1596415985,
+          "id": "230:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 552702724,
+      "position": 230,
+      "id": 230
+    },
+    {
+      "section": "SLIs, SLOs, and Error Budgets",
+      "descriptor": "Evaluate whether reliability objectives support explicit, evidence-based tradeoffs.",
+      "raw": "SLIs, SLOs, and Error Budgets Evaluate whether reliability objectives support explicit, evidence-based tradeoffs.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Availability targets are copied from convention or contracts without validating user relevance.",
+          "key": 812942132,
+          "id": "231:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Objectives exist but do not influence release, risk, or investment decisions.",
+          "key": 283645904,
+          "id": "231:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Important services have documented indicators, objectives, windows, and ownership.",
+          "key": 1862471662,
+          "id": "231:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Error-budget policies guide proportionate decisions about feature work, risk, and reliability investment.",
+          "key": -1376478364,
+          "id": "231:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Objectives and policies are recalibrated using user expectations, cost, architecture, and actual decision usefulness.",
+          "key": 902505478,
+          "id": "231:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 704110810,
+      "position": 231,
+      "id": 231
+    },
+    {
+      "section": "Reliability by Design",
+      "descriptor": "Evaluate whether failure modes, dependencies, capacity, and recovery are addressed during design and delivery.",
+      "raw": "Reliability by Design Evaluate whether failure modes, dependencies, capacity, and recovery are addressed during design and delivery.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Reliability concerns are deferred until after production failures.",
+          "key": -388812346,
+          "id": "232:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Redundancy is added without testing common-mode failure, dependency behavior, or operational complexity.",
+          "key": 443366607,
+          "id": "232:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Design work identifies critical failure modes, dependencies, capacity assumptions, and recovery paths.",
+          "key": -2079297047,
+          "id": "232:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Resilience patterns and degraded modes are tested under realistic conditions before critical exposure.",
+          "key": -1648476092,
+          "id": "232:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Architecture and product scope are jointly adapted to achieve the most valuable reliability at sustainable cost.",
+          "key": -681094856,
+          "id": "232:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -311891823,
+      "position": 232,
+      "id": 232
+    },
+    {
+      "section": "Operational Learning and Toil",
+      "descriptor": "Evaluate whether operational work produces learning and whether repetitive manual work is controlled.",
+      "raw": "Operational Learning and Toil Evaluate whether operational work produces learning and whether repetitive manual work is controlled.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Recurring operational tasks and incidents consume increasing time without visible ownership.",
+          "key": -299094269,
+          "id": "233:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Automation is pursued without considering maintenance cost, risk, or whether the underlying work should exist.",
+          "key": -1699066954,
+          "id": "233:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams identify recurring toil, operational load, and reliability demand.",
+          "key": 640648734,
+          "id": "233:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "High-cost recurring work is eliminated, simplified, or automated and the expected benefit is verified.",
+          "key": 1324141538,
+          "id": "233:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Operational learning systematically changes product design, platform capabilities, staffing, and reliability strategy.",
+          "key": 800790548,
+          "id": "233:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1475990578,
+      "position": 233,
+      "id": 233
+    },
+    {
+      "section": "Reliability Governance and Investment",
+      "descriptor": "Evaluate whether reliability risk has clear ownership, evidence, and investment mechanisms.",
+      "raw": "Reliability Governance and Investment Evaluate whether reliability risk has clear ownership, evidence, and investment mechanisms.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Reliability work depends on individual advocacy and is routinely displaced by feature commitments.",
+          "key": 1476395792,
+          "id": "234:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Leaders request high reliability without accepting the cost or product tradeoffs required.",
+          "key": 1737098899,
+          "id": "234:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Reliability ownership, escalation, and minimum expectations are explicit.",
+          "key": -2069693770,
+          "id": "234:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Investment decisions use customer impact, error-budget history, incident patterns, and risk exposure.",
+          "key": 217215508,
+          "id": "234:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Reliability is governed as a product outcome with transparent tradeoffs across value, risk, cost, and speed.",
+          "key": 443384222,
+          "id": "234:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 381270644,
+      "position": 234,
+      "id": 234
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

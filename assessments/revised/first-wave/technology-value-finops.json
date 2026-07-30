@@ -1,0 +1,248 @@
+{
+  "name": "Technology Value and FinOps",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Cost and Usage Visibility",
+      "descriptor": "Evaluate whether technology cost and usage data are timely, accurate, allocated, and decision-ready.",
+      "raw": "Cost and Usage Visibility Evaluate whether technology cost and usage data are timely, accurate, allocated, and decision-ready.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Material technology spending cannot be connected to products, owners, environments, or business purposes.",
+          "key": 1517916296,
+          "id": "255:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Teams receive cost reports too late or at too coarse a level to influence decisions.",
+          "key": 1128591806,
+          "id": "255:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material cloud, SaaS, licensing, data-center, and AI costs have accountable owners and documented allocation rules.",
+          "key": 2129150891,
+          "id": "255:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Cost, usage, commitment, and allocation data are timely, reconciled, and accessible to engineering, finance, and product.",
+          "key": 895918157,
+          "id": "255:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Data quality, shared-cost methods, and category coverage continuously improve based on decision needs and observed errors.",
+          "key": 1680090541,
+          "id": "255:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1372224126,
+      "position": 255,
+      "id": 255
+    },
+    {
+      "section": "Unit Economics and Business Value",
+      "descriptor": "Evaluate whether technology use is related to product demand, customer value, and sustainable economics.",
+      "raw": "Unit Economics and Business Value Evaluate whether technology use is related to product demand, customer value, and sustainable economics.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Cost reduction is pursued without understanding customer, revenue, reliability, or engineering effects.",
+          "key": -847850678,
+          "id": "256:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Total spending is reported without a meaningful demand or value denominator.",
+          "key": -868995300,
+          "id": "256:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Key products identify cost drivers and relevant units such as customer, transaction, workload, or model inference.",
+          "key": 2132881709,
+          "id": "256:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Unit cost and value measures inform architecture, pricing, product, and capacity decisions with explicit countermetrics.",
+          "key": 46363231,
+          "id": "256:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The organization evaluates marginal economics, segment differences, and strategic option value when allocating technology investment.",
+          "key": -1824281508,
+          "id": "256:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1129485446,
+      "position": 256,
+      "id": 256
+    },
+    {
+      "section": "Forecasting and Planning",
+      "descriptor": "Evaluate whether technology demand, cost, value, and uncertainty are forecast for timely decisions.",
+      "raw": "Forecasting and Planning Evaluate whether technology demand, cost, value, and uncertainty are forecast for timely decisions.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Budgets are fixed from prior-year spending without modeling demand or planned product change.",
+          "key": 1817203539,
+          "id": "257:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Forecast variance is punished without distinguishing model error, price change, demand change, or valuable opportunity.",
+          "key": -1902875814,
+          "id": "257:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Forecasts document scope, drivers, assumptions, owners, horizon, and material planned changes.",
+          "key": -2117278143,
+          "id": "257:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Rolling forecasts combine historical patterns, product demand, architecture, pricing, commitments, and scenarios.",
+          "key": -697451074,
+          "id": "257:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Forecast accuracy and decision usefulness are reviewed, and investment can be reallocated as evidence changes.",
+          "key": 219282405,
+          "id": "257:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 368188292,
+      "position": 257,
+      "id": 257
+    },
+    {
+      "section": "Optimization and Accountability",
+      "descriptor": "Evaluate whether teams improve technology value without degrading important outcomes.",
+      "raw": "Optimization and Accountability Evaluate whether teams improve technology value without degrading important outcomes.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Optimization consists of periodic cuts owned by finance or a central team with little engineering context.",
+          "key": -1983551702,
+          "id": "258:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Savings are claimed from recommendations or purchase discounts without verifying realized use or avoided cost.",
+          "key": -1650685153,
+          "id": "258:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Engineering, finance, and product share responsibility for prioritized optimization opportunities.",
+          "key": -1508387336,
+          "id": "258:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Realized value is verified against baselines and balanced with reliability, performance, security, sustainability, and labor cost.",
+          "key": -2026878607,
+          "id": "258:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Architecture, product demand, pricing, rate, usage, and retirement options are continuously compared for the highest net value.",
+          "key": -1574565021,
+          "id": "258:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1239965433,
+      "position": 258,
+      "id": 258
+    },
+    {
+      "section": "FinOps Operating Model and Governance",
+      "descriptor": "Evaluate whether technology-value decisions have effective roles, policies, automation, and executive alignment.",
+      "raw": "FinOps Operating Model and Governance Evaluate whether technology-value decisions have effective roles, policies, automation, and executive alignment.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Cost accountability is assigned without giving owners usable data, authority, or support.",
+          "key": -1249331972,
+          "id": "259:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Policies create approval delays while failing to prevent material waste or risk.",
+          "key": -2003847968,
+          "id": "259:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "FinOps roles, decision rights, policies, education, exceptions, and review cadences are defined.",
+          "key": 106156150,
+          "id": "259:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Guardrails and automation address repeatable decisions while specialists support consequential tradeoffs.",
+          "key": -593789343,
+          "id": "259:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Executive strategy, portfolio choices, product economics, engineering decisions, and sustainability use a coherent technology-value system.",
+          "key": 918319180,
+          "id": "259:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1324260249,
+      "position": 259,
+      "id": 259
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

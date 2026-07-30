@@ -1,0 +1,248 @@
+{
+  "name": "Responsible AI Governance",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "AI Inventory and Accountability",
+      "descriptor": "Evaluate whether material AI systems and uses are known, owned, classified, and governed across their lifecycle.",
+      "raw": "AI Inventory and Accountability Evaluate whether material AI systems and uses are known, owned, classified, and governed across their lifecycle.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "The organization cannot identify where AI materially affects products, employees, customers, or decisions.",
+          "key": 1543180650,
+          "id": "270:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "AI accountability is assigned to a committee without clear product, risk, and operational owners.",
+          "key": -2014826723,
+          "id": "270:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material AI systems and uses have documented purpose, owner, users, data, model/provider, and lifecycle status.",
+          "key": -2029594599,
+          "id": "270:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Uses are risk-tiered with proportionate roles, approvals, evidence, monitoring, incident, and retirement requirements.",
+          "key": 949294770,
+          "id": "270:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Inventory and accountability are continuously updated through procurement, development, deployment, monitoring, and decommissioning controls.",
+          "key": 1902823983,
+          "id": "270:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 988074378,
+      "position": 270,
+      "id": 270
+    },
+    {
+      "section": "Context and Impact Mapping",
+      "descriptor": "Evaluate whether intended use, affected parties, benefits, limitations, misuse, and harms are understood.",
+      "raw": "Context and Impact Mapping Evaluate whether intended use, affected parties, benefits, limitations, misuse, and harms are understood.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "AI is selected before establishing that it is appropriate for the user need and decision context.",
+          "key": 107840292,
+          "id": "271:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Impact review considers model accuracy while ignoring human workflow, affected communities, misuse, and downstream effects.",
+          "key": -691285446,
+          "id": "271:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material uses document intended purpose, context, users, affected parties, assumptions, and known limitations.",
+          "key": 2136786494,
+          "id": "271:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Cross-functional and affected-party input identifies foreseeable benefits, failures, misuse, rights, and distributional impacts.",
+          "key": -1475855976,
+          "id": "271:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Context and impact models are updated as use expands, behavior changes, incidents occur, or new evidence emerges.",
+          "key": 1729363730,
+          "id": "271:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -932929729,
+      "position": 271,
+      "id": 271
+    },
+    {
+      "section": "Measurement and Independent Evaluation",
+      "descriptor": "Evaluate whether AI quality, risk, and control effectiveness are measured with appropriate rigor.",
+      "raw": "Measurement and Independent Evaluation Evaluate whether AI quality, risk, and control effectiveness are measured with appropriate rigor.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Vendor claims or a single benchmark are accepted as sufficient evidence for production use.",
+          "key": -2118442877,
+          "id": "272:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Aggregate performance hides important failure modes, subgroups, uncertainty, or changes over time.",
+          "key": -1413171692,
+          "id": "272:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Evaluation criteria cover task quality, robustness, security, privacy, safety, fairness, accessibility, latency, and cost as applicable.",
+          "key": 333517678,
+          "id": "272:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Representative data, baselines, slices, adversarial tests, human factors, and uncertainty support go/no-go decisions.",
+          "key": -448385139,
+          "id": "272:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Consequential uses receive independent challenge, production monitoring, reproducible evaluation, and periodic revalidation.",
+          "key": 941132678,
+          "id": "272:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1967352349,
+      "position": 272,
+      "id": 272
+    },
+    {
+      "section": "Risk Treatment and Human Control",
+      "descriptor": "Evaluate whether AI risks are prioritized, treated, monitored, and bounded by effective human and technical controls.",
+      "raw": "Risk Treatment and Human Control Evaluate whether AI risks are prioritized, treated, monitored, and bounded by effective human and technical controls.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "High-impact AI outputs are acted on automatically without calibrated oversight, appeal, or recovery.",
+          "key": 1279166844,
+          "id": "273:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "A human is nominally in the loop but lacks time, information, authority, or skill to intervene effectively.",
+          "key": -1620282399,
+          "id": "273:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material risks have owners, treatments, residual-risk decisions, monitoring, and escalation paths.",
+          "key": 1164172269,
+          "id": "273:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Permissions, action bounds, review, fallback, explanation, contestability, rollback, and shutdown controls match the use risk.",
+          "key": 1560123363,
+          "id": "273:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Control effectiveness is tested in realistic human-AI workflows and adapted using incidents, near misses, drift, and user feedback.",
+          "key": 1459128017,
+          "id": "273:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 145669877,
+      "position": 273,
+      "id": 273
+    },
+    {
+      "section": "Transparency, Incidents, and Lifecycle Governance",
+      "descriptor": "Evaluate whether AI use is communicated honestly and managed through change, incident, and retirement.",
+      "raw": "Transparency, Incidents, and Lifecycle Governance Evaluate whether AI use is communicated honestly and managed through change, incident, and retirement.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Users cannot tell when AI materially shapes an interaction or decision that affects them.",
+          "key": -1748182577,
+          "id": "274:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Model or provider changes reach production without impact analysis, reevaluation, or change records.",
+          "key": 1206234709,
+          "id": "274:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material AI use, limitations, data practices, support, and escalation routes are communicated to relevant users.",
+          "key": 1419772375,
+          "id": "274:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Model changes, incidents, complaints, overrides, drift, vendor changes, and decommissioning follow documented controls.",
+          "key": -318518831,
+          "id": "274:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Governance evidence changes policy, product design, provider choices, monitoring, user recourse, and the decision to continue or retire AI uses.",
+          "key": 1172269937,
+          "id": "274:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -861081850,
+      "position": 274,
+      "id": 274
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "name": "Platform Engineering Product Maturity",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Platform Users and Product Strategy",
+      "descriptor": "Evaluate whether the platform has defined users, problems, outcomes, and strategic boundaries.",
+      "raw": "Platform Users and Product Strategy Evaluate whether the platform has defined users, problems, outcomes, and strategic boundaries.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "The platform roadmap is driven mainly by infrastructure preferences or central standardization goals.",
+          "key": -1040508691,
+          "id": "345:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Every shared tool or service is labeled a platform without a coherent user problem or product boundary.",
+          "key": 1196737081,
+          "id": "345:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Platform teams identify target internal users, priority tasks, needs, alternatives, and intended outcomes.",
+          "key": -1744920383,
+          "id": "345:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "User research, company strategy, architecture, security, and economics shape a focused platform strategy.",
+          "key": -913409432,
+          "id": "345:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Platform boundaries and investment evolve using adoption, retention, task success, delivery, reliability, and user evidence.",
+          "key": -145928741,
+          "id": "345:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1206016274,
+      "position": 345,
+      "id": 345
+    },
+    {
+      "section": "Self-Service and Task Success",
+      "descriptor": "Evaluate whether common platform workflows are discoverable, safe, and independently completable.",
+      "raw": "Self-Service and Task Success Evaluate whether common platform workflows are discoverable, safe, and independently completable.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Product teams must file tickets or contact specialists for routine environment, deployment, or service tasks.",
+          "key": 190160626,
+          "id": "346:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "A portal or API is called self-service even though users cannot complete the full task without hidden manual work.",
+          "key": 1378461364,
+          "id": "346:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Priority workflows have documented supported paths, ownership, and service expectations.",
+          "key": -874742217,
+          "id": "346:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Users can complete common tasks through usable interfaces with validation, feedback, recovery, and accessible documentation.",
+          "key": -822475501,
+          "id": "346:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Task completion, time, error, support demand, abandonment, and user research drive workflow improvement.",
+          "key": 1582297318,
+          "id": "346:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1132185352,
+      "position": 346,
+      "id": 346
+    },
+    {
+      "section": "Paved Paths and Flexibility",
+      "descriptor": "Evaluate whether platform defaults reduce burden while preserving justified choice and escape routes.",
+      "raw": "Paved Paths and Flexibility Evaluate whether platform defaults reduce burden while preserving justified choice and escape routes.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Platform use is mandated regardless of product context or whether the path meets team needs.",
+          "key": 573625631,
+          "id": "347:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Unlimited customization makes every platform adoption unique and costly to support.",
+          "key": -1004528928,
+          "id": "347:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Supported paths define clear benefits, constraints, compatibility, security, and ownership.",
+          "key": -1809636742,
+          "id": "347:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Defaults cover common needs while documented exceptions and extension points address justified differences.",
+          "key": 1916216441,
+          "id": "347:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Adoption, exception, support, risk, and product outcomes determine which paths are standardized, changed, or retired.",
+          "key": 394909235,
+          "id": "347:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 313480902,
+      "position": 347,
+      "id": 347
+    },
+    {
+      "section": "Platform Reliability and Operations",
+      "descriptor": "Evaluate whether the platform is operated as a dependable product with clear service ownership.",
+      "raw": "Platform Reliability and Operations Evaluate whether the platform is operated as a dependable product with clear service ownership.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Platform failures create broad delivery disruption without user-centered objectives or recovery plans.",
+          "key": -1517794044,
+          "id": "348:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Platform teams measure infrastructure uptime while ignoring whether developers can complete critical workflows.",
+          "key": -1361345286,
+          "id": "348:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Critical platform journeys, dependencies, owners, support, and recovery procedures are documented.",
+          "key": -753565462,
+          "id": "348:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "User-centered service objectives, incident management, capacity, observability, and change controls guide operation.",
+          "key": 1356571237,
+          "id": "348:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Reliability investment balances user impact, adoption, strategic importance, cost, and architectural resilience.",
+          "key": 348797622,
+          "id": "348:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1062645195,
+      "position": 348,
+      "id": 348
+    },
+    {
+      "section": "Adoption, Economics, and Outcomes",
+      "descriptor": "Evaluate whether platform investment produces measurable organizational value without coercive metrics.",
+      "raw": "Adoption, Economics, and Outcomes Evaluate whether platform investment produces measurable organizational value without coercive metrics.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Platform success is reported from features delivered or teams instructed to migrate.",
+          "key": 1980927082,
+          "id": "349:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Adoption is maximized without measuring task outcomes, migration cost, retained use, or displaced local capability.",
+          "key": -1651608485,
+          "id": "349:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The platform tracks voluntary or required adoption, retention, satisfaction, support, and cost.",
+          "key": 75711535,
+          "id": "349:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Delivery performance, task success, cognitive load, reliability, security, and total cost form a balanced scorecard.",
+          "key": 409765352,
+          "id": "349:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Investment expands, redirects, consolidates, or stops using marginal value, strategic fit, user outcomes, and credible alternatives.",
+          "key": -629976921,
+          "id": "349:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -119242616,
+      "position": 349,
+      "id": 349
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

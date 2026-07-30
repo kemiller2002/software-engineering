@@ -1,0 +1,248 @@
+{
+  "name": "Test Strategy and Quality Engineering",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Quality Risk Strategy",
+      "descriptor": "Evaluate whether testing focuses on the most consequential product and system risks.",
+      "raw": "Quality Risk Strategy Evaluate whether testing focuses on the most consequential product and system risks.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Testing is planned from feature lists or historical test cases without a current risk model.",
+          "key": -479445233,
+          "id": "340:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Quality is delegated to testers after implementation rather than owned across product development.",
+          "key": -1172529655,
+          "id": "340:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams identify important functional, reliability, security, privacy, accessibility, performance, and usability risks.",
+          "key": 1890252210,
+          "id": "340:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Test depth, independence, environments, data, and techniques are selected according to consequence and uncertainty.",
+          "key": -1422681562,
+          "id": "340:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Risk strategy evolves using customer impact, incidents, escaped defects, architecture, threat, and product evidence.",
+          "key": -1186108942,
+          "id": "340:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 466107601,
+      "position": 340,
+      "id": 340
+    },
+    {
+      "section": "Test Design and Coverage",
+      "descriptor": "Evaluate whether tests provide meaningful coverage of behavior, boundaries, failure, and change.",
+      "raw": "Test Design and Coverage Evaluate whether tests provide meaningful coverage of behavior, boundaries, failure, and change.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Large numbers of tests repeat the same happy paths while critical failure modes remain unexamined.",
+          "key": -128044372,
+          "id": "341:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Line or case-count coverage is treated as proof of product quality.",
+          "key": -1074265665,
+          "id": "341:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Tests cover acceptance examples, boundaries, errors, state, permissions, and important integrations.",
+          "key": -1749996625,
+          "id": "341:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Coverage models connect requirements, risks, architecture, customer journeys, and production behavior.",
+          "key": -328530278,
+          "id": "341:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Fault, mutation, exploratory, incident, and escape evidence reveal blind spots and improve test design.",
+          "key": 1675625750,
+          "id": "341:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 391225146,
+      "position": 341,
+      "id": 341
+    },
+    {
+      "section": "Automation Reliability and Feedback",
+      "descriptor": "Evaluate whether automated tests are fast, deterministic, maintainable, and appropriately placed.",
+      "raw": "Automation Reliability and Feedback Evaluate whether automated tests are fast, deterministic, maintainable, and appropriately placed.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Flaky or slow suites routinely block delivery or are bypassed to complete releases.",
+          "key": 783612742,
+          "id": "342:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "End-to-end automation is added for every scenario despite high maintenance cost and poor diagnostic value.",
+          "key": 2141281318,
+          "id": "342:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Tests are placed at the lowest useful level and have clear ownership and failure information.",
+          "key": -573163220,
+          "id": "342:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Duration, flakiness, quarantine, maintenance, signal quality, and feedback criticality are actively managed.",
+          "key": -1595724040,
+          "id": "342:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The test portfolio is continuously simplified and rebalanced using defect detection, change risk, cost, and learning speed.",
+          "key": 378397611,
+          "id": "342:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 517251395,
+      "position": 342,
+      "id": 342
+    },
+    {
+      "section": "Test Data and Environments",
+      "descriptor": "Evaluate whether testing has safe, representative, available data and environments.",
+      "raw": "Test Data and Environments Evaluate whether testing has safe, representative, available data and environments.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Testing depends on shared unstable environments or uncontrolled copies of sensitive production data.",
+          "key": 1498347545,
+          "id": "343:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Environment fidelity is pursued without deciding which differences matter to the risk being tested.",
+          "key": 1846077573,
+          "id": "343:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Test-data generation, masking, access, reset, retention, and environment ownership are documented.",
+          "key": 1513548910,
+          "id": "343:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Teams can provision isolated or controlled conditions with observable dependencies and relevant production-like behavior.",
+          "key": 1288247680,
+          "id": "343:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Data and environment strategy adapts using privacy, cost, contention, defect escapes, architecture, and test-purpose evidence.",
+          "key": -349074124,
+          "id": "343:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1083140386,
+      "position": 343,
+      "id": 343
+    },
+    {
+      "section": "Exploration and Quality Learning",
+      "descriptor": "Evaluate whether human exploration and production evidence complement automated verification.",
+      "raw": "Exploration and Quality Learning Evaluate whether human exploration and production evidence complement automated verification.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Testing follows only predefined scripts and cannot respond to unexpected behavior.",
+          "key": 568410981,
+          "id": "344:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Production defects are fixed individually without improving the broader quality system.",
+          "key": 1885537757,
+          "id": "344:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams perform risk-focused exploratory testing and capture useful observations and follow-up.",
+          "key": 1641066647,
+          "id": "344:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Support, telemetry, incidents, customer research, and escaped defects feed quality strategy and prevention.",
+          "key": -96751458,
+          "id": "344:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Quality learning changes product decisions, architecture, standards, tools, skills, and investment with verified outcomes.",
+          "key": 1828409593,
+          "id": "344:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -2125639787,
+      "position": 344,
+      "id": 344
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

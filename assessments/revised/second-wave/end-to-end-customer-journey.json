@@ -1,0 +1,248 @@
+{
+  "name": "End-to-End Customer Journey",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Journey Understanding",
+      "descriptor": "Evaluate whether the organization understands the customer's complete journey across channels and internal boundaries.",
+      "raw": "Journey Understanding Evaluate whether the organization understands the customer's complete journey across channels and internal boundaries.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Each function optimizes its own touchpoints without understanding the customer's end-to-end goal.",
+          "key": -1879605340,
+          "id": "310:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Journey maps reflect internal assumptions and ideal paths but exclude observed failure and recovery.",
+          "key": -276169869,
+          "id": "310:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Priority journeys identify customer goals, stages, channels, actors, systems, handoffs, and evidence sources.",
+          "key": 502101535,
+          "id": "310:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Representative customers validate journey conditions, including accessibility, regional, role, and lifecycle differences.",
+          "key": 438892194,
+          "id": "310:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Journey models evolve from behavior, feedback, support, service, commercial, and operational evidence.",
+          "key": 945710634,
+          "id": "310:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 737178544,
+      "position": 310,
+      "id": 310
+    },
+    {
+      "section": "Continuity and Handoffs",
+      "descriptor": "Evaluate whether customers can move between marketing, sales, product, service, billing, and support without losing context.",
+      "raw": "Continuity and Handoffs Evaluate whether customers can move between marketing, sales, product, service, billing, and support without losing context.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Customers repeatedly re-enter information or restate their situation when moving between channels or teams.",
+          "key": -198970883,
+          "id": "311:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Internal ownership disputes are exposed to customers as delays or contradictory instructions.",
+          "key": -660878120,
+          "id": "311:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Major handoffs have clear ownership, information, consent, service expectations, and escalation paths.",
+          "key": -507646313,
+          "id": "311:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "The organization measures transfer failure, repeated contact, customer effort, waiting, and abandonment.",
+          "key": 1149979191,
+          "id": "311:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Products, data, policies, and organizational boundaries are redesigned to eliminate recurring journey discontinuity.",
+          "key": -560111034,
+          "id": "311:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 999121707,
+      "position": 311,
+      "id": 311
+    },
+    {
+      "section": "Journey Outcomes and Friction",
+      "descriptor": "Evaluate whether journeys help customers achieve intended outcomes with reasonable effort and trust.",
+      "raw": "Journey Outcomes and Friction Evaluate whether journeys help customers achieve intended outcomes with reasonable effort and trust.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Journey success is measured mainly by internal completion or conversion regardless of customer outcome.",
+          "key": -2078785195,
+          "id": "312:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Friction is intentionally added to cancellation, complaint, privacy, or refund journeys.",
+          "key": -751650060,
+          "id": "312:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Priority journeys define customer success, business value, effort, time, error, and trust measures.",
+          "key": 133127943,
+          "id": "312:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Evidence is segmented and balanced with accessibility, fairness, support, retention, and harm countermetrics.",
+          "key": 71979259,
+          "id": "312:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Teams continuously improve the most consequential friction and verify that customer and business outcomes both improve.",
+          "key": 941633055,
+          "id": "312:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1672518766,
+      "position": 312,
+      "id": 312
+    },
+    {
+      "section": "Failure and Service Recovery",
+      "descriptor": "Evaluate whether customers can recognize, navigate, and recover from journey failures.",
+      "raw": "Failure and Service Recovery Evaluate whether customers can recognize, navigate, and recover from journey failures.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Errors leave customers without a clear explanation, preserved work, or recovery path.",
+          "key": 194981253,
+          "id": "313:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Failure recovery depends on exceptional employee effort or customer escalation.",
+          "key": 1727441481,
+          "id": "313:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Critical failures have understandable messages, safe states, self-service or assisted recovery, and ownership.",
+          "key": 820558244,
+          "id": "313:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Failure demand, repeated attempts, abandonment, compensation, and recovery time are measured.",
+          "key": 60299427,
+          "id": "313:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Recovery evidence changes product design, policies, operations, staffing, and preventive controls.",
+          "key": -1508559494,
+          "id": "313:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1364163738,
+      "position": 313,
+      "id": 313
+    },
+    {
+      "section": "Cross-Functional Governance",
+      "descriptor": "Evaluate whether the complete journey has accountable ownership and coordinated improvement.",
+      "raw": "Cross-Functional Governance Evaluate whether the complete journey has accountable ownership and coordinated improvement.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "No leader or group owns outcomes that span functional boundaries.",
+          "key": 99544004,
+          "id": "314:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Journey initiatives produce maps and workshops without changing priorities, systems, or incentives.",
+          "key": -1050900364,
+          "id": "314:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Priority journeys have accountable owners, shared outcomes, governance, and improvement backlogs.",
+          "key": 1619212861,
+          "id": "314:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Cross-functional reviews resolve policy, data, system, staffing, and ownership constraints using journey evidence.",
+          "key": 527134650,
+          "id": "314:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Investment and organization design adapt around customer journeys when end-to-end value outweighs local optimization.",
+          "key": 53707202,
+          "id": "314:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1912505164,
+      "position": 314,
+      "id": 314
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

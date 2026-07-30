@@ -1,0 +1,248 @@
+{
+  "name": "Outcome Measurement",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Outcome Definition",
+      "descriptor": "Evaluate whether desired customer, business, workforce, and system outcomes are explicit and distinguishable from outputs.",
+      "raw": "Outcome Definition Evaluate whether desired customer, business, workforce, and system outcomes are explicit and distinguishable from outputs.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Success is defined mainly as features shipped, projects completed, or deadlines met.",
+          "key": -573447849,
+          "id": "220:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Measures are selected because they are available rather than because they represent the intended change.",
+          "key": 923954569,
+          "id": "220:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Initiatives state the behavior or condition expected to change for a defined population.",
+          "key": -1687449258,
+          "id": "220:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Outcome definitions include a baseline, direction, time horizon, and connection to strategic value.",
+          "key": -340218843,
+          "id": "220:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Outcome models represent causal assumptions, competing explanations, and possible unintended effects.",
+          "key": 789769981,
+          "id": "220:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 347716315,
+      "position": 220,
+      "id": 220
+    },
+    {
+      "section": "Measure Quality",
+      "descriptor": "Evaluate whether measures are valid, reliable, timely, and appropriately segmented.",
+      "raw": "Measure Quality Evaluate whether measures are valid, reliable, timely, and appropriately segmented.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Metric definitions vary between reports or change without versioning.",
+          "key": -1019725829,
+          "id": "221:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Proxy measures are treated as direct proof of value despite known validity limits.",
+          "key": -1306333488,
+          "id": "221:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Measures have documented definitions, owners, sources, populations, and refresh expectations.",
+          "key": 1623197205,
+          "id": "221:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Data quality, missingness, uncertainty, segmentation, and instrumentation changes are monitored.",
+          "key": -1655873461,
+          "id": "221:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Measures are periodically revalidated against the construct and decisions they are intended to support.",
+          "key": 732247144,
+          "id": "221:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -395441532,
+      "position": 221,
+      "id": 221
+    },
+    {
+      "section": "Baselines, Targets, and Countermetrics",
+      "descriptor": "Evaluate whether targets are evidence-based and balanced against foreseeable harms or tradeoffs.",
+      "raw": "Baselines, Targets, and Countermetrics Evaluate whether targets are evidence-based and balanced against foreseeable harms or tradeoffs.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Targets are chosen arbitrarily or negotiated to appear achievable.",
+          "key": 1460549058,
+          "id": "222:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "A single target is optimized without monitoring quality, equity, reliability, cost, or sustainability effects.",
+          "key": 595274067,
+          "id": "222:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Relevant baselines and historical variation are established before judging change.",
+          "key": 315005970,
+          "id": "222:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Targets include rationale, uncertainty, guardrails, and countermetrics.",
+          "key": 605626374,
+          "id": "222:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Target ranges and guardrails are adapted when evidence reveals gaming, saturation, or changed context.",
+          "key": 932738243,
+          "id": "222:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1295890632,
+      "position": 222,
+      "id": 222
+    },
+    {
+      "section": "Causal Learning",
+      "descriptor": "Evaluate whether the organization distinguishes correlation, attribution, and causal evidence appropriately.",
+      "raw": "Causal Learning Evaluate whether the organization distinguishes correlation, attribution, and causal evidence appropriately.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Any movement after a release is attributed to the release without considering other causes.",
+          "key": 200405822,
+          "id": "223:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Statistical significance or dashboard movement is reported without practical importance or decision context.",
+          "key": 1735472450,
+          "id": "223:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams document alternative explanations and the limits of observational evidence.",
+          "key": 359384598,
+          "id": "223:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Experiments, quasi-experiments, qualitative evidence, or contribution analysis are used according to decision stakes.",
+          "key": 1969098014,
+          "id": "223:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Causal conclusions are reproducible, sensitivity-tested, and revised when later evidence contradicts them.",
+          "key": -1415802459,
+          "id": "223:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1047336534,
+      "position": 223,
+      "id": 223
+    },
+    {
+      "section": "Decision Use and Accountability",
+      "descriptor": "Evaluate whether outcome evidence changes prioritization, investment, and product decisions.",
+      "raw": "Decision Use and Accountability Evaluate whether outcome evidence changes prioritization, investment, and product decisions.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Dashboards are reviewed ceremonially without clear decisions or owners.",
+          "key": 177844519,
+          "id": "224:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Teams are punished for unfavorable evidence, encouraging concealment or metric gaming.",
+          "key": -1044445755,
+          "id": "224:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Outcome reviews identify decisions, owners, assumptions, and follow-up dates.",
+          "key": 531211099,
+          "id": "224:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Investment is continued, adapted, or stopped using pre-agreed evidence and strategic judgment.",
+          "key": 873606238,
+          "id": "224:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The organization rewards honest learning and audits whether measurement actually improved decisions.",
+          "key": -691181463,
+          "id": "224:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1195966161,
+      "position": 224,
+      "id": 224
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

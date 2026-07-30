@@ -1,0 +1,248 @@
+{
+  "name": "Architecture Fitness and Evolvability",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Changeability and Coupling",
+      "descriptor": "Evaluate whether architecture enables safe, localized change at the pace the product requires.",
+      "raw": "Changeability and Coupling Evaluate whether architecture enables safe, localized change at the pace the product requires.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Small product changes routinely require coordinated modifications across many unrelated components or teams.",
+          "key": -1242297358,
+          "id": "225:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Coupling and change cost are discussed without evidence from actual change paths.",
+          "key": -1364406945,
+          "id": "225:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams can identify component responsibilities, dependencies, and common change paths.",
+          "key": 1182478699,
+          "id": "225:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Architecture boundaries are tested against change lead time, deployment independence, and defect propagation.",
+          "key": -1674905507,
+          "id": "225:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Boundaries and ownership evolve using evidence about product change, flow, reliability, and cognitive load.",
+          "key": 1388130010,
+          "id": "225:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -576048203,
+      "position": 225,
+      "id": 225
+    },
+    {
+      "section": "Architectural Decisions",
+      "descriptor": "Evaluate whether consequential decisions are explicit, evidence-based, and reversible where practical.",
+      "raw": "Architectural Decisions Evaluate whether consequential decisions are explicit, evidence-based, and reversible where practical.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Major architecture choices are undocumented or justified only by authority or fashion.",
+          "key": 254490326,
+          "id": "226:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Decisions are treated as permanent even when assumptions or constraints change.",
+          "key": -2075553096,
+          "id": "226:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Consequential decisions record context, alternatives, tradeoffs, and ownership.",
+          "key": -743869092,
+          "id": "226:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Decisions identify assumptions, reversibility, migration implications, and follow-up validation.",
+          "key": 651900246,
+          "id": "226:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Decision records are actively revisited, and invalidated choices are changed through safe evolutionary paths.",
+          "key": 1284391447,
+          "id": "226:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -102049166,
+      "position": 226,
+      "id": 226
+    },
+    {
+      "section": "Fitness Functions and Quality Attributes",
+      "descriptor": "Evaluate whether architecture is continuously checked against important quality and constraint outcomes.",
+      "raw": "Fitness Functions and Quality Attributes Evaluate whether architecture is continuously checked against important quality and constraint outcomes.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Quality attributes such as reliability, security, performance, and accessibility are left implicit.",
+          "key": 89624003,
+          "id": "227:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Architecture compliance is judged mainly through periodic opinion-based review.",
+          "key": -1587640229,
+          "id": "227:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Critical quality attributes have measurable scenarios or acceptance boundaries.",
+          "key": 331852702,
+          "id": "227:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Automated and manual fitness checks detect material architectural drift in delivery workflows.",
+          "key": 660578841,
+          "id": "227:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Fitness criteria evolve with customer needs, threat conditions, scale, cost, and observed production behavior.",
+          "key": 1724527495,
+          "id": "227:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -855563593,
+      "position": 227,
+      "id": 227
+    },
+    {
+      "section": "Simplicity and Technical Debt",
+      "descriptor": "Evaluate whether unnecessary complexity is controlled and material architectural debt is managed transparently.",
+      "raw": "Simplicity and Technical Debt Evaluate whether unnecessary complexity is controlled and material architectural debt is managed transparently.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Complexity is added for hypothetical future needs without a current decision benefit.",
+          "key": -2067375154,
+          "id": "228:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Architectural debt is used as a vague label without linking it to measurable consequences.",
+          "key": -904267094,
+          "id": "228:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams prefer the simplest design that meets current requirements and known constraints.",
+          "key": -1011738564,
+          "id": "228:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Material debt is connected to delivery, reliability, security, cost, or strategic impact and prioritized accordingly.",
+          "key": -1879787448,
+          "id": "228:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The organization removes obsolete components and validates that simplification improves the intended outcomes.",
+          "key": 203113058,
+          "id": "228:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1287273686,
+      "position": 228,
+      "id": 228
+    },
+    {
+      "section": "Evolution and Migration",
+      "descriptor": "Evaluate whether architecture can change incrementally without unsafe, all-at-once transformation.",
+      "raw": "Evolution and Migration Evaluate whether architecture can change incrementally without unsafe, all-at-once transformation.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Modernization depends on a long replacement program with no incremental customer value or risk reduction.",
+          "key": 1282007488,
+          "id": "229:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Migration progress is reported through components built rather than traffic, users, data, or risk retired.",
+          "key": -846493452,
+          "id": "229:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Target changes have incremental transition states, compatibility plans, and rollback options.",
+          "key": 1910031661,
+          "id": "229:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Migrations use production evidence, progressive movement, and explicit legacy retirement criteria.",
+          "key": 1065396796,
+          "id": "229:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Architecture evolution preserves strategic options and continuously recalibrates scope using delivered value and reduced risk.",
+          "key": 1318978129,
+          "id": "229:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1651998001,
+      "position": 229,
+      "id": 229
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

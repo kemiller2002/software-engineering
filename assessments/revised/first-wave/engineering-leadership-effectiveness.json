@@ -1,0 +1,248 @@
+{
+  "name": "Engineering Leadership Effectiveness",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Direction and Context",
+      "descriptor": "Evaluate whether engineering leaders provide clear direction, boundaries, and strategic context.",
+      "raw": "Direction and Context Evaluate whether engineering leaders provide clear direction, boundaries, and strategic context.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Teams receive shifting priorities without an explanation of tradeoffs or changed evidence.",
+          "key": -1153840933,
+          "id": "260:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Leaders prescribe detailed solutions while leaving goals and decision boundaries ambiguous.",
+          "key": 2085762363,
+          "id": "260:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Engineering priorities, constraints, ownership, and connections to company and product strategy are communicated.",
+          "key": -1674351243,
+          "id": "260:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Teams understand which decisions they own, which require consultation, and how to escalate material risk.",
+          "key": 1597018935,
+          "id": "260:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Leaders update direction transparently as evidence changes while preserving coherence and local autonomy.",
+          "key": -1097166558,
+          "id": "260:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -2032276290,
+      "position": 260,
+      "id": 260
+    },
+    {
+      "section": "Technical and System Judgment",
+      "descriptor": "Evaluate whether leaders improve the whole engineering system using evidence and appropriate expertise.",
+      "raw": "Technical and System Judgment Evaluate whether leaders improve the whole engineering system using evidence and appropriate expertise.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Technical choices follow leadership preference or industry fashion without context-specific evidence.",
+          "key": -1453219092,
+          "id": "261:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Local delivery pressure routinely displaces reliability, security, maintainability, and capability investment.",
+          "key": -1816501097,
+          "id": "261:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Leaders seek relevant technical expertise and make material tradeoffs explicit.",
+          "key": -1792873635,
+          "id": "261:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Investment balances product delivery, architecture, platform, quality, reliability, security, debt, and workforce sustainability.",
+          "key": -1883018080,
+          "id": "261:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Leaders evaluate whether system changes produced intended outcomes and revise strategy when assumptions fail.",
+          "key": -1328360606,
+          "id": "261:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1874660921,
+      "position": 261,
+      "id": 261
+    },
+    {
+      "section": "Team Empowerment and Accountability",
+      "descriptor": "Evaluate whether teams have meaningful autonomy within clear outcome and risk boundaries.",
+      "raw": "Team Empowerment and Accountability Evaluate whether teams have meaningful autonomy within clear outcome and risk boundaries.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Routine team decisions require management approval, creating queues and learned helplessness.",
+          "key": -251558926,
+          "id": "262:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Autonomy is declared while teams lack the information, capability, authority, or resources to succeed.",
+          "key": 859413295,
+          "id": "262:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams own defined product and technical decisions and can access the stakeholders and evidence they need.",
+          "key": 921397497,
+          "id": "262:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Leaders remove systemic constraints and hold teams accountable for transparent outcomes and learning rather than plan compliance.",
+          "key": -106119788,
+          "id": "262:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Decision boundaries evolve using evidence about speed, quality, risk, team capability, and cross-team effects.",
+          "key": 355438949,
+          "id": "262:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1869760579,
+      "position": 262,
+      "id": 262
+    },
+    {
+      "section": "People Development and Inclusion",
+      "descriptor": "Evaluate whether leaders build capability, fairness, inclusion, and sustainable careers.",
+      "raw": "People Development and Inclusion Evaluate whether leaders build capability, fairness, inclusion, and sustainable careers.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Growth opportunities depend mainly on manager favor, visibility, or urgent business need.",
+          "key": -937977504,
+          "id": "263:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "High performance is rewarded despite harmful collaboration, exclusion, or unsustainable work patterns.",
+          "key": -964603910,
+          "id": "263:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Role expectations, feedback, growth support, and performance processes are accessible and documented.",
+          "key": -1859232135,
+          "id": "263:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Leaders examine advancement, opportunity, workload, retention, and belonging across relevant groups.",
+          "key": -136663566,
+          "id": "263:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Succession, coaching, sponsorship, mobility, and organizational learning build durable capability beyond individual leaders.",
+          "key": -838260278,
+          "id": "263:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -491352155,
+      "position": 263,
+      "id": 263
+    },
+    {
+      "section": "Trust, Learning, and Leadership Accountability",
+      "descriptor": "Evaluate whether leaders invite challenge, model learning, and are accountable for organizational outcomes.",
+      "raw": "Trust, Learning, and Leadership Accountability Evaluate whether leaders invite challenge, model learning, and are accountable for organizational outcomes.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "People who raise delivery, ethics, or safety concerns experience dismissal or retaliation.",
+          "key": -1637925342,
+          "id": "264:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Leaders explain unfavorable outcomes as team execution failures without examining system conditions or their own decisions.",
+          "key": 1271693728,
+          "id": "264:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Leaders invite dissent, acknowledge uncertainty and mistakes, and provide safe escalation routes.",
+          "key": 2092737894,
+          "id": "264:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Leadership decisions and improvement commitments are reviewed using workforce, customer, delivery, and risk evidence.",
+          "key": -1808001547,
+          "id": "264:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Upward feedback and outcome evidence produce visible changes in leadership behavior, structures, incentives, and investment.",
+          "key": 1330341290,
+          "id": "264:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -803974468,
+      "position": 264,
+      "id": 264
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

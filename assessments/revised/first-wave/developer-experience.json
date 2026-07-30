@@ -1,0 +1,248 @@
+{
+  "name": "Developer Experience",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Feedback Loops",
+      "descriptor": "Evaluate whether developers receive fast, trustworthy feedback while understanding, changing, and operating software.",
+      "raw": "Feedback Loops Evaluate whether developers receive fast, trustworthy feedback while understanding, changing, and operating software.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Developers routinely wait hours or days for builds, environments, reviews, or access without visibility into the delay.",
+          "key": 930012973,
+          "id": "205:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Slow or flaky feedback is normalized and worked around rather than owned and improved.",
+          "key": -423773096,
+          "id": "205:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams measure the time and reliability of their most common development feedback loops.",
+          "key": 1980121098,
+          "id": "205:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Build, test, review, deployment, and production feedback meet explicit service expectations for most routine changes.",
+          "key": 1691745034,
+          "id": "205:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Developer feedback loops are treated as products and improved using task evidence, user research, and outcome measures.",
+          "key": 236419497,
+          "id": "205:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1245604209,
+      "position": 205,
+      "id": 205
+    },
+    {
+      "section": "Cognitive Load and Understandability",
+      "descriptor": "Evaluate whether systems, responsibilities, and information are understandable within reasonable cognitive limits.",
+      "raw": "Cognitive Load and Understandability Evaluate whether systems, responsibilities, and information are understandable within reasonable cognitive limits.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Developers must understand many unrelated systems or undocumented exceptions to complete routine work.",
+          "key": 554922650,
+          "id": "206:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Complexity is shifted onto product teams without measuring its effect on delivery or reliability.",
+          "key": -1957480285,
+          "id": "206:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Service ownership, dependencies, standards, and common workflows are discoverable.",
+          "key": -1774707778,
+          "id": "206:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Teams actively reduce unnecessary cognitive load through clearer boundaries, automation, documentation, and platform capabilities.",
+          "key": 538437972,
+          "id": "206:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Cognitive-load evidence informs architecture, team boundaries, platform roadmaps, and investment decisions.",
+          "key": -1136488531,
+          "id": "206:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 445951417,
+      "position": 206,
+      "id": 206
+    },
+    {
+      "section": "Tooling and Environment Usability",
+      "descriptor": "Evaluate whether development tools and environments make important tasks safe, accessible, and efficient.",
+      "raw": "Tooling and Environment Usability Evaluate whether development tools and environments make important tasks safe, accessible, and efficient.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Routine setup and environment recovery depend on tribal knowledge or individual machines.",
+          "key": 115775176,
+          "id": "207:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Tools are selected centrally without validating task success or developer needs.",
+          "key": -1996480657,
+          "id": "207:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Documented, supported paths exist for environment setup, common changes, testing, and deployment.",
+          "key": -496021817,
+          "id": "207:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Internal tools are measured for adoption, retention, task success, reliability, and user satisfaction.",
+          "key": -397321425,
+          "id": "207:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Teams can choose appropriate tools within clear interoperability, security, and support boundaries.",
+          "key": -852675028,
+          "id": "207:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 638520775,
+      "position": 207,
+      "id": 207
+    },
+    {
+      "section": "Flow, Focus, and Interruptions",
+      "descriptor": "Evaluate whether work design protects focus while enabling timely collaboration and operational response.",
+      "raw": "Flow, Focus, and Interruptions Evaluate whether work design protects focus while enabling timely collaboration and operational response.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Unplanned work and interruptions routinely displace commitments without explicit tradeoffs.",
+          "key": -1219180127,
+          "id": "208:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Individual utilization is maximized even when queues, handoffs, and context switching increase.",
+          "key": -986427307,
+          "id": "208:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Teams make planned, unplanned, support, and operational work visible.",
+          "key": -833923716,
+          "id": "208:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Interrupt load, work in progress, and dependencies are managed using explicit policies and rotation models.",
+          "key": -505053277,
+          "id": "208:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Organizational demand and team capacity are continually rebalanced using flow, sustainability, and customer evidence.",
+          "key": 549113021,
+          "id": "208:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 978148619,
+      "position": 208,
+      "id": 208
+    },
+    {
+      "section": "Satisfaction, Inclusion, and Agency",
+      "descriptor": "Evaluate whether developers have the support, autonomy, and inclusive conditions needed to do effective work.",
+      "raw": "Satisfaction, Inclusion, and Agency Evaluate whether developers have the support, autonomy, and inclusive conditions needed to do effective work.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Developer concerns about tools or work design receive no safe response or visible ownership.",
+          "key": 348626316,
+          "id": "209:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "A single average satisfaction score masks material differences between roles, locations, or demographic groups.",
+          "key": -984218949,
+          "id": "209:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Developers can report friction, obtain support, and understand how improvement priorities are chosen.",
+          "key": -712974177,
+          "id": "209:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Experience data is segmented with privacy safeguards and combined with behavioral and operational evidence.",
+          "key": -1738283228,
+          "id": "209:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Teams participate in shaping their local methods, and systemic experience issues have accountable owners and verified outcomes.",
+          "key": -1099540568,
+          "id": "209:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -2053438433,
+      "position": 209,
+      "id": 209
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

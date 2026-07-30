@@ -1,0 +1,248 @@
+{
+  "name": "Digital Accessibility Capability",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Governance and Ownership",
+      "descriptor": "Evaluate whether accessibility has accountable ownership, policy, resources, and lifecycle integration.",
+      "raw": "Governance and Ownership Evaluate whether accessibility has accountable ownership, policy, resources, and lifecycle integration.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Accessibility depends on individual advocacy or is addressed only after complaints.",
+          "key": 850463659,
+          "id": "250:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "A conformance target is claimed without defining scope, evidence, exceptions, or ownership.",
+          "key": -186966660,
+          "id": "250:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The organization has an accessibility policy, target, roles, escalation path, and remediation process.",
+          "key": 353692588,
+          "id": "250:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Product, design, engineering, content, procurement, QA, support, and legal responsibilities are integrated into delivery.",
+          "key": -1390994964,
+          "id": "250:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Accessibility outcomes, defects, user feedback, and capability evidence guide executive priorities and investment.",
+          "key": -1407835027,
+          "id": "250:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -924738986,
+      "position": 250,
+      "id": 250
+    },
+    {
+      "section": "Inclusive Discovery and Design",
+      "descriptor": "Evaluate whether disabled people and accessibility needs shape product decisions before implementation.",
+      "raw": "Inclusive Discovery and Design Evaluate whether disabled people and accessibility needs shape product decisions before implementation.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Target users are modeled as having uniform abilities, environments, and input methods.",
+          "key": 1024170784,
+          "id": "251:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Accessibility is treated as a visual checklist after design approval.",
+          "key": 960463623,
+          "id": "251:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Discovery and design consider diverse sensory, motor, cognitive, speech, and situational needs.",
+          "key": -133716438,
+          "id": "251:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Representative disabled participants, accessibility specialists, and reusable accessible patterns inform consequential decisions.",
+          "key": 974987455,
+          "id": "251:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Teams measure task outcomes across access needs and use findings to change product strategy, flows, and design systems.",
+          "key": 975608778,
+          "id": "251:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -799664866,
+      "position": 251,
+      "id": 251
+    },
+    {
+      "section": "Accessible Implementation",
+      "descriptor": "Evaluate whether implementation preserves semantic, keyboard, visual, auditory, and cognitive accessibility.",
+      "raw": "Accessible Implementation Evaluate whether implementation preserves semantic, keyboard, visual, auditory, and cognitive accessibility.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Custom interfaces replace native semantics without equivalent keyboard or assistive-technology behavior.",
+          "key": 1429551177,
+          "id": "252:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Known accessibility defects are routinely deferred without impact, owner, or remediation plan.",
+          "key": 1567810830,
+          "id": "252:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Developers have supported standards, components, guidance, and examples for common accessibility needs.",
+          "key": -1653140348,
+          "id": "252:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Automated checks and code review prevent common regressions, while manual checks cover behavior automation cannot establish.",
+          "key": 1569414293,
+          "id": "252:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Platform and design-system improvements eliminate recurring defect classes and are validated in real product journeys.",
+          "key": 820180645,
+          "id": "252:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -2100269872,
+      "position": 252,
+      "id": 252
+    },
+    {
+      "section": "Verification and Conformance",
+      "descriptor": "Evaluate whether accessibility claims are based on representative, reproducible evidence.",
+      "raw": "Verification and Conformance Evaluate whether accessibility claims are based on representative, reproducible evidence.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Passing an automated scanner is treated as full accessibility conformance.",
+          "key": -1730980412,
+          "id": "253:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Testing excludes complete journeys, responsive states, third-party content, or assistive technology.",
+          "key": 1115838742,
+          "id": "253:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Relevant success criteria, supported platforms, pages, states, and user journeys are explicitly scoped.",
+          "key": 529949720,
+          "id": "253:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Verification combines automation, keyboard review, assistive-technology testing, zoom/reflow, content review, and user evidence.",
+          "key": 658426672,
+          "id": "253:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Conformance evidence is independently reviewed where stakes warrant and refreshed after material changes.",
+          "key": 1147886249,
+          "id": "253:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 586568670,
+      "position": 253,
+      "id": 253
+    },
+    {
+      "section": "Feedback, Support, and Remediation",
+      "descriptor": "Evaluate whether users can report barriers and receive timely, effective resolution.",
+      "raw": "Feedback, Support, and Remediation Evaluate whether users can report barriers and receive timely, effective resolution.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Accessibility feedback has no discoverable route or is handled as generic support noise.",
+          "key": 658918235,
+          "id": "254:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Reported barriers are closed when code changes without confirming the user's task can be completed.",
+          "key": -1891870219,
+          "id": "254:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "An accessible feedback route, ownership, severity model, workaround process, and escalation path exist.",
+          "key": 1021160825,
+          "id": "254:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Remediation is prioritized by user impact and verified in the affected journey and technology combination.",
+          "key": -1119222130,
+          "id": "254:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Feedback trends change design systems, procurement, training, testing, roadmaps, and public accessibility information.",
+          "key": 335346162,
+          "id": "254:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -636239308,
+      "position": 254,
+      "id": 254
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

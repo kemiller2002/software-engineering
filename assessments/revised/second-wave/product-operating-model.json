@@ -1,0 +1,248 @@
+{
+  "name": "Product Operating Model",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Durable Product Ownership",
+      "descriptor": "Evaluate whether durable cross-functional groups own customer and business outcomes across the product lifecycle.",
+      "raw": "Durable Product Ownership Evaluate whether durable cross-functional groups own customer and business outcomes across the product lifecycle.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Temporary project teams disband after delivery, leaving no clear owner for outcomes, operations, or learning.",
+          "key": -1072142469,
+          "id": "280:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Product ownership is nominal while scope, staffing, and priorities are controlled by unrelated governance bodies.",
+          "key": -52562524,
+          "id": "280:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Products and value areas have named, durable product, design, and engineering ownership.",
+          "key": -1099006762,
+          "id": "280:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Teams own discovery, delivery, quality, operation, measurement, and lifecycle decisions within clear boundaries.",
+          "key": 1149522263,
+          "id": "280:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Ownership boundaries evolve using customer journeys, dependencies, cognitive load, economics, and strategic outcomes.",
+          "key": -1997811424,
+          "id": "280:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1154999545,
+      "position": 280,
+      "id": 280
+    },
+    {
+      "section": "Outcome Accountability",
+      "descriptor": "Evaluate whether product groups are accountable for outcomes rather than activity or plan conformance.",
+      "raw": "Outcome Accountability Evaluate whether product groups are accountable for outcomes rather than activity or plan conformance.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Success is judged mainly by roadmap completion, utilization, or output volume.",
+          "key": 2064451492,
+          "id": "281:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Teams are assigned outcome targets but cannot change scope, approach, or priorities.",
+          "key": 1926382289,
+          "id": "281:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Product groups have explicit customer and business outcomes with relevant guardrails.",
+          "key": -738437399,
+          "id": "281:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Teams can adapt discovery and delivery using outcome evidence while explaining material tradeoffs.",
+          "key": -86953835,
+          "id": "281:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Leadership evaluates the quality of decisions and learning, including honest evidence that causes work to stop.",
+          "key": 1262031783,
+          "id": "281:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -932013490,
+      "position": 281,
+      "id": 281
+    },
+    {
+      "section": "Discovery and Delivery Integration",
+      "descriptor": "Evaluate whether discovery, design, engineering, analytics, and operations work as one learning system.",
+      "raw": "Discovery and Delivery Integration Evaluate whether discovery, design, engineering, analytics, and operations work as one learning system.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Product concepts are handed through sequential research, design, engineering, testing, and operations phases.",
+          "key": -798254949,
+          "id": "282:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Discovery is performed far ahead of delivery and is not refreshed when implementation or market evidence changes.",
+          "key": 1904001807,
+          "id": "282:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Relevant disciplines collaborate before commitment to identify value, usability, feasibility, viability, and risk.",
+          "key": -769296752,
+          "id": "282:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Small delivery increments generate operational and customer evidence that informs continuing discovery.",
+          "key": -1198616628,
+          "id": "282:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Discovery depth, technical investment, and delivery commitment adapt together according to uncertainty and consequence.",
+          "key": -670314616,
+          "id": "282:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 471962373,
+      "position": 282,
+      "id": 282
+    },
+    {
+      "section": "Funding and Capacity",
+      "descriptor": "Evaluate whether funding supports durable products, strategic options, and adaptive allocation.",
+      "raw": "Funding and Capacity Evaluate whether funding supports durable products, strategic options, and adaptive allocation.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Funding is tied to fixed project scope and temporary staffing, making evidence-based adaptation costly.",
+          "key": -1764497809,
+          "id": "283:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Teams receive annual capacity without a mechanism to retire low-value products or reallocate investment.",
+          "key": -2076524670,
+          "id": "283:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Funding distinguishes durable product capacity from time-bounded initiatives and experiments.",
+          "key": -120129750,
+          "id": "283:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Allocation decisions consider lifecycle stage, opportunity, outcomes, risk, platform needs, and total cost.",
+          "key": -2010378679,
+          "id": "283:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Portfolio reviews move investment between products and capabilities using current evidence without destabilizing teams unnecessarily.",
+          "key": 1109280013,
+          "id": "283:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 437730967,
+      "position": 283,
+      "id": 283
+    },
+    {
+      "section": "Decision Rights and Governance",
+      "descriptor": "Evaluate whether governance enables timely local decisions while protecting enterprise risks and shared interests.",
+      "raw": "Decision Rights and Governance Evaluate whether governance enables timely local decisions while protecting enterprise risks and shared interests.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Routine product decisions wait for multiple approval forums with unclear authority.",
+          "key": -1323980242,
+          "id": "284:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Teams bypass governance because controls are slow, duplicative, or disconnected from actual risk.",
+          "key": -1969713617,
+          "id": "284:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Decision rights, consultation needs, minimum controls, and escalation thresholds are explicit.",
+          "key": -1335824245,
+          "id": "284:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Reusable evidence and automated guardrails handle routine decisions while specialists focus on consequential exceptions.",
+          "key": 1148105432,
+          "id": "284:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Governance latency, control effectiveness, team autonomy, and outcome evidence drive continuous operating-model improvement.",
+          "key": -1940602712,
+          "id": "284:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1073769268,
+      "position": 284,
+      "id": 284
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

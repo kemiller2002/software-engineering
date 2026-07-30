@@ -1,0 +1,162 @@
+{
+  "generatedOn": "2026-07-30",
+  "wave": 2,
+  "itemIdRange": "275-349",
+  "statusDefinitions": {
+    "draft-complete": "Content is authored and structurally validated but has not yet completed respondent testing or psychometric validation.",
+    "pilot": "The instrument is undergoing cognitive interviews or field testing.",
+    "validated": "The instrument has documented evidence supporting its intended interpretation and use."
+  },
+  "assessments": [
+    {
+      "assessment": "Technology Strategy Alignment",
+      "file": "technology-strategy-alignment.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Product Operating Model",
+      "file": "product-operating-model.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Decision Effectiveness",
+      "file": "decision-effectiveness.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Organizational Design for Flow",
+      "file": "organizational-design-for-flow.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Portfolio Investment and Prioritization",
+      "file": "portfolio-investment-prioritization.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Product-Market Fit Evidence",
+      "file": "product-market-fit-evidence.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Customer Feedback System",
+      "file": "customer-feedback-system.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "End-to-End Customer Journey",
+      "file": "end-to-end-customer-journey.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Customer Onboarding Effectiveness",
+      "file": "customer-onboarding-effectiveness.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Customer Support Capability",
+      "file": "customer-support-capability.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Customer Retention and Expansion System",
+      "file": "customer-retention-expansion-system.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Code Maintainability",
+      "file": "code-maintainability.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Continuous Delivery Capability",
+      "file": "continuous-delivery-capability.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Test Strategy and Quality Engineering",
+      "file": "test-strategy-quality-engineering.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    },
+    {
+      "assessment": "Platform Engineering Product Maturity",
+      "file": "platform-engineering-product-maturity.json",
+      "status": "draft-complete",
+      "sections": 5,
+      "entries": 25,
+      "schemaValidated": true,
+      "contentReview": "completed",
+      "pilotValidation": "not-started"
+    }
+  ]
+}

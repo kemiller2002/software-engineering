@@ -1,0 +1,248 @@
+{
+  "name": "Privacy Engineering and Data Protection",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Purpose and Data Minimization",
+      "descriptor": "Evaluate whether personal data collection and use are necessary, explicit, and proportionate.",
+      "raw": "Purpose and Data Minimization Evaluate whether personal data collection and use are necessary, explicit, and proportionate.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Personal data is collected because it may be useful later without a defined purpose.",
+          "key": 2028275021,
+          "id": "245:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Teams copy production data into new systems or environments without necessity and risk review.",
+          "key": 9915918,
+          "id": "245:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material processing activities identify purpose, data categories, affected people, and accountable owners.",
+          "key": -1822467107,
+          "id": "245:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Design reviews challenge necessity, granularity, retention, access, and less-invasive alternatives.",
+          "key": -1798970897,
+          "id": "245:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Products continuously reduce personal-data exposure while measuring whether intended user and business outcomes remain achievable.",
+          "key": -1508954604,
+          "id": "245:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -412268460,
+      "position": 245,
+      "id": 245
+    },
+    {
+      "section": "Transparency, Choice, and Rights",
+      "descriptor": "Evaluate whether people can understand and exercise meaningful control over personal-data use.",
+      "raw": "Transparency, Choice, and Rights Evaluate whether people can understand and exercise meaningful control over personal-data use.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Privacy information is legalistic, incomplete, or materially different from actual product behavior.",
+          "key": 933435848,
+          "id": "246:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Consent or choice is designed to steer acceptance or makes refusal substantially harder.",
+          "key": 809151468,
+          "id": "246:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Notices explain material collection, use, sharing, retention, and contact routes in accessible language.",
+          "key": 2094948644,
+          "id": "246:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Rights and preference requests are authenticated, fulfilled, tracked, and propagated across relevant systems and vendors.",
+          "key": 647201422,
+          "id": "246:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Transparency and controls are tested with affected people and adapted using comprehension, completion, complaint, and error evidence.",
+          "key": -787373372,
+          "id": "246:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -438965715,
+      "position": 246,
+      "id": 246
+    },
+    {
+      "section": "Privacy by Design and Risk Assessment",
+      "descriptor": "Evaluate whether privacy risks to people are identified and addressed throughout the product lifecycle.",
+      "raw": "Privacy by Design and Risk Assessment Evaluate whether privacy risks to people are identified and addressed throughout the product lifecycle.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Privacy review occurs only near launch, after consequential architecture and data decisions are fixed.",
+          "key": -1841034763,
+          "id": "247:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Assessments list legal requirements without examining practical harms, vulnerable groups, or misuse.",
+          "key": 939855663,
+          "id": "247:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material changes receive early privacy review with documented data flows and risk ownership.",
+          "key": 1771032863,
+          "id": "247:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "High-risk processing examines likelihood, severity, affected groups, alternatives, controls, residual risk, and approval.",
+          "key": -1903870720,
+          "id": "247:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Assessments are revisited using incidents, complaints, product change, new uses, and evidence about control effectiveness.",
+          "key": 1778858023,
+          "id": "247:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 794349280,
+      "position": 247,
+      "id": 247
+    },
+    {
+      "section": "Data Lifecycle and Protection",
+      "descriptor": "Evaluate whether personal data is accurate, access-controlled, retained, transferred, and deleted appropriately.",
+      "raw": "Data Lifecycle and Protection Evaluate whether personal data is accurate, access-controlled, retained, transferred, and deleted appropriately.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "The organization cannot locate personal data or determine which systems and vendors retain it.",
+          "key": -800968098,
+          "id": "248:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Retention periods exist on paper but are not implemented or verified.",
+          "key": -996388170,
+          "id": "248:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Personal-data inventories, classifications, owners, access controls, retention rules, and transfer paths are documented.",
+          "key": 1857912355,
+          "id": "248:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Lifecycle controls are automated where appropriate and tested for deletion, restoration, downstream propagation, and exceptions.",
+          "key": -1793783513,
+          "id": "248:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Data exposure and retention are continuously reduced using measured need, access patterns, risk, and product outcomes.",
+          "key": 1338956335,
+          "id": "248:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -36878238,
+      "position": 248,
+      "id": 248
+    },
+    {
+      "section": "Privacy Operations and Accountability",
+      "descriptor": "Evaluate whether privacy incidents, vendors, evidence, and governance are managed effectively.",
+      "raw": "Privacy Operations and Accountability Evaluate whether privacy incidents, vendors, evidence, and governance are managed effectively.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Privacy concerns lack a safe intake route or clear decision owner.",
+          "key": -2098685815,
+          "id": "249:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Vendor privacy obligations are accepted from questionnaires without validating actual data flows or controls.",
+          "key": 1812058099,
+          "id": "249:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Incident, complaint, vendor, training, recordkeeping, and regulatory-response processes have named owners.",
+          "key": 705656797,
+          "id": "249:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Control evidence, request performance, incidents, complaints, and vendor changes are reviewed regularly.",
+          "key": -317885782,
+          "id": "249:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Privacy governance uses operational evidence and affected-person feedback to change products, contracts, architecture, and investment.",
+          "key": -630071809,
+          "id": "249:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 592526039,
+      "position": 249,
+      "id": 249
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

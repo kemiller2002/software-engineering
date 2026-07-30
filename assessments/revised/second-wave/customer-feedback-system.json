@@ -1,0 +1,248 @@
+{
+  "name": "Customer Feedback System",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Coverage and Representation",
+      "descriptor": "Evaluate whether feedback channels represent relevant customers, non-users, and contexts.",
+      "raw": "Coverage and Representation Evaluate whether feedback channels represent relevant customers, non-users, and contexts.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Feedback is dominated by the loudest customers, largest accounts, or easiest users to reach.",
+          "key": 1706627337,
+          "id": "305:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "The organization does not examine whose experience is missing from feedback.",
+          "key": -1730558174,
+          "id": "305:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Feedback sources, target populations, and known representation gaps are documented.",
+          "key": 270291627,
+          "id": "305:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Research, support, sales, success, community, behavioral, and accessibility channels are intentionally sampled and compared.",
+          "key": 268731658,
+          "id": "305:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Coverage adapts using segment strategy, participation bias, emerging harms, churn, and product change.",
+          "key": -204585275,
+          "id": "305:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1907807345,
+      "position": 305,
+      "id": 305
+    },
+    {
+      "section": "Collection Quality and Safety",
+      "descriptor": "Evaluate whether feedback is collected ethically, accessibly, and in forms suited to the decision.",
+      "raw": "Collection Quality and Safety Evaluate whether feedback is collected ethically, accessibly, and in forms suited to the decision.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Questions lead customers toward preferred answers or solicit feedback with no intended decision use.",
+          "key": 1664132499,
+          "id": "306:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Participants cannot safely provide critical feedback because confidentiality, retaliation, or account consequences are unclear.",
+          "key": 2103519183,
+          "id": "306:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Collection methods state purpose, consent, data use, and accessible participation routes.",
+          "key": -1919895136,
+          "id": "306:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Methods match the uncertainty and protect sensitive data, vulnerable participants, and honest response.",
+          "key": -727588090,
+          "id": "306:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Collection quality is tested for comprehension, bias, burden, inclusion, and whether evidence improves decisions.",
+          "key": -1881270819,
+          "id": "306:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1917613464,
+      "position": 306,
+      "id": 306
+    },
+    {
+      "section": "Synthesis and Insight Integrity",
+      "descriptor": "Evaluate whether feedback is systematically analyzed without erasing context or contradictory evidence.",
+      "raw": "Synthesis and Insight Integrity Evaluate whether feedback is systematically analyzed without erasing context or contradictory evidence.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Individual quotes are elevated directly into roadmap commitments.",
+          "key": 1899077751,
+          "id": "307:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Feedback counts are interpreted without customer context, exposure, severity, or selection bias.",
+          "key": 2017880006,
+          "id": "307:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Feedback is coded or organized with source, segment, context, date, and supporting evidence.",
+          "key": -289963187,
+          "id": "307:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Themes are triangulated with behavior, outcomes, support impact, strategy, and contrary cases.",
+          "key": -1213338445,
+          "id": "307:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Insight confidence, limitations, and alternative explanations are explicit and updated as new evidence arrives.",
+          "key": -875251509,
+          "id": "307:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1906672391,
+      "position": 307,
+      "id": 307
+    },
+    {
+      "section": "Decision Integration",
+      "descriptor": "Evaluate whether customer evidence influences product, service, and operational decisions transparently.",
+      "raw": "Decision Integration Evaluate whether customer evidence influences product, service, and operational decisions transparently.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Feedback accumulates in repositories without clear owners or links to decisions.",
+          "key": 1421829046,
+          "id": "308:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Teams cherry-pick customer comments to justify decisions already made.",
+          "key": 1192984335,
+          "id": "308:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Relevant feedback is accessible to product, design, engineering, support, and commercial decision-makers.",
+          "key": -1272962951,
+          "id": "308:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Material decisions record which customer evidence was considered and why competing needs were resolved as they were.",
+          "key": 162341497,
+          "id": "308:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The organization audits whether feedback changed priorities and whether those decisions improved customer outcomes.",
+          "key": -625499165,
+          "id": "308:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1077628004,
+      "position": 308,
+      "id": 308
+    },
+    {
+      "section": "Closed Loops and Learning",
+      "descriptor": "Evaluate whether customers and internal contributors can see appropriate follow-through and system improvement.",
+      "raw": "Closed Loops and Learning Evaluate whether customers and internal contributors can see appropriate follow-through and system improvement.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Customers repeatedly report the same issue without acknowledgment, status, or resolution.",
+          "key": 1499661551,
+          "id": "309:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Closing the loop is treated as promising every requester the feature they proposed.",
+          "key": 10069105,
+          "id": "309:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Feedback receives acknowledgment, routing, ownership, and an appropriate expectation.",
+          "key": 991754615,
+          "id": "309:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Affected customers receive relevant updates, workarounds, decisions, or resolution while privacy is protected.",
+          "key": 633320193,
+          "id": "309:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Recurring feedback changes product strategy, service design, documentation, support, telemetry, and collection methods.",
+          "key": -290927882,
+          "id": "309:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -2028452437,
+      "position": 309,
+      "id": 309
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

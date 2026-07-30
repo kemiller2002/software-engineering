@@ -1,0 +1,248 @@
+{
+  "name": "Incident Management",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Detection and Declaration",
+      "descriptor": "Evaluate whether incidents are recognized, classified, and declared quickly using customer-impact evidence.",
+      "raw": "Detection and Declaration Evaluate whether incidents are recognized, classified, and declared quickly using customer-impact evidence.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Incident recognition depends primarily on customer complaints or individual intuition.",
+          "key": -1461664442,
+          "id": "235:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "People delay declaration because criteria are unclear or because false alarms are punished.",
+          "key": -1312428061,
+          "id": "235:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Critical services have monitored symptoms, ownership, and documented declaration criteria.",
+          "key": 187978036,
+          "id": "235:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Detection and declaration performance is reviewed using customer-impacting incidents and missed signals.",
+          "key": -1638154838,
+          "id": "235:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Signals, thresholds, and declaration policies adapt as products, dependencies, and failure modes change.",
+          "key": -458917417,
+          "id": "235:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 999892587,
+      "position": 235,
+      "id": 235
+    },
+    {
+      "section": "Coordination and Decision Roles",
+      "descriptor": "Evaluate whether response roles, authority, and information flow enable safe mitigation.",
+      "raw": "Coordination and Decision Roles Evaluate whether response roles, authority, and information flow enable safe mitigation.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Incident response has no clear coordinator, resulting in duplicated work or conflicting changes.",
+          "key": 132989963,
+          "id": "236:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "The most senior person present overrides technical roles without establishing shared evidence or intent.",
+          "key": 1380416408,
+          "id": "236:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Incident coordination, technical operations, communications, and recording responsibilities are explicit.",
+          "key": 65381995,
+          "id": "236:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Responders use shared timelines, hypotheses, decision logs, and escalation paths during material incidents.",
+          "key": -1189997752,
+          "id": "236:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Role design and response protocols are repeatedly exercised and improved from observed coordination failures.",
+          "key": 1724596775,
+          "id": "236:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 657864129,
+      "position": 236,
+      "id": 236
+    },
+    {
+      "section": "Mitigation and Recovery",
+      "descriptor": "Evaluate whether responders can reduce customer harm and restore a known-good service safely.",
+      "raw": "Mitigation and Recovery Evaluate whether responders can reduce customer harm and restore a known-good service safely.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Recovery depends on untested manual actions known to only a few people.",
+          "key": -2111885597,
+          "id": "237:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Responders make multiple high-risk changes without tracking effects or preserving rollback options.",
+          "key": -1134440579,
+          "id": "237:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Critical services have accessible recovery procedures and known escalation contacts.",
+          "key": 247454583,
+          "id": "237:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Rollback, roll-forward, failover, traffic control, or degraded modes are rehearsed and selected according to evidence.",
+          "key": -461229965,
+          "id": "237:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Recovery capability is continuously tested against realistic failure, dependency, data-integrity, and capacity scenarios.",
+          "key": 2117664537,
+          "id": "237:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -2131632574,
+      "position": 237,
+      "id": 237
+    },
+    {
+      "section": "Communication and Customer Care",
+      "descriptor": "Evaluate whether incident communication is timely, accurate, accessible, and appropriate to affected parties.",
+      "raw": "Communication and Customer Care Evaluate whether incident communication is timely, accurate, accessible, and appropriate to affected parties.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Customers and internal stakeholders receive no update until full resolution.",
+          "key": 1866302964,
+          "id": "238:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Communications minimize impact or provide certainty that responders do not have.",
+          "key": 1296636357,
+          "id": "238:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material incidents have owners and channels for internal, customer, executive, legal, and support communication.",
+          "key": 1406907432,
+          "id": "238:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Updates state known impact, uncertainty, actions, workarounds, and expected next communication time.",
+          "key": 853771136,
+          "id": "238:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Communication quality is tested with affected audiences and improved for accessibility, trust, and decision usefulness.",
+          "key": -1595867143,
+          "id": "238:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -403331894,
+      "position": 238,
+      "id": 238
+    },
+    {
+      "section": "Learning and Follow-Through",
+      "descriptor": "Evaluate whether incidents produce psychologically safe, system-focused, and verified improvement.",
+      "raw": "Learning and Follow-Through Evaluate whether incidents produce psychologically safe, system-focused, and verified improvement.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Reviews focus on individual error or assign actions before understanding contributing conditions.",
+          "key": -980653946,
+          "id": "239:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Corrective actions accumulate without owners, deadlines, prioritization, or effectiveness checks.",
+          "key": 767282039,
+          "id": "239:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material incidents receive a timely review based on a shared factual timeline.",
+          "key": -989208258,
+          "id": "239:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Reviews examine technical, organizational, detection, decision, and recovery conditions and assign risk-based actions.",
+          "key": -1707053318,
+          "id": "239:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Action effectiveness and recurring patterns are tracked across incidents, and learning changes strategy, architecture, and operations.",
+          "key": -47003633,
+          "id": "239:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1034310695,
+      "position": 239,
+      "id": 239
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}

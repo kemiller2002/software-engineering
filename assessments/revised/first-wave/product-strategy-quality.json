@@ -1,0 +1,248 @@
+{
+  "name": "Product Strategy Quality",
+  "scores": {
+    "show": true
+  },
+  "items": [
+    {
+      "section": "Target Customer and Problem",
+      "descriptor": "Evaluate whether the strategy identifies a specific customer, important problem, and credible evidence of need.",
+      "raw": "Target Customer and Problem Evaluate whether the strategy identifies a specific customer, important problem, and credible evidence of need.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "The strategy describes a broad market without identifying whose problem is most important.",
+          "key": 818307940,
+          "id": "210:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Customer needs are asserted from internal opinion or sales pressure without representative evidence.",
+          "key": 1791052159,
+          "id": "210:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The strategy names target segments, users, needs, and relevant alternatives.",
+          "key": -1778930245,
+          "id": "210:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Problem importance and segment differences are supported by current qualitative and quantitative evidence.",
+          "key": -234241115,
+          "id": "210:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The organization updates its customer and problem model as behavior, competition, and market conditions change.",
+          "key": -1933491152,
+          "id": "210:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 2117064260,
+      "position": 210,
+      "id": 210
+    },
+    {
+      "section": "Differentiated Value and Advantage",
+      "descriptor": "Evaluate whether the strategy makes a credible choice about differentiated value and defensible advantage.",
+      "raw": "Differentiated Value and Advantage Evaluate whether the strategy makes a credible choice about differentiated value and defensible advantage.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "The strategy is a feature list or aspiration that could describe most competitors.",
+          "key": 2039751967,
+          "id": "211:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Differentiation relies on unsupported claims or temporary implementation details.",
+          "key": 477342313,
+          "id": "211:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The strategy states why target customers should choose the product over specific alternatives.",
+          "key": 80432126,
+          "id": "211:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Differentiation is tested through customer behavior, willingness to pay, retention, or other relevant evidence.",
+          "key": 1537279015,
+          "id": "211:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Capabilities, data, distribution, ecosystem, cost structure, or learning advantages reinforce one another over time.",
+          "key": -1064987674,
+          "id": "211:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1766575665,
+      "position": 211,
+      "id": 211
+    },
+    {
+      "section": "Choices and Tradeoffs",
+      "descriptor": "Evaluate whether the strategy establishes coherent choices about where to play, how to win, and what not to pursue.",
+      "raw": "Choices and Tradeoffs Evaluate whether the strategy establishes coherent choices about where to play, how to win, and what not to pursue.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Priorities expand whenever a stakeholder requests work, with no explicit opportunity cost.",
+          "key": -1258471574,
+          "id": "212:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "The strategy avoids difficult choices by labeling every segment, channel, or initiative strategic.",
+          "key": 1825508767,
+          "id": "212:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "The strategy states explicit priorities, exclusions, constraints, and decision principles.",
+          "key": 1797573096,
+          "id": "212:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Funding, staffing, roadmaps, and commercial commitments reflect the stated choices.",
+          "key": 735638428,
+          "id": "212:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Leaders revisit choices when assumptions fail while preserving coherence and explaining consequential changes.",
+          "key": 1265684233,
+          "id": "212:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": 1258167166,
+      "position": 212,
+      "id": 212
+    },
+    {
+      "section": "Assumptions and Evidence",
+      "descriptor": "Evaluate whether critical strategy assumptions are visible, testable, and managed according to uncertainty.",
+      "raw": "Assumptions and Evidence Evaluate whether critical strategy assumptions are visible, testable, and managed according to uncertainty.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Critical assumptions about demand, feasibility, viability, or risk remain implicit.",
+          "key": -1130321956,
+          "id": "213:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Positive evidence is collected without defining what would change or stop the strategy.",
+          "key": -315570652,
+          "id": "213:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Material assumptions, uncertainties, and dependencies are documented.",
+          "key": -1159896527,
+          "id": "213:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "The highest-risk assumptions have discriminating tests, owners, evidence thresholds, and decision dates.",
+          "key": 582257015,
+          "id": "213:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "Strategy confidence is updated transparently using confirming, falsifying, and contradictory evidence.",
+          "key": -1246970144,
+          "id": "213:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -1527645326,
+      "position": 213,
+      "id": 213
+    },
+    {
+      "section": "Execution Coherence and Review",
+      "descriptor": "Evaluate whether the strategy guides coordinated execution and adapts through a disciplined review system.",
+      "raw": "Execution Coherence and Review Evaluate whether the strategy guides coordinated execution and adapts through a disciplined review system.",
+      "number": -1,
+      "entries": [
+        {
+          "score": -1,
+          "descriptor": "Teams cannot explain how current investments connect to product strategy.",
+          "key": -1717416493,
+          "id": "214:0",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": -1,
+          "descriptor": "Strategy reviews focus on activity completion rather than changed outcomes or assumptions.",
+          "key": 1348193667,
+          "id": "214:1",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 1,
+          "descriptor": "Goals, roadmaps, measures, and decision rights trace to strategic choices.",
+          "key": 224742233,
+          "id": "214:2",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 2,
+          "descriptor": "Cross-functional reviews examine outcomes, market change, capability progress, and assumption status.",
+          "key": 189317194,
+          "id": "214:3",
+          "options": "evidenceObserved"
+        },
+        {
+          "score": 3,
+          "descriptor": "The strategy operates as a learning system that reallocates investment and stops work when evidence warrants it.",
+          "key": -634096158,
+          "id": "214:4",
+          "options": "evidenceObserved"
+        }
+      ],
+      "key": -2092838180,
+      "position": 214,
+      "id": 214
+    }
+  ],
+  "sectionScoreDefault": 0,
+  "answerKeys": {
+    "evidenceObserved": {
+      "0": "Not Observed",
+      "1": "Partially Observed",
+      "2": "Consistently Observed",
+      "meta-name": "Observed Evidence",
+      "meta-description": "Three options indicating how consistently the stated condition is supported by evidence during the reference period."
+    }
+  }
+}
