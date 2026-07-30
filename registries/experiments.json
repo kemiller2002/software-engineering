@@ -2,12 +2,18 @@
   {
     "author_agent": "codex",
     "created": "2026-07-29",
+    "depends_on": [
+      "research-partner",
+      "privacy-and-telemetry-review",
+      "preregistration"
+    ],
     "id": "EX-AICODING-2026-2D77",
     "inputs": [
       "real-maintenance-tasks",
       "repository-telemetry",
       "review-rubric"
     ],
+    "maturity": "scoping",
     "outputs": [
       "causal-effect-estimates",
       "moderator-estimates",
@@ -27,12 +33,19 @@
   {
     "author_agent": "codex",
     "created": "2026-07-29",
+    "depends_on": [
+      "MS-MEASURES-2026-4C2A",
+      "MS-SAFEGUARDS-2026-89D1",
+      "MS-BASELINE-2026-E5A7",
+      "EX-HANDOFF-2026-6E42"
+    ],
     "id": "EX-HANDOFF-2026-0D7A",
     "inputs": [
       "paired-task-records",
       "structured-handoffs",
-      "unstructured-status-notes"
+      "conventional-status-notes"
     ],
+    "maturity": "deep-investigation",
     "outputs": [
       "reconstruction-time",
       "plan-correctness",
@@ -49,5 +62,35 @@
       "HY-HANDOFF-2026-6B31"
     ],
     "title": "Controlled handoff reconstruction evaluation"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-30",
+    "depends_on": [
+      "independent-reviewers",
+      "accessibility-preflight-participants",
+      "applicable-ethics-determination"
+    ],
+    "id": "EX-HANDOFF-2026-6E42",
+    "inputs": [
+      "synthetic-response-set",
+      "scoring-rubric",
+      "accessible-study-workspace"
+    ],
+    "maturity": "validation",
+    "outputs": [
+      "reviewer-agreement",
+      "protocol-defects",
+      "accessibility-defects",
+      "fixture-defects"
+    ],
+    "path": "research/experiments/EX-HANDOFF-2026-6E42--rubric-protocol-preflight.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "engineering-handoff",
+    "status": "proposed",
+    "tests_hypotheses": [],
+    "title": "Handoff rubric and protocol preflight"
   }
 ]

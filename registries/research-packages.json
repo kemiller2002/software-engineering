@@ -120,5 +120,46 @@
     "title": "First communication pilot slice selection",
     "updated": "2026-07-29",
     "version": "1.0.0"
+  },
+  {
+    "author_agent": "codex",
+    "completion": "complete",
+    "confidence": "medium",
+    "created": "2026-07-30",
+    "discipline": [
+      "software-engineering",
+      "human-factors",
+      "psychometrics",
+      "decision-science"
+    ],
+    "id": "RP-MEASURES-2026-71B4",
+    "keywords": [
+      "safe continuation",
+      "calibration",
+      "authoring cost",
+      "primary outcome"
+    ],
+    "path": "research/packages/RP-MEASURES-2026-71B4--handoff-outcome-measurement.md",
+    "priority": "high",
+    "related_documents": [
+      "MS-MEASURES-2026-4C2A",
+      "JR-MEASURES-2026-B208",
+      "EX-HANDOFF-2026-0D7A"
+    ],
+    "related_projects": [
+      "software-engineering"
+    ],
+    "research_area": "handoff-measurement",
+    "status": "review",
+    "superseded_by": [],
+    "supersedes": [],
+    "tags": [
+      "measurement",
+      "handoff",
+      "construct-validity"
+    ],
+    "title": "Outcome measurement for handoff reconstruction research",
+    "updated": "2026-07-30",
+    "version": "1.0.1"
   }
 ]

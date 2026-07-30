@@ -22,24 +22,31 @@ superseded_by: []
 
 For a named successor and next task, a handoff that exposes objective, current
 state, rationale, evidence, validation, risks, and exact resumption steps will
-reduce reconstruction time and unanswered material questions without increasing
-incorrect action compared with an unstructured status note.
+increase safe continuation success under a predeclared accessible time policy
+without increasing critical unsafe action compared with the conventional status
+note defined in DF-BASELINE-2026-48C0, and will provide positive lifecycle value
+after authoring and maintenance cost.
 
 ## Predictions
 
-- Median time to a correct continuation plan decreases.
-- Material clarification questions and unsupported assumptions decrease.
+- Safe continuation success increases by a practically meaningful amount.
+- Critical unsafe action and high-confidence incorrect continuation do not
+  increase beyond the preregistered margin.
+- Time among successful recipients decreases or remains acceptable.
+- Material omissions and unsupported assumptions decrease; clarification
+  usefulness improves or remains acceptable.
 - Benefits shrink when the successor already shares the author's context.
 - The intervention does not, by itself, improve social onboarding.
 
 ## Falsification criteria
 
-Reject or narrow the hypothesis if structured handoffs do not improve a
-predeclared composite of correct-plan time, material omissions, and unsafe
-assumptions, or if authoring cost exceeds recovered reconstruction cost.
+Reject or narrow the hypothesis if structured handoffs do not improve
+predeclared safe continuation, increase critical harm, or fail lifecycle-value
+criteria. Do not rescue a failed primary or harm result with a post-hoc
+composite.
 
 ## Current assessment
 
 Active at Medium confidence (0.55); evidence establishes the problem and design
-requirements, not intervention efficacy.
-
+requirements, not intervention efficacy. The confirmatory experiment is blocked
+by preflight, authorization, and final sample-size review.

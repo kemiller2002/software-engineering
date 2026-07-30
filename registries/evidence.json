@@ -210,6 +210,55 @@
     "contradicts": [],
     "created_by_agent": "codex",
     "evidence_type": "primary",
+    "id": "EV-BASELINE-2026-2B6D",
+    "path": "research/evidence/EV-BASELINE-2026-2B6D--intervention-description-fidelity.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "ros-evaluation",
+    "retrieved": "2026-07-30",
+    "source_author": "Tammy Hoffmann and colleagues",
+    "source_date": "2014-03-07",
+    "source_title": "Better reporting of interventions — template for intervention description and replication",
+    "source_uri": "https://doi.org/10.1136/bmj.g1687",
+    "supports": [],
+    "tags": [
+      "baseline",
+      "intervention-fidelity",
+      "replication"
+    ],
+    "title": "Replicable evaluation requires explicit intervention and comparator descriptions"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-BASELINE-2026-A4F8",
+    "path": "research/evidence/EV-BASELINE-2026-A4F8--crossover-carryover-risk.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "ros-evaluation",
+    "retrieved": "2026-07-30",
+    "source_author": "Dieste and colleagues",
+    "source_date": "2017-01-01",
+    "source_title": "Crossover Designs in Software Engineering Experiments — Benefits and Perils",
+    "source_uri": "https://doi.org/10.1109/TSE.2015.2467378",
+    "supports": [],
+    "tags": [
+      "experimental-design",
+      "crossover",
+      "carryover",
+      "learning"
+    ],
+    "title": "Crossover software experiments trade participant control for learning and carryover risk"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
     "id": "EV-BOUNDARY-2026-01D3",
     "path": "research/evidence/EV-BOUNDARY-2026-01D3--shannon-syntactic-transmission.md",
     "related_theories": [],
@@ -652,6 +701,80 @@
     "confidence": "high",
     "contradicts": [],
     "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-MEASURES-2026-11AF",
+    "path": "research/evidence/EV-MEASURES-2026-11AF--productivity-is-multidimensional.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "handoff-measurement",
+    "retrieved": "2026-07-30",
+    "source_author": "Nicole Forsgren, Margaret-Anne Storey, Chandra Maddila, Tom Zimmermann, Brian Houck, and Jenna Butler",
+    "source_date": "2021-02-01",
+    "source_title": "The SPACE of Developer Productivity",
+    "source_uri": "https://www.microsoft.com/en-us/research/publication/the-space-of-developer-productivity-theres-more-to-it-than-you-think/",
+    "supports": [],
+    "tags": [
+      "measurement",
+      "productivity",
+      "construct-validity"
+    ],
+    "title": "Developer productivity cannot be represented by one activity or efficiency metric"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-MEASURES-2026-5C7E",
+    "path": "research/evidence/EV-MEASURES-2026-5C7E--comprehension-time-correctness-moderators.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "handoff-measurement",
+    "retrieved": "2026-07-30",
+    "source_author": "Chak Shun Yu, Christoph Treude, and Maurício Aniche",
+    "source_date": "2019-07-31",
+    "source_title": "Comprehending Test Code - An Empirical Study",
+    "source_uri": "https://arxiv.org/abs/1907.13365",
+    "supports": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "tags": [
+      "comprehension",
+      "measurement",
+      "expertise"
+    ],
+    "title": "Comprehension studies separate time correctness and executable extension"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "secondary",
+    "id": "EV-MEASURES-2026-9D30",
+    "path": "research/evidence/EV-MEASURES-2026-9D30--handoff-outcomes-cross-levels.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "handoff-measurement",
+    "retrieved": "2026-07-30",
+    "source_author": "Joseph R. Keebler and colleagues",
+    "source_date": "2016-12-01",
+    "source_title": "Meta-Analyses of the Effects of Standardized Handoff Protocols",
+    "source_uri": "https://doi.org/10.1177/0018720816672309",
+    "supports": [],
+    "tags": [
+      "handoff",
+      "meta-analysis",
+      "multilevel-outcomes"
+    ],
+    "title": "Handoff effects must be assessed across recipient system and organizational outcomes"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
     "evidence_type": "secondary",
     "id": "EV-REQ-2026-48A0",
     "path": "research/evidence/EV-REQ-2026-48A0--ambiguity-evidence-gap.md",
@@ -719,6 +842,77 @@
       "collaboration"
     ],
     "title": "Commit-message quality is a situated collaborative communication problem"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-SAFEGUARDS-2026-3A91",
+    "path": "research/evidence/EV-SAFEGUARDS-2026-3A91--privacy-risk-management.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "handoff-safeguards",
+    "retrieved": "2026-07-30",
+    "source_author": "National Institute of Standards and Technology",
+    "source_date": "2025-04-14",
+    "source_title": "NIST Privacy Framework",
+    "source_uri": "https://www.nist.gov/privacy-framework",
+    "supports": [],
+    "tags": [
+      "privacy",
+      "data-flow",
+      "risk-management"
+    ],
+    "title": "Privacy controls should follow an explicit map of data processing and individual risk"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-SAFEGUARDS-2026-64C2",
+    "path": "research/evidence/EV-SAFEGUARDS-2026-64C2--human-research-ethics.md",
+    "related_theories": [],
+    "research_area": "handoff-safeguards",
+    "retrieved": "2026-07-30",
+    "source_author": "National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research",
+    "source_date": "1979-04-18",
+    "source_title": "The Belmont Report",
+    "source_uri": "https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html",
+    "supports": [],
+    "tags": [
+      "research-ethics",
+      "consent",
+      "justice",
+      "beneficence"
+    ],
+    "title": "Human research requires consent risk-benefit assessment and equitable selection"
+  },
+  {
+    "confidence": "high",
+    "contradicts": [],
+    "created_by_agent": "codex",
+    "evidence_type": "primary",
+    "id": "EV-SAFEGUARDS-2026-D8E5",
+    "path": "research/evidence/EV-SAFEGUARDS-2026-D8E5--timing-accessibility.md",
+    "related_theories": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "research_area": "handoff-safeguards",
+    "retrieved": "2026-07-30",
+    "source_author": "W3C Accessibility Guidelines Working Group",
+    "source_date": "2024-10-05",
+    "source_title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+    "source_uri": "https://www.w3.org/TR/WCAG22/",
+    "supports": [],
+    "tags": [
+      "accessibility",
+      "timing",
+      "assistive-technology"
+    ],
+    "title": "Uniform time limits can create accessibility barriers"
   },
   {
     "confidence": "high",

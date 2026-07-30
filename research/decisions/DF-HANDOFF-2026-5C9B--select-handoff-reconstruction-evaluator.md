@@ -24,7 +24,7 @@ data.
 
 Build and evaluate a minimal handoff reconstruction evaluator: given a named
 successor, next task, and handoff artifact, it produces a rubric/check result
-and supports a blinded comparison against an unstructured note.
+  and supports a blinded comparison against a conventional status note.
 
 ## Alternatives
 
@@ -43,9 +43,10 @@ EV-HANDOFF-2026-73D4, and counterevidence EV-HANDOFF-2026-B6E8.
 
 ## Consequences
 
-The first user is a successor resuming a repository task. The first outcome is
-faster correct reconstruction with fewer material omissions and unsafe
-assumptions. This does not validate “Communication Engineering” as a discipline.
+The first user is a successor resuming a repository task. The primary outcome is
+safe continuation under a predeclared accessible time policy, with critical
+harm and lifecycle cost assessed separately. This does not validate
+“Communication Engineering” as a discipline or ROS as a whole.
 
 ## Reversibility
 

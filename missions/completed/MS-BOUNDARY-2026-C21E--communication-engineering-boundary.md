@@ -2,6 +2,7 @@
 id: MS-BOUNDARY-2026-C21E
 title: Test the boundary and utility of Communication Engineering
 status: completed
+maturity: synthesis
 artifact_tier: full-rep
 priority: high
 research_area: discipline-boundary

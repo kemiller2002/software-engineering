@@ -1,0 +1,81 @@
+{
+  "section": "Agile Leadership & Management",
+  "descriptor": "Evaluate whether leaders create clear boundaries, enable team autonomy, remove systemic constraints, and learn from outcomes.",
+  "raw": "Agile Leadership & Management Evaluate whether leaders create clear boundaries, enable team autonomy, remove systemic constraints, and learn from outcomes.",
+  "number": -1,
+  "entries": [
+    {
+      "score": -1,
+      "descriptor": "Leaders prioritize command-and-control practices and discourage autonomy.",
+      "key": 848150494,
+      "id": "101:0",
+      "options": "yesNoInProgress"
+    },
+    {
+      "score": -1,
+      "descriptor": "Leaders are not actively involved in agile practices and rarely attend team ceremonies.",
+      "key": 3887945629,
+      "id": "101:1",
+      "options": "yesNoInProgress"
+    },
+    {
+      "score": 1,
+      "descriptor": "Leaders verbally support agile but continue to reward traditional metrics like utilization.",
+      "key": 50577107,
+      "id": "101:2",
+      "options": "yesNoInProgress"
+    },
+    {
+      "score": 1,
+      "descriptor": "Managers make most key decisions, with limited team input.",
+      "key": 1715187454,
+      "id": "101:3",
+      "options": "yesNoInProgress"
+    },
+    {
+      "score": 2,
+      "descriptor": "Leaders empower teams to self-organize and make decisions within their domain.",
+      "key": 3586927825,
+      "id": "101:4",
+      "options": "yesNoInProgress"
+    },
+    {
+      "score": 2,
+      "descriptor": "Leadership encourages experimentation and tolerates failure as part of learning.",
+      "key": 668237925,
+      "id": "101:5",
+      "options": "yesNoInProgress"
+    },
+    {
+      "score": 2,
+      "descriptor": "Goals, performance systems, and incentives reward customer outcomes, collaboration, learning, and sustainable delivery.",
+      "key": 4190603313,
+      "id": "101:6",
+      "options": "yesNoInProgress"
+    },
+    {
+      "score": 3,
+      "descriptor": "Leaders remove systemic constraints, clarify decision boundaries, and build team capability.",
+      "key": 1099199179,
+      "id": "101:7",
+      "options": "yesNoInProgress"
+    },
+    {
+      "score": 3,
+      "descriptor": "Leaders actively coach others on agile principles and foster cross-team collaboration.",
+      "key": 127748908,
+      "id": "101:8",
+      "options": "yesNoInProgress"
+    },
+    {
+      "score": 3,
+      "descriptor": "Leaders use feedback, reflection, and observed outcomes to improve how they enable the organization.",
+      "key": 3054895492,
+      "id": "101:9",
+      "options": "yesNoInProgress"
+    }
+  ],
+  "key": 689879758,
+  "position": 101,
+  "id": 101
+}

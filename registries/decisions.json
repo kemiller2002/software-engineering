@@ -1,5 +1,25 @@
 [
   {
+    "confidence": "medium",
+    "created": "2026-07-30",
+    "id": "DF-BASELINE-2026-48C0",
+    "path": "research/decisions/DF-BASELINE-2026-48C0--select-conventional-handoff-control.md",
+    "related_documents": [
+      "JR-BASELINE-2026-C61E",
+      "RP-MEASURES-2026-71B4",
+      "EX-HANDOFF-2026-0D7A"
+    ],
+    "research_area": "ros-evaluation",
+    "status": "review",
+    "tags": [
+      "baseline",
+      "comparator",
+      "decision-record"
+    ],
+    "title": "Select a conventional status note as the handoff artifact control",
+    "updated": "2026-07-30"
+  },
+  {
     "confidence": "high",
     "created": "2026-07-29",
     "id": "DF-BOUNDARY-2026-3F72",

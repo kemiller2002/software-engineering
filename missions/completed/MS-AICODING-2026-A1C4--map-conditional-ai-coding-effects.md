@@ -2,6 +2,7 @@
 id: MS-AICODING-2026-A1C4
 title: Map conditional effects of AI coding assistance
 status: completed
+maturity: synthesis
 artifact_tier: full-rep
 priority: high
 research_area: ai-assisted-development
@@ -94,4 +95,3 @@ the highest-value discriminating test is specified.
 
 Completed on 2026-07-29. Outputs exist; `./ros registry build` and
 `./ros validate` are the required final checks.
-

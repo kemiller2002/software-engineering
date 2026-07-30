@@ -2,9 +2,9 @@
 id: PILOT-MEASUREMENT-software-engineering
 title: Software Engineering ROS Pilot Measurement Plan
 status: draft
-version: 0.1.0
+version: 0.2.0
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-07-30
 ---
 
 # Software Engineering ROS pilot measurement plan
@@ -31,6 +31,13 @@ differences that prevent direct comparison.
 | Handoff reconstruction | Time and missing questions for a new operator to continue | handoff test |
 | Operating overhead | Time spent maintaining ROS-specific artifacts and checks | continuous |
 | Outcome quality | Slice-specific user or system acceptance measures | milestone |
+
+For the handoff slice, use RP-MEASURES-2026-71B4: safe continuation success
+under a predeclared accessible time policy is the provisional primary outcome. Critical unsafe action
+or high-confidence materially incorrect continuation is a separate
+non-inferiority gate. Report time only among successful continuations, and
+retain authoring, review, maintenance, interruption, and rework costs separately
+rather than collapsing them into a post-hoc composite.
 
 ## Falsification conditions
 

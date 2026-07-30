@@ -14,6 +14,19 @@ Newly initialized with Repository Operating System 1.0.0.
 - The twelve-body boundary analysis is complete in review. It rejects a distinct
   “Communication Engineering” discipline and retains only an unvalidated
   experimental software communication-assurance profile.
+- The handoff outcome-measurement mission is complete in review. Reconstruction
+  time alone was rejected. RP-MEASURES-2026-71B4 specifies safe continuation
+  success as the provisional primary outcome, with separate critical-harm and
+  lifecycle-cost gates.
+- Safeguard design is complete. It prohibits production/private fixtures,
+  continuous behavioral telemetry, performance-management reuse, and
+  self-certified ethics exemption. External authorization and participatory
+  accessibility gates remain.
+- The baseline mission selected a competent conventional status note and
+  separated artifact efficacy from whole-ROS attribution.
+- Preregistration is active. A small bounded pilot is now classified as
+  feasibility/rubric preflight, not confirmatory efficacy: a simple 10-point
+  success-rate scenario would require roughly 388 recipients per arm.
 
 ## Assumptions
 
@@ -21,15 +34,18 @@ Newly initialized with Repository Operating System 1.0.0.
 
 ## Active work
 
-Review `RP-AICODING-2026-B7E2`, `RP-HANDOFF-2026-A8E1`, and
-`RP-BOUNDARY-2026-5A7C`; preregister the handoff experiment before implementation.
+Complete the unchecked gates in `MS-PREREG-2026-6B9F`, beginning with
+`EX-HANDOFF-2026-6E42`. Independently review four completed REPs and three
+Decision Records.
 
 ## Largest decision-relevant unknown
 
-Does the selected structured-handoff intervention improve lifecycle-adjusted
-continuation enough to justify authoring cost and avoid false confidence?
+Can independent reviewers score safe continuation reliably, and can the
+protocol pass direct accessibility, ethics, data-stewardship, and statistical
+review?
 
 ## Baseline
 
-Not yet recorded. Define how the same slice would be approached without ROS and
-which comparison measures are feasible.
+Recorded in JR-BASELINE-2026-C61E and DF-BASELINE-2026-48C0. The artifact
+control is a competent conventional status note under otherwise shared
+conditions. This is not a whole-ROS baseline.

@@ -9,6 +9,7 @@
       "economics"
     ],
     "id": "MS-AICODING-2026-A1C4",
+    "maturity": "synthesis",
     "outputs": [
       "research/packages/RP-AICODING-2026-B7E2--conditional-effects-of-ai-coding-assistance.md",
       "research/journals/JR-AICODING-2026-91AF--initial-evidence-synthesis.md"
@@ -29,6 +30,51 @@
     "title": "Map conditional effects of AI coding assistance"
   },
   {
+    "artifact_tier": "research-cycle",
+    "child_questions": [
+      "What is the credible non-ROS workflow?",
+      "Which differences make the comparison unfair?"
+    ],
+    "confidence": "medium",
+    "contradicting_evidence": [],
+    "created": "2026-07-30",
+    "depends_on": [
+      "MS-MEASURES-2026-4C2A"
+    ],
+    "discipline": [
+      "software-engineering",
+      "experimental-design"
+    ],
+    "enables": [
+      "MS-PREREG-2026-6B9F"
+    ],
+    "id": "MS-BASELINE-2026-E5A7",
+    "maturity": "synthesis",
+    "outputs": [
+      "research/journals/JR-BASELINE-2026-C61E--handoff-and-ros-baselines.md",
+      "research/decisions/DF-BASELINE-2026-48C0--select-conventional-handoff-control.md"
+    ],
+    "owner_agent": "codex",
+    "parent_questions": [
+      "PILOT-MEASUREMENT-software-engineering"
+    ],
+    "path": "missions/completed/MS-BASELINE-2026-E5A7--ros-pilot-baseline.md",
+    "portfolio_rank": 3,
+    "priority": "high",
+    "related_research": [
+      "docs/PILOT-MEASUREMENT-PLAN.md",
+      "MS-MEASURES-2026-4C2A"
+    ],
+    "remaining_uncertainty": "Whether the conventional-note proxy is ecologically credible and whether whole-ROS attribution is feasible.",
+    "repositories_impacted": [
+      "software-engineering"
+    ],
+    "research_area": "ros-evaluation",
+    "status": "completed",
+    "supporting_evidence": [],
+    "title": "Preregister the lightweight comparison baseline for the ROS pilot"
+  },
+  {
     "artifact_tier": "full-rep",
     "created": "2026-07-29",
     "depends_on": [],
@@ -39,6 +85,7 @@
       "systems-engineering"
     ],
     "id": "MS-BOUNDARY-2026-C21E",
+    "maturity": "synthesis",
     "outputs": [
       "research/packages/RP-BOUNDARY-2026-5A7C--communication-engineering-boundary.md",
       "research/roadmaps/communication-engineering-body-of-work-analysis.md"
@@ -66,6 +113,7 @@
       "human-computer-interaction"
     ],
     "id": "MS-HANDOFF-2026-D4A8",
+    "maturity": "synthesis",
     "outputs": [
       "research/packages/RP-HANDOFF-2026-A8E1--first-pilot-slice-selection.md",
       "research/decisions/DF-HANDOFF-2026-5C9B--select-handoff-reconstruction-evaluator.md"
@@ -84,5 +132,283 @@
     "research_area": "engineering-handoff",
     "status": "completed",
     "title": "Select the first measurable communication pilot slice"
+  },
+  {
+    "artifact_tier": "full-rep",
+    "child_questions": [
+      "Which outcomes predict actual continuation rather than documentation quality?",
+      "How should authoring cost and false confidence enter the decision rule?"
+    ],
+    "confidence": "medium",
+    "contradicting_evidence": [
+      "EV-SAFETY-2026-7EA2",
+      "EV-HANDOFF-2026-B6E8"
+    ],
+    "created": "2026-07-30",
+    "depends_on": [],
+    "discipline": [
+      "software-engineering",
+      "psychometrics",
+      "human-factors",
+      "decision-science"
+    ],
+    "enables": [
+      "MS-PREREG-2026-6B9F",
+      "MS-BASELINE-2026-E5A7"
+    ],
+    "id": "MS-MEASURES-2026-4C2A",
+    "maturity": "synthesis",
+    "outputs": [
+      "research/packages/RP-MEASURES-2026-71B4--handoff-outcome-measurement.md"
+    ],
+    "owner_agent": "codex",
+    "parent_questions": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "path": "missions/completed/MS-MEASURES-2026-4C2A--handoff-outcome-measures.md",
+    "portfolio_rank": 1,
+    "priority": "high",
+    "related_research": [
+      "RP-HANDOFF-2026-A8E1",
+      "EX-HANDOFF-2026-0D7A"
+    ],
+    "remaining_uncertainty": "Whether independent reviewers can score safe continuation reliably.",
+    "repositories_impacted": [
+      "software-engineering"
+    ],
+    "research_area": "handoff-measurement",
+    "status": "completed",
+    "supporting_evidence": [
+      "EV-MAINT-2026-0A52",
+      "EV-SAFETY-2026-19D5",
+      "EV-SYSTEMS-2026-A730"
+    ],
+    "title": "Define valid outcomes for handoff reconstruction research"
+  },
+  {
+    "artifact_tier": "full-rep",
+    "child_questions": [
+      "What treatment components are causal?",
+      "Does benefit exceed authoring and maintenance cost?"
+    ],
+    "confidence": "medium",
+    "contradicting_evidence": [
+      "EV-SAFETY-2026-7EA2",
+      "EV-COG-2026-27F1"
+    ],
+    "created": "2026-07-30",
+    "depends_on": [
+      "EX-HANDOFF-2026-6E42"
+    ],
+    "discipline": [
+      "software-engineering",
+      "experimental-design",
+      "human-factors"
+    ],
+    "enables": [
+      "EX-HANDOFF-2026-0D7A"
+    ],
+    "id": "MS-PREREG-2026-6B9F",
+    "maturity": "deep-investigation",
+    "outputs": [
+      "research/experiments/EX-HANDOFF-2026-0D7A--reconstruction-evaluation.md"
+    ],
+    "owner_agent": "codex",
+    "parent_questions": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "path": "missions/active/MS-PREREG-2026-6B9F--handoff-experiment-preregistration.md",
+    "portfolio_rank": 1,
+    "priority": "high",
+    "related_research": [
+      "EX-HANDOFF-2026-0D7A"
+    ],
+    "remaining_uncertainty": "Final sample size, rubric reliability, ethics authorization, accessibility preflight, and practical harm threshold.",
+    "repositories_impacted": [
+      "software-engineering"
+    ],
+    "research_area": "handoff-experiment",
+    "status": "active",
+    "supporting_evidence": [
+      "EV-MAINT-2026-0A52",
+      "EV-SAFETY-2026-19D5"
+    ],
+    "title": "Preregister the controlled handoff reconstruction experiment"
+  },
+  {
+    "artifact_tier": "research-cycle",
+    "child_questions": [
+      "Are source selection, dispositions, confidence, and scope defensible?"
+    ],
+    "confidence": "low",
+    "contradicting_evidence": [],
+    "created": "2026-07-30",
+    "depends_on": [],
+    "discipline": [
+      "empirical-software-engineering",
+      "research-methods"
+    ],
+    "enables": [],
+    "id": "MS-REVIEW-2026-7A31",
+    "maturity": "validation",
+    "outputs": [
+      "research/journals/JR-REVIEW-2026-PLACEHOLDER--independent-review.md"
+    ],
+    "owner_agent": "unassigned-independent-reviewer",
+    "parent_questions": [
+      "RP-AICODING-2026-B7E2",
+      "RP-HANDOFF-2026-A8E1",
+      "RP-BOUNDARY-2026-5A7C",
+      "RP-MEASURES-2026-71B4"
+    ],
+    "path": "missions/backlog/MS-REVIEW-2026-7A31--independent-research-review.md",
+    "portfolio_rank": 3,
+    "priority": "high",
+    "related_research": [
+      "DF-HANDOFF-2026-5C9B",
+      "DF-BOUNDARY-2026-3F72",
+      "DF-BASELINE-2026-48C0"
+    ],
+    "remaining_uncertainty": "Whether completed packages survive independent challenge.",
+    "repositories_impacted": [
+      "software-engineering"
+    ],
+    "research_area": "research-quality",
+    "status": "proposed",
+    "supporting_evidence": [],
+    "title": "Independently review completed research and decisions"
+  },
+  {
+    "artifact_tier": "full-rep",
+    "child_questions": [
+      "Does ROS improve decisions handoffs and rework net of total operating cost?",
+      "Which ROS components cause benefit or burden?"
+    ],
+    "confidence": "low",
+    "contradicting_evidence": [],
+    "created": "2026-07-30",
+    "depends_on": [
+      "first-handoff-pilot-milestone"
+    ],
+    "discipline": [
+      "software-engineering",
+      "causal-inference",
+      "organizational-research"
+    ],
+    "enables": [
+      "ros-adoption-decision"
+    ],
+    "id": "MS-ROSATTRIB-2026-31D9",
+    "maturity": "idea",
+    "outputs": [
+      "research/packages/RP-ROSATTRIB-2026-PLACEHOLDER--prospective-ros-attribution.md"
+    ],
+    "owner_agent": "unassigned",
+    "parent_questions": [
+      "PILOT-MEASUREMENT-software-engineering"
+    ],
+    "path": "missions/backlog/MS-ROSATTRIB-2026-31D9--prospective-ros-attribution.md",
+    "portfolio_rank": 4,
+    "priority": "medium",
+    "related_research": [
+      "JR-BASELINE-2026-C61E",
+      "docs/PILOT-MEASUREMENT-PLAN.md"
+    ],
+    "remaining_uncertainty": "Whether a credible project-level counterfactual is feasible.",
+    "repositories_impacted": [
+      "software-engineering"
+    ],
+    "research_area": "ros-evaluation",
+    "status": "proposed",
+    "supporting_evidence": [],
+    "title": "Design a prospective whole-ROS attribution study"
+  },
+  {
+    "artifact_tier": "research-cycle",
+    "child_questions": [
+      "What data can be collected without sensitive source or behavioral surveillance?",
+      "Which participant and accessibility risks require protocol changes?"
+    ],
+    "confidence": "medium",
+    "contradicting_evidence": [],
+    "created": "2026-07-30",
+    "depends_on": [],
+    "discipline": [
+      "privacy",
+      "security",
+      "accessibility",
+      "research-ethics"
+    ],
+    "enables": [
+      "MS-PREREG-2026-6B9F"
+    ],
+    "id": "MS-SAFEGUARDS-2026-89D1",
+    "maturity": "synthesis",
+    "outputs": [
+      "research/journals/JR-SAFEGUARDS-2026-7F14--handoff-study-safeguards.md"
+    ],
+    "owner_agent": "codex",
+    "parent_questions": [
+      "EX-HANDOFF-2026-0D7A"
+    ],
+    "path": "missions/completed/MS-SAFEGUARDS-2026-89D1--handoff-research-safeguards.md",
+    "portfolio_rank": 1,
+    "priority": "high",
+    "related_research": [
+      "JR-A11Y-2026-CA09",
+      "RP-HANDOFF-2026-A8E1"
+    ],
+    "remaining_uncertainty": "Whether the actual study context receives ethics approval and passes participatory accessibility preflight.",
+    "repositories_impacted": [
+      "software-engineering"
+    ],
+    "research_area": "handoff-safeguards",
+    "status": "completed",
+    "supporting_evidence": [
+      "EV-A11Y-2026-58E0"
+    ],
+    "title": "Define privacy security accessibility and ethics safeguards for the handoff pilot"
+  },
+  {
+    "artifact_tier": "research-cycle",
+    "child_questions": [
+      "Does the label improve method discovery?",
+      "Does it cause disciplinary overclaiming or conceptual substitution?"
+    ],
+    "confidence": "very-low",
+    "contradicting_evidence": [],
+    "created": "2026-07-30",
+    "depends_on": [],
+    "discipline": [
+      "information-retrieval",
+      "cognitive-psychology",
+      "science-of-science"
+    ],
+    "enables": [],
+    "id": "MS-TERMS-2026-0F4D",
+    "maturity": "idea",
+    "outputs": [
+      "research/journals/JR-TERMS-2026-PLACEHOLDER--terminology-effects.md"
+    ],
+    "owner_agent": "unassigned",
+    "parent_questions": [
+      "DF-BOUNDARY-2026-3F72"
+    ],
+    "path": "missions/backlog/MS-TERMS-2026-0F4D--terminology-confusion-test.md",
+    "portfolio_rank": 7,
+    "priority": "low",
+    "related_research": [
+      "research/roadmaps/communication-engineering-body-of-work-analysis.md"
+    ],
+    "remaining_uncertainty": "Whether the proposed label has any positive information value.",
+    "repositories_impacted": [
+      "software-engineering"
+    ],
+    "research_area": "terminology-effects",
+    "status": "proposed",
+    "supporting_evidence": [
+      "RP-BOUNDARY-2026-5A7C"
+    ],
+    "title": "Test whether the integration-profile label improves or harms decisions"
   }
 ]

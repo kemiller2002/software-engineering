@@ -2,6 +2,7 @@
 id: MS-HANDOFF-2026-D4A8
 title: Select the first measurable communication pilot slice
 status: completed
+maturity: synthesis
 artifact_tier: full-rep
 priority: high
 research_area: engineering-handoff
@@ -41,4 +42,3 @@ counterevidence, and stopping rules.
 
 Completed through RP-HANDOFF-2026-A8E1 and DF-HANDOFF-2026-5C9B. The decision is
 provisional until the pilot's acceptance test is preregistered.
-

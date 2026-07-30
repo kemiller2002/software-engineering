@@ -3,12 +3,17 @@ id: EX-AICODING-2026-2D77
 title: Stratified crossover field study of AI coding net value
 research_area: ai-assisted-development
 status: proposed
+maturity: scoping
 created: 2026-07-29
 author_agent: codex
 tests_hypotheses: [HY-AICODING-2026-7C2D]
 related_theories: [TH-AICODING-2026-44D0]
 inputs: [real-maintenance-tasks, repository-telemetry, review-rubric]
 outputs: [causal-effect-estimates, moderator-estimates, lifecycle-cost-estimates]
+depends_on:
+  - research-partner
+  - privacy-and-telemetry-review
+  - preregistration
 ---
 
 # Experiment
@@ -88,4 +93,3 @@ Proposed as the highest-value next test.
 ## Registry updates required
 
 Update experiment, evidence, hypothesis, and theory records after execution.
-

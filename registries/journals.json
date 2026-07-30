@@ -80,6 +80,34 @@
   },
   {
     "author_agent": "codex",
+    "created": "2026-07-30",
+    "evidence_ids": [
+      "EV-BASELINE-2026-2B6D",
+      "EV-BASELINE-2026-A4F8",
+      "EV-MEASURES-2026-11AF",
+      "EV-SAFEGUARDS-2026-3A91"
+    ],
+    "hypothesis_ids": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "id": "JR-BASELINE-2026-C61E",
+    "path": "research/journals/JR-BASELINE-2026-C61E--handoff-and-ros-baselines.md",
+    "related_mission": "MS-BASELINE-2026-E5A7",
+    "related_package": "RP-MEASURES-2026-71B4",
+    "research_area": "ros-evaluation",
+    "tags": [
+      "baseline",
+      "comparator",
+      "estimand",
+      "attribution"
+    ],
+    "theory_ids": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "title": "Handoff artifact and ROS portfolio baseline design"
+  },
+  {
+    "author_agent": "codex",
     "created": "2026-07-29",
     "evidence_ids": [
       "EV-BOUNDARY-2026-01D3",
@@ -258,6 +286,36 @@
   },
   {
     "author_agent": "codex",
+    "created": "2026-07-30",
+    "evidence_ids": [
+      "EV-MEASURES-2026-11AF",
+      "EV-MEASURES-2026-5C7E",
+      "EV-MEASURES-2026-9D30",
+      "EV-MAINT-2026-0A52",
+      "EV-SAFETY-2026-19D5",
+      "EV-SAFETY-2026-7EA2",
+      "EV-SYSTEMS-2026-A730"
+    ],
+    "hypothesis_ids": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "id": "JR-MEASURES-2026-B208",
+    "path": "research/journals/JR-MEASURES-2026-B208--handoff-measurement-design.md",
+    "related_mission": "MS-MEASURES-2026-4C2A",
+    "related_package": "RP-MEASURES-2026-71B4",
+    "research_area": "handoff-measurement",
+    "tags": [
+      "measurement",
+      "construct-validity",
+      "handoff"
+    ],
+    "theory_ids": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "title": "Handoff outcome measurement design"
+  },
+  {
+    "author_agent": "codex",
     "created": "2026-07-29",
     "evidence_ids": [
       "EV-REQ-2026-48A0",
@@ -300,6 +358,35 @@
     ],
     "theory_ids": [],
     "title": "Rhetoric and discourse body-of-work analysis"
+  },
+  {
+    "author_agent": "codex",
+    "created": "2026-07-30",
+    "evidence_ids": [
+      "EV-SAFEGUARDS-2026-3A91",
+      "EV-SAFEGUARDS-2026-64C2",
+      "EV-SAFEGUARDS-2026-D8E5",
+      "EV-A11Y-2026-58E0"
+    ],
+    "hypothesis_ids": [
+      "HY-HANDOFF-2026-6B31"
+    ],
+    "id": "JR-SAFEGUARDS-2026-7F14",
+    "path": "research/journals/JR-SAFEGUARDS-2026-7F14--handoff-study-safeguards.md",
+    "related_mission": "MS-SAFEGUARDS-2026-89D1",
+    "related_package": "RP-MEASURES-2026-71B4",
+    "research_area": "handoff-safeguards",
+    "tags": [
+      "safeguards",
+      "privacy",
+      "security",
+      "accessibility",
+      "research-ethics"
+    ],
+    "theory_ids": [
+      "TH-HANDOFF-2026-81C0"
+    ],
+    "title": "Handoff study safeguards and data boundary"
   },
   {
     "author_agent": "codex",
