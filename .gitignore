@@ -16,6 +16,11 @@ venv/
 # Node
 node_modules/
 
+# Research publisher output
+.research-publisher/
+build-reports/
+dist/
+
 # Generated transient work
 work/staging/*
 work/review/*
