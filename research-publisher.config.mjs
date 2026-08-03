@@ -1,7 +1,7 @@
 export default {
   site: {
-    title: "Visual Engineering Research",
-    description: "Searchable visual engineering research repository",
+    title: "Software Engineering Research",
+    description: "Searchable software engineering research repository",
     baseUrl: "/",
     language: "en",
     siteUrl: "https://software.echelonfoundry.com/",
